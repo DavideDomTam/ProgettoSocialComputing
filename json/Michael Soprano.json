@@ -1,0 +1,46 @@
+{
+    "search_metadata": {
+        "id": "65675f53359e9961d2f6e740",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/2a927c1d21d70cf7/65675f53359e9961d2f6e740.json",
+        "created_at": "2023-11-29 15:57:07 UTC",
+        "processed_at": "2023-11-29 15:57:07 UTC",
+        "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Michael+Soprano&view_op=search_authors&hl=en",
+        "raw_html_file": "https://serpapi.com/searches/2a927c1d21d70cf7/65675f53359e9961d2f6e740.html",
+        "total_time_taken": 0.87
+    },
+    "search_parameters": {
+        "engine": "google_scholar_profiles",
+        "mauthors": "Michael Soprano",
+        "hl": "en"
+    },
+    "profiles": [
+        {
+            "name": "Michael Soprano",
+            "link": "https://scholar.google.com/citations?hl=en&user=ocK0qRUAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=ocK0qRUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ocK0qRUAAAAJ",
+            "affiliations": "Postdoctoral Research Fellow at the University of Udine",
+            "email": "Verified email at uniud.it",
+            "cited_by": 211,
+            "interests": [
+                {
+                    "title": "Crowdsourcing",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acrowdsourcing",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:crowdsourcing"
+                },
+                {
+                    "title": "Misinformation Assessment",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amisinformation_assessment",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:misinformation_assessment"
+                },
+                {
+                    "title": "Cognitive Biases",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acognitive_biases",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:cognitive_biases"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=ocK0qRUAAAAJ&citpid=2"
+        }
+    ]
+}

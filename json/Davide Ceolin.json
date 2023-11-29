@@ -1,0 +1,56 @@
+{
+    "search_metadata": {
+        "id": "65675f55fa86757ba53fd530",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/1f8f5a107af2ef1b/65675f55fa86757ba53fd530.json",
+        "created_at": "2023-11-29 15:57:09 UTC",
+        "processed_at": "2023-11-29 15:57:09 UTC",
+        "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Davide+Ceolin&view_op=search_authors&hl=en",
+        "raw_html_file": "https://serpapi.com/searches/1f8f5a107af2ef1b/65675f55fa86757ba53fd530.html",
+        "total_time_taken": 1.23
+    },
+    "search_parameters": {
+        "engine": "google_scholar_profiles",
+        "mauthors": "Davide Ceolin",
+        "hl": "en"
+    },
+    "profiles": [
+        {
+            "name": "Davide Ceolin",
+            "link": "https://scholar.google.com/citations?hl=en&user=y8Jy518AAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=y8Jy518AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "y8Jy518AAAAJ",
+            "affiliations": "Tenured Researcher, CWI Amsterdam",
+            "email": "Verified email at cwi.nl",
+            "cited_by": 498,
+            "interests": [
+                {
+                    "title": "Information Quality",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ainformation_quality",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:information_quality"
+                },
+                {
+                    "title": "Trust",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Atrust",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:trust"
+                },
+                {
+                    "title": "Semantic Web",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Asemantic_web",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:semantic_web"
+                },
+                {
+                    "title": "Probabilistic Logic",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aprobabilistic_logic",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:probabilistic_logic"
+                },
+                {
+                    "title": "Provenance",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aprovenance",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:provenance"
+                }
+            ],
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        }
+    ]
+}
