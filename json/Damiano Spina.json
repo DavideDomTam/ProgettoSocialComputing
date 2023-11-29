@@ -1,13 +1,13 @@
 {
     "search_metadata": {
-        "id": "65676f3a216a9d0325b43a24",
+        "id": "656778b59bddf70d3b001fb6",
         "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/6e3e997fbac12d9e/65676f3a216a9d0325b43a24.json",
-        "created_at": "2023-11-29 17:04:58 UTC",
-        "processed_at": "2023-11-29 17:04:58 UTC",
+        "json_endpoint": "https://serpapi.com/searches/fe1e3dde2097c171/656778b59bddf70d3b001fb6.json",
+        "created_at": "2023-11-29 17:45:25 UTC",
+        "processed_at": "2023-11-29 17:45:25 UTC",
         "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Damiano+Spina&view_op=search_authors&hl=en",
-        "raw_html_file": "https://serpapi.com/searches/6e3e997fbac12d9e/65676f3a216a9d0325b43a24.html",
-        "total_time_taken": 1.42
+        "raw_html_file": "https://serpapi.com/searches/fe1e3dde2097c171/656778b59bddf70d3b001fb6.html",
+        "total_time_taken": 0.93
     },
     "search_parameters": {
         "engine": "google_scholar_profiles",
