@@ -1,13 +1,13 @@
 {
     "search_metadata": {
-        "id": "65675afd359e996139ead0dc",
+        "id": "65677585d04d6db9fc89381b",
         "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/dd4d4a53a5768782/65675afd359e996139ead0dc.json",
-        "created_at": "2023-11-29 15:38:37 UTC",
-        "processed_at": "2023-11-29 15:38:37 UTC",
+        "json_endpoint": "https://serpapi.com/searches/94c51138563836a6/65677585d04d6db9fc89381b.json",
+        "created_at": "2023-11-29 17:31:49 UTC",
+        "processed_at": "2023-11-29 17:31:49 UTC",
         "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Kevin+Roitero&view_op=search_authors&hl=en",
-        "raw_html_file": "https://serpapi.com/searches/dd4d4a53a5768782/65675afd359e996139ead0dc.html",
-        "total_time_taken": 1.23
+        "raw_html_file": "https://serpapi.com/searches/94c51138563836a6/65677585d04d6db9fc89381b.html",
+        "total_time_taken": 0.66
     },
     "search_parameters": {
         "engine": "google_scholar_profiles",

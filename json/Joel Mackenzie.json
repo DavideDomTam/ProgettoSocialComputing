@@ -1,13 +1,13 @@
 {
     "search_metadata": {
-        "id": "65675f59c573d5333f0bbcad",
+        "id": "65676f41437af2385f660b63",
         "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/e8366c5caee25b4a/65675f59c573d5333f0bbcad.json",
-        "created_at": "2023-11-29 15:57:13 UTC",
-        "processed_at": "2023-11-29 15:57:13 UTC",
+        "json_endpoint": "https://serpapi.com/searches/e8366c5caee25b4a/65676f41437af2385f660b63.json",
+        "created_at": "2023-11-29 17:05:05 UTC",
+        "processed_at": "2023-11-29 17:05:05 UTC",
         "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Joel+Mackenzie&view_op=search_authors&hl=en",
-        "raw_html_file": "https://serpapi.com/searches/e8366c5caee25b4a/65675f59c573d5333f0bbcad.html",
-        "total_time_taken": 0.74
+        "raw_html_file": "https://serpapi.com/searches/e8366c5caee25b4a/65676f41437af2385f660b63.html",
+        "total_time_taken": 1.5
     },
     "search_parameters": {
         "engine": "google_scholar_profiles",

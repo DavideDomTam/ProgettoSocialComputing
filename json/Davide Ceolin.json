@@ -1,13 +1,13 @@
 {
     "search_metadata": {
-        "id": "65675f55fa86757ba53fd530",
+        "id": "6567759e0ead413cd59d3424",
         "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/1f8f5a107af2ef1b/65675f55fa86757ba53fd530.json",
-        "created_at": "2023-11-29 15:57:09 UTC",
-        "processed_at": "2023-11-29 15:57:09 UTC",
+        "json_endpoint": "https://serpapi.com/searches/1b68c469d8b02f0d/6567759e0ead413cd59d3424.json",
+        "created_at": "2023-11-29 17:32:14 UTC",
+        "processed_at": "2023-11-29 17:32:14 UTC",
         "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Davide+Ceolin&view_op=search_authors&hl=en",
-        "raw_html_file": "https://serpapi.com/searches/1f8f5a107af2ef1b/65675f55fa86757ba53fd530.html",
-        "total_time_taken": 1.23
+        "raw_html_file": "https://serpapi.com/searches/1b68c469d8b02f0d/6567759e0ead413cd59d3424.html",
+        "total_time_taken": 1.63
     },
     "search_parameters": {
         "engine": "google_scholar_profiles",

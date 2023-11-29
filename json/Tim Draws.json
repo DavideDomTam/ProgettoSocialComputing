@@ -1,13 +1,13 @@
 {
     "search_metadata": {
-        "id": "65675f589b6472fad7b8a6a9",
+        "id": "65676f40477c0e92f6347ea5",
         "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/8c1729583de1208c/65675f589b6472fad7b8a6a9.json",
-        "created_at": "2023-11-29 15:57:12 UTC",
-        "processed_at": "2023-11-29 15:57:12 UTC",
+        "json_endpoint": "https://serpapi.com/searches/8c1729583de1208c/65676f40477c0e92f6347ea5.json",
+        "created_at": "2023-11-29 17:05:04 UTC",
+        "processed_at": "2023-11-29 17:05:04 UTC",
         "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Tim+Draws&view_op=search_authors&hl=en",
-        "raw_html_file": "https://serpapi.com/searches/8c1729583de1208c/65675f589b6472fad7b8a6a9.html",
-        "total_time_taken": 0.42
+        "raw_html_file": "https://serpapi.com/searches/8c1729583de1208c/65676f40477c0e92f6347ea5.html",
+        "total_time_taken": 0.64
     },
     "search_parameters": {
         "engine": "google_scholar_profiles",

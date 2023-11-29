@@ -1,13 +1,13 @@
 {
     "search_metadata": {
-        "id": "65675affd3aba2d67db46ab5",
+        "id": "656775840b50626127022c24",
         "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/baf45db5cddfec45/65675affd3aba2d67db46ab5.json",
-        "created_at": "2023-11-29 15:38:39 UTC",
-        "processed_at": "2023-11-29 15:38:39 UTC",
+        "json_endpoint": "https://serpapi.com/searches/daba833fba74433e/656775840b50626127022c24.json",
+        "created_at": "2023-11-29 17:31:48 UTC",
+        "processed_at": "2023-11-29 17:31:48 UTC",
         "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Stefano+Mizzaro&view_op=search_authors&hl=en",
-        "raw_html_file": "https://serpapi.com/searches/baf45db5cddfec45/65675affd3aba2d67db46ab5.html",
-        "total_time_taken": 1.58
+        "raw_html_file": "https://serpapi.com/searches/daba833fba74433e/656775840b50626127022c24.html",
+        "total_time_taken": 0.19
     },
     "search_parameters": {
         "engine": "google_scholar_profiles",

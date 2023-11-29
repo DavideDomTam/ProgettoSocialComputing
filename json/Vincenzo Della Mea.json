@@ -1,13 +1,13 @@
 {
     "search_metadata": {
-        "id": "65675f54aa6c95dc631f1143",
+        "id": "65677591116a55225ee89ea0",
         "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/916ba13f148c3b4f/65675f54aa6c95dc631f1143.json",
-        "created_at": "2023-11-29 15:57:08 UTC",
-        "processed_at": "2023-11-29 15:57:08 UTC",
+        "json_endpoint": "https://serpapi.com/searches/2b22b4d4cfec7e24/65677591116a55225ee89ea0.json",
+        "created_at": "2023-11-29 17:32:01 UTC",
+        "processed_at": "2023-11-29 17:32:01 UTC",
         "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Vincenzo+Della+Mea&view_op=search_authors&hl=en",
-        "raw_html_file": "https://serpapi.com/searches/916ba13f148c3b4f/65675f54aa6c95dc631f1143.html",
-        "total_time_taken": 0.79
+        "raw_html_file": "https://serpapi.com/searches/2b22b4d4cfec7e24/65677591116a55225ee89ea0.html",
+        "total_time_taken": 0.99
     },
     "search_parameters": {
         "engine": "google_scholar_profiles",
