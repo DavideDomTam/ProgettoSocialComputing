@@ -1,0 +1,46 @@
+{
+    "search_metadata": {
+        "id": "65676f40477c0e92f6347ea5",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/8c1729583de1208c/65676f40477c0e92f6347ea5.json",
+        "created_at": "2023-11-29 17:05:04 UTC",
+        "processed_at": "2023-11-29 17:05:04 UTC",
+        "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Tim+Draws&view_op=search_authors&hl=en",
+        "raw_html_file": "https://serpapi.com/searches/8c1729583de1208c/65676f40477c0e92f6347ea5.html",
+        "total_time_taken": 0.64
+    },
+    "search_parameters": {
+        "engine": "google_scholar_profiles",
+        "mauthors": "Tim Draws",
+        "hl": "en"
+    },
+    "profiles": [
+        {
+            "name": "Tim Draws",
+            "link": "https://scholar.google.com/citations?hl=en&user=UTMHOZMAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=UTMHOZMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "UTMHOZMAAAAJ",
+            "affiliations": "OTTO",
+            "email": "Verified email at otto.de",
+            "cited_by": 1206,
+            "interests": [
+                {
+                    "title": "Human-Computer Interaction",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ahuman_computer_interaction",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:human_computer_interaction"
+                },
+                {
+                    "title": "Web Search",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aweb_search",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:web_search"
+                },
+                {
+                    "title": "Research Methods",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aresearch_methods",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:research_methods"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=UTMHOZMAAAAJ&citpid=3"
+        }
+    ]
+}
