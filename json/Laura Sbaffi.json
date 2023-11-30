@@ -1,0 +1,46 @@
+{
+    "search_metadata": {
+        "id": "65689af24055aa0392e0d936",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/582624e9694e1b65/65689af24055aa0392e0d936.json",
+        "created_at": "2023-11-30 14:23:46 UTC",
+        "processed_at": "2023-11-30 14:23:46 UTC",
+        "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Laura+Sbaffi&view_op=search_authors&hl=en",
+        "raw_html_file": "https://serpapi.com/searches/582624e9694e1b65/65689af24055aa0392e0d936.html",
+        "total_time_taken": 0.59
+    },
+    "search_parameters": {
+        "engine": "google_scholar_profiles",
+        "mauthors": "Laura Sbaffi",
+        "hl": "en"
+    },
+    "profiles": [
+        {
+            "name": "Laura Sbaffi",
+            "link": "https://scholar.google.com/citations?hl=en&user=TMKfR4AAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=TMKfR4AAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "TMKfR4AAAAAJ",
+            "affiliations": "Senior Lecturer, Information School, University of Sheffield",
+            "email": "Verified email at sheffield.ac.uk",
+            "cited_by": 3387,
+            "interests": [
+                {
+                    "title": "Social care",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Asocial_care",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:social_care"
+                },
+                {
+                    "title": "trust in information",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Atrust_in_information",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:trust_in_information"
+                },
+                {
+                    "title": "information literacy",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ainformation_literacy",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:information_literacy"
+                }
+            ],
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        }
+    ]
+}

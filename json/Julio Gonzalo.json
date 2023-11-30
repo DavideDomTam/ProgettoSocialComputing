@@ -1,0 +1,114 @@
+{
+    "search_metadata": {
+        "id": "65689a5a8cd8780ee8c800b6",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/9369ecd241a65069/65689a5a8cd8780ee8c800b6.json",
+        "created_at": "2023-11-30 14:21:14 UTC",
+        "processed_at": "2023-11-30 14:21:14 UTC",
+        "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Julio+Gonzalo&view_op=search_authors&hl=en",
+        "raw_html_file": "https://serpapi.com/searches/9369ecd241a65069/65689a5a8cd8780ee8c800b6.html",
+        "total_time_taken": 4.88
+    },
+    "search_parameters": {
+        "engine": "google_scholar_profiles",
+        "mauthors": "Julio Gonzalo",
+        "hl": "en"
+    },
+    "profiles": [
+        {
+            "name": "Julio Gonzalo",
+            "link": "https://scholar.google.com/citations?hl=en&user=opFCmpYAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=opFCmpYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "opFCmpYAAAAJ",
+            "affiliations": "Full professor of Computer Science, UNED",
+            "email": "Verified email at lsi.uned.es",
+            "cited_by": 6087,
+            "interests": [
+                {
+                    "title": "Natural Language Processing",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Anatural_language_processing",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:natural_language_processing"
+                },
+                {
+                    "title": "Information Retrieval",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ainformation_retrieval",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:information_retrieval"
+                },
+                {
+                    "title": "Artificial Intelligence",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aartificial_intelligence",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:artificial_intelligence"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=opFCmpYAAAAJ&citpid=3"
+        },
+        {
+            "name": "Julio Gonzalo Cevallos Freire (ORCID 0009-0004-4182-8450)",
+            "link": "https://scholar.google.com/citations?hl=en&user=kxUP7GIAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=kxUP7GIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "kxUP7GIAAAAJ",
+            "affiliations": "Professor of Criminal Law and Criminal Procedural Law, Politecnica Salesiana University",
+            "cited_by": 12,
+            "interests": [
+                {
+                    "title": "Law",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Alaw",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:law"
+                },
+                {
+                    "title": "Legal",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Alegal",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:legal"
+                },
+                {
+                    "title": "Jurisprudence",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ajurisprudence",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:jurisprudence"
+                },
+                {
+                    "title": "Doctrine",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adoctrine",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:doctrine"
+                },
+                {
+                    "title": "Justice",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ajustice",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:justice"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=kxUP7GIAAAAJ&citpid=1"
+        },
+        {
+            "name": "JOSE VICENTE CONTRERAS JULIO",
+            "link": "https://scholar.google.com/citations?hl=en&user=WowE1F8AAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=WowE1F8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "WowE1F8AAAAJ",
+            "affiliations": "Profesor de Matemáticas, IED Gonzalo Arango, Liceo Reynel, Universidad Agraria de …",
+            "email": "Verified email at educacionbogota.edu.co",
+            "cited_by": 7,
+            "interests": [
+                {
+                    "title": "Matemáticas",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amatem%C3%A1ticas",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:matem%C3%A1ticas"
+                },
+                {
+                    "title": "Didácticas de la matemáticas",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adid%C3%A1cticas_de_la_matem%C3%A1ticas",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:did%C3%A1cticas_de_la_matem%C3%A1ticas"
+                },
+                {
+                    "title": "Pensamiento matemático",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Apensamiento_matem%C3%A1tico",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:pensamiento_matem%C3%A1tico"
+                },
+                {
+                    "title": "… para el desarrollo del pensamiento matemátic",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Apara_el_desarrollo_del_pensamiento_matem%C3%A1tic",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:estrategias_para_el_desarrollo_del_pensamiento_matem%C3%A1tic"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=WowE1F8AAAAJ&citpid=1"
+        }
+    ]
+}

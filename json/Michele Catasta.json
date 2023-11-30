@@ -1,0 +1,56 @@
+{
+    "search_metadata": {
+        "id": "65689ae45fc49323a1ffb40c",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/c93f0d6ac7ab6bdb/65689ae45fc49323a1ffb40c.json",
+        "created_at": "2023-11-30 14:23:32 UTC",
+        "processed_at": "2023-11-30 14:23:32 UTC",
+        "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Michele+Catasta&view_op=search_authors&hl=en",
+        "raw_html_file": "https://serpapi.com/searches/c93f0d6ac7ab6bdb/65689ae45fc49323a1ffb40c.html",
+        "total_time_taken": 0.69
+    },
+    "search_parameters": {
+        "engine": "google_scholar_profiles",
+        "mauthors": "Michele Catasta",
+        "hl": "en"
+    },
+    "profiles": [
+        {
+            "name": "Michele Catasta",
+            "link": "https://scholar.google.com/citations?hl=en&user=ZxfOSWMAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=ZxfOSWMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ZxfOSWMAAAAJ",
+            "affiliations": "VP of AI at Replit",
+            "email": "Verified email at cs.stanford.edu",
+            "cited_by": 6052,
+            "interests": [
+                {
+                    "title": "Large Language Models",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Alarge_language_models",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:large_language_models"
+                },
+                {
+                    "title": "AI4Code",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aai4_code",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:ai4code"
+                },
+                {
+                    "title": "Machine Learning",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amachine_learning",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:machine_learning"
+                },
+                {
+                    "title": "Information Retrieval",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ainformation_retrieval",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:information_retrieval"
+                },
+                {
+                    "title": "Data Science",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adata_science",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:data_science"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=ZxfOSWMAAAAJ&citpid=8"
+        }
+    ]
+}

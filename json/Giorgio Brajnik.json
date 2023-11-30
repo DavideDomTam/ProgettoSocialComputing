@@ -1,0 +1,46 @@
+{
+    "search_metadata": {
+        "id": "65689a04aa6c9512024698ed",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/4861330d85229e40/65689a04aa6c9512024698ed.json",
+        "created_at": "2023-11-30 14:19:48 UTC",
+        "processed_at": "2023-11-30 14:19:48 UTC",
+        "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Giorgio+Brajnik&view_op=search_authors&hl=en",
+        "raw_html_file": "https://serpapi.com/searches/4861330d85229e40/65689a04aa6c9512024698ed.html",
+        "total_time_taken": 1.46
+    },
+    "search_parameters": {
+        "engine": "google_scholar_profiles",
+        "mauthors": "Giorgio Brajnik",
+        "hl": "en"
+    },
+    "profiles": [
+        {
+            "name": "Giorgio Brajnik",
+            "link": "https://scholar.google.com/citations?hl=en&user=a-qHaRIAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=a-qHaRIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "a-qHaRIAAAAJ",
+            "affiliations": "Associate Professor in Computer science, University of Udine, Italy",
+            "email": "Verified email at uniud.it",
+            "cited_by": 3588,
+            "interests": [
+                {
+                    "title": "User Experience",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Auser_experience",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:user_experience"
+                },
+                {
+                    "title": "Software Testing",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Asoftware_testing",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:software_testing"
+                },
+                {
+                    "title": "Model-based Engineering of User Interfaces",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amodel_based_engineering_of_user_interfaces",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:model_based_engineering_of_user_interfaces"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=a-qHaRIAAAAJ&citpid=2"
+        }
+    ]
+}

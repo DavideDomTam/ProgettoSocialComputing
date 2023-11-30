@@ -1,0 +1,41 @@
+{
+    "search_metadata": {
+        "id": "656898e88b7ed23d124b06fb",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/6de8cc2ff5061fc3/656898e88b7ed23d124b06fb.json",
+        "created_at": "2023-11-30 14:15:04 UTC",
+        "processed_at": "2023-11-30 14:15:04 UTC",
+        "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Giuseppe+Primiero&view_op=search_authors&hl=en",
+        "raw_html_file": "https://serpapi.com/searches/6de8cc2ff5061fc3/656898e88b7ed23d124b06fb.html",
+        "total_time_taken": 0.85
+    },
+    "search_parameters": {
+        "engine": "google_scholar_profiles",
+        "mauthors": "Giuseppe Primiero",
+        "hl": "en"
+    },
+    "profiles": [
+        {
+            "name": "Giuseppe Primiero",
+            "link": "https://scholar.google.com/citations?hl=en&user=srKA534AAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=srKA534AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "srKA534AAAAJ",
+            "affiliations": "Department of Philosophy, University of Milan",
+            "email": "Verified email at unimi.it",
+            "cited_by": 1133,
+            "interests": [
+                {
+                    "title": "Logic",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Alogic",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:logic"
+                },
+                {
+                    "title": "Philosophy of Computer Science",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aphilosophy_of_computer_science",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:philosophy_of_computer_science"
+                }
+            ],
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        }
+    ]
+}

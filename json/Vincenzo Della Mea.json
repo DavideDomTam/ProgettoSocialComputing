@@ -1,13 +1,13 @@
 {
     "search_metadata": {
-        "id": "65677591116a55225ee89ea0",
+        "id": "656898b7ce87f86aa393d821",
         "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/2b22b4d4cfec7e24/65677591116a55225ee89ea0.json",
-        "created_at": "2023-11-29 17:32:01 UTC",
-        "processed_at": "2023-11-29 17:32:01 UTC",
+        "json_endpoint": "https://serpapi.com/searches/287bf9830fd7720e/656898b7ce87f86aa393d821.json",
+        "created_at": "2023-11-30 14:14:15 UTC",
+        "processed_at": "2023-11-30 14:14:15 UTC",
         "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Vincenzo+Della+Mea&view_op=search_authors&hl=en",
-        "raw_html_file": "https://serpapi.com/searches/2b22b4d4cfec7e24/65677591116a55225ee89ea0.html",
-        "total_time_taken": 0.99
+        "raw_html_file": "https://serpapi.com/searches/287bf9830fd7720e/656898b7ce87f86aa393d821.html",
+        "total_time_taken": 0.27
     },
     "search_parameters": {
         "engine": "google_scholar_profiles",
@@ -22,7 +22,7 @@
             "author_id": "BF3B4KAAAAAJ",
             "affiliations": "Associate Professor of Medical Informatics, University of Udine",
             "email": "Verified email at uniud.it",
-            "cited_by": 2892,
+            "cited_by": 2894,
             "interests": [
                 {
                     "title": "medical informatics",

@@ -1,0 +1,56 @@
+{
+    "search_metadata": {
+        "id": "65689a072fe3021b8f6949b4",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/108fdd99b0856edf/65689a072fe3021b8f6949b4.json",
+        "created_at": "2023-11-30 14:19:51 UTC",
+        "processed_at": "2023-11-30 14:19:51 UTC",
+        "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Claudio+Carpineto&view_op=search_authors&hl=en",
+        "raw_html_file": "https://serpapi.com/searches/108fdd99b0856edf/65689a072fe3021b8f6949b4.html",
+        "total_time_taken": 1.23
+    },
+    "search_parameters": {
+        "engine": "google_scholar_profiles",
+        "mauthors": "Claudio Carpineto",
+        "hl": "en"
+    },
+    "profiles": [
+        {
+            "name": "Claudio Carpineto",
+            "link": "https://scholar.google.com/citations?hl=en&user=MnwqYB8AAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=MnwqYB8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "MnwqYB8AAAAJ",
+            "affiliations": "Fondazione Ugo Bordoni",
+            "email": "Verified email at fub.it",
+            "cited_by": 5539,
+            "interests": [
+                {
+                    "title": "information retrieval",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ainformation_retrieval",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:information_retrieval"
+                },
+                {
+                    "title": "data mining",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adata_mining",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:data_mining"
+                },
+                {
+                    "title": "artificial intelligence",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aartificial_intelligence",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:artificial_intelligence"
+                },
+                {
+                    "title": "formal concept analysis",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aformal_concept_analysis",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:formal_concept_analysis"
+                },
+                {
+                    "title": "data privacy",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adata_privacy",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:data_privacy"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=MnwqYB8AAAAJ&citpid=4"
+        }
+    ]
+}

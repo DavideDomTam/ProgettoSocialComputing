@@ -1,0 +1,56 @@
+{
+    "search_metadata": {
+        "id": "65689ae57f836140281c0785",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/d5e3ccc3eabf591c/65689ae57f836140281c0785.json",
+        "created_at": "2023-11-30 14:23:33 UTC",
+        "processed_at": "2023-11-30 14:23:33 UTC",
+        "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Wolfgang+Nejdl&view_op=search_authors&hl=en",
+        "raw_html_file": "https://serpapi.com/searches/d5e3ccc3eabf591c/65689ae57f836140281c0785.html",
+        "total_time_taken": 1.41
+    },
+    "search_parameters": {
+        "engine": "google_scholar_profiles",
+        "mauthors": "Wolfgang Nejdl",
+        "hl": "en"
+    },
+    "profiles": [
+        {
+            "name": "Wolfgang Nejdl",
+            "link": "https://scholar.google.com/citations?hl=en&user=LC62bdYAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=LC62bdYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "LC62bdYAAAAJ",
+            "affiliations": "Professor of Computer Science, Leibniz Universität Hannover, L3S Research Center …",
+            "email": "Verified email at kbs.uni-hannover.de",
+            "cited_by": 25480,
+            "interests": [
+                {
+                    "title": "Information Retrieval",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ainformation_retrieval",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:information_retrieval"
+                },
+                {
+                    "title": "Web Science",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aweb_science",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:web_science"
+                },
+                {
+                    "title": "Social Media",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Asocial_media",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:social_media"
+                },
+                {
+                    "title": "Data Mining",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adata_mining",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:data_mining"
+                },
+                {
+                    "title": "Semantic Technologies",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Asemantic_technologies",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:semantic_technologies"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=LC62bdYAAAAJ&citpid=3"
+        }
+    ]
+}

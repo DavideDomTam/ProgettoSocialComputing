@@ -1,0 +1,56 @@
+{
+    "search_metadata": {
+        "id": "656899fef05eb8a7c36e0393",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/c73760bc03e09d43/656899fef05eb8a7c36e0393.json",
+        "created_at": "2023-11-30 14:19:42 UTC",
+        "processed_at": "2023-11-30 14:19:42 UTC",
+        "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Paolo+Coppola&view_op=search_authors&hl=en",
+        "raw_html_file": "https://serpapi.com/searches/c73760bc03e09d43/656899fef05eb8a7c36e0393.html",
+        "total_time_taken": 0.95
+    },
+    "search_parameters": {
+        "engine": "google_scholar_profiles",
+        "mauthors": "Paolo Coppola",
+        "hl": "en"
+    },
+    "profiles": [
+        {
+            "name": "Paolo Coppola",
+            "link": "https://scholar.google.com/citations?hl=en&user=P15-SKkAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=P15-SKkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "P15-SKkAAAAJ",
+            "affiliations": "Associate Professor of Computer Science, University of Udine",
+            "email": "Verified email at uniud.it",
+            "cited_by": 533,
+            "interests": [
+                {
+                    "title": "Type theory",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Atype_theory",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:type_theory"
+                },
+                {
+                    "title": "lambda calculus",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Alambda_calculus",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:lambda_calculus"
+                },
+                {
+                    "title": "computational complexity",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acomputational_complexity",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:computational_complexity"
+                },
+                {
+                    "title": "context aware computing",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acontext_aware_computing",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:context_aware_computing"
+                },
+                {
+                    "title": "mobile computing",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amobile_computing",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:mobile_computing"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=P15-SKkAAAAJ&citpid=1"
+        }
+    ]
+}

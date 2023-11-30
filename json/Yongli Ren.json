@@ -1,0 +1,56 @@
+{
+    "search_metadata": {
+        "id": "65689a7566d81f3a6b0f96f3",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/f35cad9cd599090e/65689a7566d81f3a6b0f96f3.json",
+        "created_at": "2023-11-30 14:21:41 UTC",
+        "processed_at": "2023-11-30 14:21:41 UTC",
+        "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Yongli+Ren&view_op=search_authors&hl=en",
+        "raw_html_file": "https://serpapi.com/searches/f35cad9cd599090e/65689a7566d81f3a6b0f96f3.html",
+        "total_time_taken": 1.17
+    },
+    "search_parameters": {
+        "engine": "google_scholar_profiles",
+        "mauthors": "Yongli Ren",
+        "hl": "en"
+    },
+    "profiles": [
+        {
+            "name": "Yongli Ren",
+            "link": "https://scholar.google.com/citations?hl=en&user=ZZl7bW8AAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=ZZl7bW8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ZZl7bW8AAAAJ",
+            "affiliations": "School of Computing Technologies, RMIT University",
+            "email": "Verified email at rmit.edu.au",
+            "cited_by": 1274,
+            "interests": [
+                {
+                    "title": "Recommender System",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Arecommender_system",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:recommender_system"
+                },
+                {
+                    "title": "Data Mining",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adata_mining",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:data_mining"
+                },
+                {
+                    "title": "Fog Computing",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Afog_computing",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:fog_computing"
+                },
+                {
+                    "title": "Data Science",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adata_science",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:data_science"
+                },
+                {
+                    "title": "Data Analysis",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adata_analysis",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:data_analysis"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=ZZl7bW8AAAAJ&citpid=4"
+        }
+    ]
+}

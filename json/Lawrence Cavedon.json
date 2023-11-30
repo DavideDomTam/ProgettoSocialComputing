@@ -1,0 +1,51 @@
+{
+    "search_metadata": {
+        "id": "65689a5ff636ffdc29adf1e1",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/817e2065e057b431/65689a5ff636ffdc29adf1e1.json",
+        "created_at": "2023-11-30 14:21:19 UTC",
+        "processed_at": "2023-11-30 14:21:19 UTC",
+        "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Lawrence+Cavedon&view_op=search_authors&hl=en",
+        "raw_html_file": "https://serpapi.com/searches/817e2065e057b431/65689a5ff636ffdc29adf1e1.html",
+        "total_time_taken": 1.07
+    },
+    "search_parameters": {
+        "engine": "google_scholar_profiles",
+        "mauthors": "Lawrence Cavedon",
+        "hl": "en"
+    },
+    "profiles": [
+        {
+            "name": "Lawrence Cavedon",
+            "link": "https://scholar.google.com/citations?hl=en&user=ZAEiiEUAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=ZAEiiEUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ZAEiiEUAAAAJ",
+            "affiliations": "School of Computing Technologies, RMIT University",
+            "email": "Verified email at rmit.edu.au",
+            "cited_by": 5940,
+            "interests": [
+                {
+                    "title": "Data Science",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adata_science",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:data_science"
+                },
+                {
+                    "title": "artificial intelligence",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aartificial_intelligence",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:artificial_intelligence"
+                },
+                {
+                    "title": "spoken dialogue",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aspoken_dialogue",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:spoken_dialogue"
+                },
+                {
+                    "title": "biomedical text mining",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Abiomedical_text_mining",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:biomedical_text_mining"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=ZAEiiEUAAAAJ&citpid=3"
+        }
+    ]
+}

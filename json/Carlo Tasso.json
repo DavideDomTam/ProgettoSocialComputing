@@ -1,0 +1,105 @@
+{
+    "search_metadata": {
+        "id": "656899fdca968f313eea4221",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/cb9e805e857c6fb0/656899fdca968f313eea4221.json",
+        "created_at": "2023-11-30 14:19:41 UTC",
+        "processed_at": "2023-11-30 14:19:41 UTC",
+        "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Carlo+Tasso&view_op=search_authors&hl=en",
+        "raw_html_file": "https://serpapi.com/searches/cb9e805e857c6fb0/656899fdca968f313eea4221.html",
+        "total_time_taken": 0.44
+    },
+    "search_parameters": {
+        "engine": "google_scholar_profiles",
+        "mauthors": "Carlo Tasso",
+        "hl": "en"
+    },
+    "profiles": [
+        {
+            "name": "Carlo Tasso",
+            "link": "https://scholar.google.com/citations?hl=en&user=ITxRmxIAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=ITxRmxIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ITxRmxIAAAAJ",
+            "affiliations": "Full Professor in Computer Science",
+            "email": "Verified email at uniud.it",
+            "cited_by": 3642,
+            "interests": [
+                {
+                    "title": "Artificial Intelligence",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aartificial_intelligence",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:artificial_intelligence"
+                },
+                {
+                    "title": "Web Intelligence",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aweb_intelligence",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:web_intelligence"
+                },
+                {
+                    "title": "Semantic Web",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Asemantic_web",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:semantic_web"
+                }
+            ],
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Carlos Tasso Eira de Aquino",
+            "link": "https://scholar.google.com/citations?hl=en&user=7Vh_RwgAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=7Vh_RwgAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "7Vh_RwgAAAAJ",
+            "affiliations": "Registry of College and University Presidents; United States Sports Academy",
+            "email": "Verified email at ussa.edu",
+            "cited_by": 185,
+            "interests": [
+                {
+                    "title": "Continuing Education",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acontinuing_education",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:continuing_education"
+                },
+                {
+                    "title": "Diversity and Inclusion",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adiversity_and_inclusion",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:diversity_and_inclusion"
+                },
+                {
+                    "title": "Higher Education",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ahigher_education",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:higher_education"
+                },
+                {
+                    "title": "Entrepreneurship",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aentrepreneurship",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:entrepreneurship"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=7Vh_RwgAAAAJ&citpid=3"
+        },
+        {
+            "name": "Marcos Paulo Tassi",
+            "link": "https://scholar.google.com/citations?hl=en&user=0x2tU_UAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=0x2tU_UAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "0x2tU_UAAAAJ",
+            "affiliations": "Estudande de Doutorado, Universidade Federal de São Carlos",
+            "email": "Verified email at dm.ufscar.br",
+            "cited_by": 18,
+            "interests": [
+                {
+                    "title": "geometria diferencial",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ageometria_diferencial",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:geometria_diferencial"
+                },
+                {
+                    "title": "imersões isométricas",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aimers%C3%B5es_isom%C3%A9tricas",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:imers%C3%B5es_isom%C3%A9tricas"
+                },
+                {
+                    "title": "superfícies mínimas",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Asuperf%C3%ADcies_m%C3%ADnimas",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:superf%C3%ADcies_m%C3%ADnimas"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=0x2tU_UAAAAJ&citpid=1"
+        }
+    ]
+}

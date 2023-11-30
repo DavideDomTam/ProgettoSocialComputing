@@ -1,0 +1,99 @@
+{
+    "search_metadata": {
+        "id": "6568998e654a8cf2591f2e6e",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/8194399aedb7cd79/6568998e654a8cf2591f2e6e.json",
+        "created_at": "2023-11-30 14:17:50 UTC",
+        "processed_at": "2023-11-30 14:17:50 UTC",
+        "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Rishabh+Mehrotra&view_op=search_authors&hl=en",
+        "raw_html_file": "https://serpapi.com/searches/8194399aedb7cd79/6568998e654a8cf2591f2e6e.html",
+        "total_time_taken": 0.91
+    },
+    "search_parameters": {
+        "engine": "google_scholar_profiles",
+        "mauthors": "Rishabh Mehrotra",
+        "hl": "en"
+    },
+    "profiles": [
+        {
+            "name": "Rishabh Mehrotra",
+            "link": "https://scholar.google.com/citations?hl=en&user=X9BKWWoAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=X9BKWWoAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "X9BKWWoAAAAJ",
+            "affiliations": "Director - Machine Learning, ShareChat",
+            "email": "Verified email at sharechat.co",
+            "cited_by": 2282,
+            "interests": [
+                {
+                    "title": "Machine Learning",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amachine_learning",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:machine_learning"
+                },
+                {
+                    "title": "Recommender Systems",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Arecommender_systems",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:recommender_systems"
+                },
+                {
+                    "title": "Marketplace",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amarketplace",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:marketplace"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=X9BKWWoAAAAJ&citpid=3"
+        },
+        {
+            "name": "Rishabh Malhotra",
+            "link": "https://scholar.google.com/citations?hl=en&user=Nv2BVA8AAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Nv2BVA8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Nv2BVA8AAAAJ",
+            "affiliations": "NIIT Limited",
+            "email": "Verified email at stu.upes.ac.in",
+            "cited_by": 1,
+            "interests": [
+                {
+                    "title": "Cyber Law",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acyber_law",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:cyber_law"
+                },
+                {
+                    "title": "IPR",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aip_r",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:ipr"
+                },
+                {
+                    "title": "AI",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aai",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:ai"
+                },
+                {
+                    "title": "Cloud Computing",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acloud_computing",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:cloud_computing"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Nv2BVA8AAAAJ&citpid=1"
+        },
+        {
+            "name": "Rishabh Malhotra",
+            "link": "https://scholar.google.com/citations?hl=en&user=Hzsnh_AAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Hzsnh_AAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Hzsnh_AAAAAJ",
+            "affiliations": "Ernst and Young",
+            "cited_by": null,
+            "interests": [
+                {
+                    "title": "Cyber Security",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acyber_security",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:cyber_security"
+                },
+                {
+                    "title": "Cryptography",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acryptography",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:cryptography"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Hzsnh_AAAAAJ&citpid=4"
+        }
+    ]
+}

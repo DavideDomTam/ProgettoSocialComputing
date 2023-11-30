@@ -1,0 +1,599 @@
+{
+    "search_metadata": {
+        "id": "65689a57303eb14aa5e52e9f",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/4beb0d6c0e338f6c/65689a57303eb14aa5e52e9f.json",
+        "created_at": "2023-11-30 14:21:11 UTC",
+        "processed_at": "2023-11-30 14:21:11 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=sLzYrNYAAAAJ&hl=en",
+        "raw_html_file": "https://serpapi.com/searches/4beb0d6c0e338f6c/65689a57303eb14aa5e52e9f.html",
+        "total_time_taken": 1.12
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "sLzYrNYAAAAJ",
+        "hl": "en"
+    },
+    "author": {
+        "name": "Damiano Spina",
+        "affiliations": "School of Computing Technologies, RMIT University",
+        "email": "Verified email at rmit.edu.au",
+        "website": "http://damianospina.com/",
+        "interests": [
+            {
+                "title": "Information Retrieval",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:information_retrieval",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ainformation_retrieval"
+            },
+            {
+                "title": "Text Analytics",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:text_analytics",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Atext_analytics"
+            },
+            {
+                "title": "Data Science",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:data_science",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adata_science"
+            },
+            {
+                "title": "Evaluation",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:evaluation",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aevaluation"
+            },
+            {
+                "title": "Human-AI Fact-checking",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:human_ai_fact_checking",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ahuman_ai_fact_checking"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=sLzYrNYAAAAJ&citpid=8"
+    },
+    "articles": [
+        {
+            "title": "Real-time classification of Twitter trends",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sLzYrNYAAAAJ&citation_for_view=sLzYrNYAAAAJ:BUYA1_V_uYcC",
+            "citation_id": "sLzYrNYAAAAJ:BUYA1_V_uYcC",
+            "authors": "A Zubiaga, D Spina, R Martínez, V Fresno",
+            "publication": "Journal of the Association for Information Science and Technology (JASIST …, 2015",
+            "cited_by": {
+                "value": 208,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16630040653965114231",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16630040653965114231&engine=google_scholar&hl=en",
+                "cites_id": "16630040653965114231"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "Research Frontiers in Information Retrieval: Report from the Third Strategic Workshop on Information Retrieval in Lorne (SWIRL 2018)",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sLzYrNYAAAAJ&citation_for_view=sLzYrNYAAAAJ:hCrLmN-GePgC",
+            "citation_id": "sLzYrNYAAAAJ:hCrLmN-GePgC",
+            "authors": "J Allan, J Arguello, L Azzopardi, P Bailey, T Baldwin, K Balog, H Bast, ...",
+            "publication": "ACM SIGIR Forum 52 (1), 34-90, 2018",
+            "cited_by": {
+                "value": 189,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5948645423749584544",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5948645423749584544&engine=google_scholar&hl=en",
+                "cites_id": "5948645423749584544"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Overview of RepLab 2013: Evaluating Online Reputation Monitoring Systems",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sLzYrNYAAAAJ&citation_for_view=sLzYrNYAAAAJ:roLk4NBRz8UC",
+            "citation_id": "sLzYrNYAAAAJ:roLk4NBRz8UC",
+            "authors": "E Amigó, JC De Albornoz, I Chugur, A Corujo, J Gonzalo, T Martín, E Meij, ...",
+            "publication": "CLEF'13 Information Access Evaluation. Multilinguality, Multimodality, and …, 2013",
+            "cited_by": {
+                "value": 165,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14364074960598386264",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14364074960598386264&engine=google_scholar&hl=en",
+                "cites_id": "14364074960598386264"
+            },
+            "year": "2013"
+        },
+        {
+            "title": "Towards real-time summarization of scheduled events from Twitter streams",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sLzYrNYAAAAJ&citation_for_view=sLzYrNYAAAAJ:YsMSGLbcyi4C",
+            "citation_id": "sLzYrNYAAAAJ:YsMSGLbcyi4C",
+            "authors": "A Zubiaga, D Spina, E Amigó, J Gonzalo",
+            "publication": "Hypertext'12 Proceedings of the 23rd ACM conference on Hypertext and Social …, 2012",
+            "cited_by": {
+                "value": 135,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6560285994778742337",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6560285994778742337&engine=google_scholar&hl=en",
+                "cites_id": "6560285994778742337"
+            },
+            "year": "2012"
+        },
+        {
+            "title": "Informing the Design of Spoken Conversational Search",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sLzYrNYAAAAJ&citation_for_view=sLzYrNYAAAAJ:WZBGuue-350C",
+            "citation_id": "sLzYrNYAAAAJ:WZBGuue-350C",
+            "authors": "JR Trippas, D Spina, L Cavedon, H Joho, M Sanderson",
+            "publication": "CHIIR'18, 2018",
+            "cited_by": {
+                "value": 128,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8061026991349282048",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8061026991349282048&engine=google_scholar&hl=en",
+                "cites_id": "8061026991349282048"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Classifying Trending Topics: A Typology of Conversation Triggers on Twitter",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sLzYrNYAAAAJ&citation_for_view=sLzYrNYAAAAJ:d1gkVwhDpl0C",
+            "citation_id": "sLzYrNYAAAAJ:d1gkVwhDpl0C",
+            "authors": "A Zubiaga, D Spina, V Fresno, R Martínez",
+            "publication": "CIKM '11 Proceedings of the 20th ACM International Conference on Information …, 2011",
+            "cited_by": {
+                "value": 124,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5813409683927224785",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5813409683927224785&engine=google_scholar&hl=en",
+                "cites_id": "5813409683927224785"
+            },
+            "year": "2011"
+        },
+        {
+            "title": "Overview of RepLab 2014: author profiling and reputation dimensions for online reputation management",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sLzYrNYAAAAJ&citation_for_view=sLzYrNYAAAAJ:epqYDVWIO7EC",
+            "citation_id": "sLzYrNYAAAAJ:epqYDVWIO7EC",
+            "authors": "E Amigó, J Carrillo-de-Albornoz, I Chugur, A Corujo, J Gonzalo, E Meij, ...",
+            "publication": "CLEF'14 International Conference of the Cross-Language Evaluation Forum for …, 2014",
+            "cited_by": {
+                "value": 98,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14030738280494064830",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14030738280494064830&engine=google_scholar&hl=en",
+                "cites_id": "14030738280494064830"
+            },
+            "year": "2014"
+        },
+        {
+            "title": "How Do People Interact in Conversational Speech-Only Search Tasks: A Preliminary Analysis",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sLzYrNYAAAAJ&citation_for_view=sLzYrNYAAAAJ:tuHXwOkdijsC",
+            "citation_id": "sLzYrNYAAAAJ:tuHXwOkdijsC",
+            "authors": "JR Trippas, D Spina, L Cavedon, M Sanderson",
+            "publication": "CHIIR'17, 2017",
+            "cited_by": {
+                "value": 90,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12415014094777311521",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12415014094777311521&engine=google_scholar&hl=en",
+                "cites_id": "12415014094777311521"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Beyond Factoid QA: Effective Methods for Non-factoid Answer Sentence Retrieval",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sLzYrNYAAAAJ&citation_for_view=sLzYrNYAAAAJ:ILKRHgRFtOwC",
+            "citation_id": "sLzYrNYAAAAJ:ILKRHgRFtOwC",
+            "authors": "L Yang, Q Ai, D Spina, RC Chen, L Pang, WB Croft, J Guo, F Scholer",
+            "publication": "ECIR'16, 2016",
+            "cited_by": {
+                "value": 86,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17914881596879811722",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17914881596879811722&engine=google_scholar&hl=en",
+                "cites_id": "17914881596879811722"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "WePS-3 Evaluation Campaign: Overview of the Online Reputation Management Task",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sLzYrNYAAAAJ&citation_for_view=sLzYrNYAAAAJ:u5HHmVD_uO8C",
+            "citation_id": "sLzYrNYAAAAJ:u5HHmVD_uO8C",
+            "authors": "E Amigó, J Artiles, J Gonzalo, D Spina, B Liu, A Corujo",
+            "publication": "CLEF 2010 (Notebook Papers/LABs/Workshops), 2010",
+            "cited_by": {
+                "value": 75,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2373258099540574091",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2373258099540574091&engine=google_scholar&hl=en",
+                "cites_id": "2373258099540574091"
+            },
+            "year": "2010"
+        },
+        {
+            "title": "Towards a model for spoken conversational search",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sLzYrNYAAAAJ&citation_for_view=sLzYrNYAAAAJ:rmuvC79q63oC",
+            "citation_id": "sLzYrNYAAAAJ:rmuvC79q63oC",
+            "authors": "JR Trippas, D Spina, P Thomas, M Sanderson, H Joho, L Cavedon",
+            "publication": "Information Processing & Management 57 (2), 102162, 2020",
+            "cited_by": {
+                "value": 71,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5787412357864958201",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5787412357864958201&engine=google_scholar&hl=en",
+                "cites_id": "5787412357864958201"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Learning Similarity Functions for Topic Detection in Online Reputation Monitoring",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sLzYrNYAAAAJ&citation_for_view=sLzYrNYAAAAJ:ipzZ9siozwsC",
+            "citation_id": "sLzYrNYAAAAJ:ipzZ9siozwsC",
+            "authors": "D Spina, J Gonzalo, E Amigó",
+            "publication": "SIGIR '14: 37th international ACM SIGIR conference on Research and …, 2014",
+            "cited_by": {
+                "value": 64,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12525084915561782720",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12525084915561782720&engine=google_scholar&hl=en",
+                "cites_id": "12525084915561782720"
+            },
+            "year": "2014"
+        },
+        {
+            "title": "An Axiomatic Analysis of Diversity Evaluation Metrics: Introducing the Rank-Biased Utility Metric",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sLzYrNYAAAAJ&citation_for_view=sLzYrNYAAAAJ:e_rmSamDkqQC",
+            "citation_id": "sLzYrNYAAAAJ:e_rmSamDkqQC",
+            "authors": "E Amigó, D Spina, J Carrillo-de-Albornoz",
+            "publication": "SIGIR'18, 2018",
+            "cited_by": {
+                "value": 54,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6732037291318222988",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6732037291318222988&engine=google_scholar&hl=en",
+                "cites_id": "6732037291318222988"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Human-in-the-loop Artificial Intelligence for Fighting Online Misinformation: Challenges and Opportunities",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sLzYrNYAAAAJ&citation_for_view=sLzYrNYAAAAJ:2VqYfGB8ITEC",
+            "citation_id": "sLzYrNYAAAAJ:2VqYfGB8ITEC",
+            "authors": "G Demartini, S Mizzaro, D Spina",
+            "publication": "Bulletin of the IEEE Computer Society Technical Committee on Data …, 2020",
+            "cited_by": {
+                "value": 50,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15773658528182654973",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15773658528182654973&engine=google_scholar&hl=en",
+                "cites_id": "15773658528182654973"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Can The Crowd Identify Misinformation Objectively? The Effects of Judgment Scale and Assessor’s Background",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sLzYrNYAAAAJ&citation_for_view=sLzYrNYAAAAJ:anf4URPfarAC",
+            "citation_id": "sLzYrNYAAAAJ:anf4URPfarAC",
+            "authors": "K Roitero, M Soprano, S Fan, D Spina, S Mizzaro, G Demartini",
+            "publication": "SIGIR'20, 2020",
+            "cited_by": {
+                "value": 50,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5144879525913693104",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5144879525913693104&engine=google_scholar&hl=en",
+                "cites_id": "5144879525913693104"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Overview of EXIST 2022: sEXism Identification in Social neTworks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sLzYrNYAAAAJ&citation_for_view=sLzYrNYAAAAJ:_OXeSy2IsFwC",
+            "citation_id": "sLzYrNYAAAAJ:_OXeSy2IsFwC",
+            "authors": "F Rodríguez-Sánchez, J Carrillo-de-Albornoz, L Plaza, ...",
+            "publication": "Procesamiento del Lenguaje Natural 69, 229-240, 2022",
+            "cited_by": {
+                "value": 45,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11048925183661687956,11375166225178695",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11048925183661687956%2C11375166225178695&engine=google_scholar&hl=en",
+                "cites_id": "11048925183661687956,11375166225178695"
+            },
+            "year": "2022"
+        },
+        {
+            "title": "Discovering Filter Keywords for Company Name Disambiguation in Twitter",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sLzYrNYAAAAJ&citation_for_view=sLzYrNYAAAAJ:ufrVoPGSRksC",
+            "citation_id": "sLzYrNYAAAAJ:ufrVoPGSRksC",
+            "authors": "D Spina, J Gonzalo, E Amigó",
+            "publication": "Expert Systems with Applications 40 (12), 4986–5003, 2013",
+            "cited_by": {
+                "value": 43,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2339530186033861331",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2339530186033861331&engine=google_scholar&hl=en",
+                "cites_id": "2339530186033861331"
+            },
+            "year": "2013"
+        },
+        {
+            "title": "No One Is Immune to Misinformation: An Investigation of Misinformation Sharing by Subscribers to a Fact-checking Newsletter",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sLzYrNYAAAAJ&citation_for_view=sLzYrNYAAAAJ:4vMrXwiscB8C",
+            "citation_id": "sLzYrNYAAAAJ:4vMrXwiscB8C",
+            "authors": "LL Saling, D Mallal, F Scholer, R Schelton, D Spina",
+            "publication": "PLoS One, 2021",
+            "cited_by": {
+                "value": 39,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13694566592895669503",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13694566592895669503&engine=google_scholar&hl=en",
+                "cites_id": "13694566592895669503"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "The COVID-19 Infodemic: Can the Crowd Judge Recent Misinformation Objectively?",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sLzYrNYAAAAJ&citation_for_view=sLzYrNYAAAAJ:HtEfBTGE9r8C",
+            "citation_id": "sLzYrNYAAAAJ:HtEfBTGE9r8C",
+            "authors": "K Roitero, M Soprano, B Portelli, D Spina, V Della Mea, G Serra, ...",
+            "publication": "CIKM'20 Proceedings of the 29th ACM International Conference and Knowledge …, 2020",
+            "cited_by": {
+                "value": 39,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12945281884161330513",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12945281884161330513&engine=google_scholar&hl=en",
+                "cites_id": "12945281884161330513"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Crowdsourcing Truthfulness: The Impact of Judgment Scale and Assessor Bias",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sLzYrNYAAAAJ&citation_for_view=sLzYrNYAAAAJ:GtLg2Ama23sC",
+            "citation_id": "sLzYrNYAAAAJ:GtLg2Ama23sC",
+            "authors": "D La Barbera, K Roitero, G Demartini, S Mizzaro, D Spina",
+            "publication": "🏆 ECIR'20, 2020",
+            "cited_by": {
+                "value": 39,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10684200931203285045",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10684200931203285045&engine=google_scholar&hl=en",
+                "cites_id": "10684200931203285045"
+            },
+            "year": "2020"
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 2492,
+                    "since_2018": 1822
+                }
+            },
+            {
+                "h_index": {
+                    "all": 27,
+                    "since_2018": 23
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 45,
+                    "since_2018": 39
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2011,
+                "citations": 9
+            },
+            {
+                "year": 2012,
+                "citations": 31
+            },
+            {
+                "year": 2013,
+                "citations": 66
+            },
+            {
+                "year": 2014,
+                "citations": 114
+            },
+            {
+                "year": 2015,
+                "citations": 143
+            },
+            {
+                "year": 2016,
+                "citations": 122
+            },
+            {
+                "year": 2017,
+                "citations": 161
+            },
+            {
+                "year": 2018,
+                "citations": 182
+            },
+            {
+                "year": 2019,
+                "citations": 228
+            },
+            {
+                "year": 2020,
+                "citations": 295
+            },
+            {
+                "year": 2021,
+                "citations": 364
+            },
+            {
+                "year": 2022,
+                "citations": 368
+            },
+            {
+                "year": 2023,
+                "citations": 382
+            }
+        ]
+    },
+    "public_access": {
+        "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=sLzYrNYAAAAJ",
+        "available": 48,
+        "not_available": 1
+    },
+    "co_authors": [
+        {
+            "name": "Mark Sanderson",
+            "link": "https://scholar.google.com/citations?user=HmqvvQkAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=HmqvvQkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "HmqvvQkAAAAJ",
+            "affiliations": "School of Computing Technologies, RMIT University",
+            "email": "Verified email at rmit.edu.au",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=HmqvvQkAAAAJ&citpid=7"
+        },
+        {
+            "name": "Falk Scholer",
+            "link": "https://scholar.google.com/citations?user=qOLjlqsAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=qOLjlqsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "qOLjlqsAAAAJ",
+            "affiliations": "School of Computing Technologies, RMIT University",
+            "email": "Verified email at rmit.edu.au",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=qOLjlqsAAAAJ&citpid=2"
+        },
+        {
+            "name": "Julio Gonzalo",
+            "link": "https://scholar.google.com/citations?user=opFCmpYAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=opFCmpYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "opFCmpYAAAAJ",
+            "affiliations": "Full professor of Computer Science, UNED",
+            "email": "Verified email at lsi.uned.es",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=opFCmpYAAAAJ&citpid=3"
+        },
+        {
+            "name": "Lawrence Cavedon",
+            "link": "https://scholar.google.com/citations?user=ZAEiiEUAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=ZAEiiEUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ZAEiiEUAAAAJ",
+            "affiliations": "School of Computing Technologies, RMIT University",
+            "email": "Verified email at rmit.edu.au",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=ZAEiiEUAAAAJ&citpid=3"
+        },
+        {
+            "name": "Johanne R. Trippas",
+            "link": "https://scholar.google.com/citations?user=x483lssAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=x483lssAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "x483lssAAAAJ",
+            "affiliations": "Vice-Chancellor's Research Fellow, School of Computing Technologies, RMIT University",
+            "email": "Verified email at rmit.edu.au",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=x483lssAAAAJ&citpid=3"
+        },
+        {
+            "name": "Stefano Mizzaro",
+            "link": "https://scholar.google.com/citations?user=2wvJC6IAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=2wvJC6IAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "2wvJC6IAAAAJ",
+            "affiliations": "Full professor of Computer Science and Information Technology",
+            "email": "Verified email at uniud.it",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=2wvJC6IAAAAJ&citpid=1"
+        },
+        {
+            "name": "Gianluca Demartini",
+            "link": "https://scholar.google.com/citations?user=PCAiILsAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=PCAiILsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "PCAiILsAAAAJ",
+            "affiliations": "Associate Professor at the University of Queensland",
+            "email": "Verified email at cs.berkeley.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=PCAiILsAAAAJ&citpid=6"
+        },
+        {
+            "name": "Jorge Carrillo-de-Albornoz",
+            "link": "https://scholar.google.com/citations?user=8yHMQqoAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=8yHMQqoAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "8yHMQqoAAAAJ",
+            "affiliations": "Researcher in Computer Science, UNED",
+            "email": "Verified email at lsi.uned.es",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=8yHMQqoAAAAJ&citpid=1"
+        },
+        {
+            "name": "Kevin Roitero",
+            "link": "https://scholar.google.com/citations?user=1xd52jMAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=1xd52jMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "1xd52jMAAAAJ",
+            "affiliations": "University of Udine",
+            "email": "Verified email at uniud.it",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=1xd52jMAAAAJ&citpid=6"
+        },
+        {
+            "name": "Maarten de Rijke",
+            "link": "https://scholar.google.com/citations?user=AVDkgFIAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=AVDkgFIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "AVDkgFIAAAAJ",
+            "affiliations": "University of Amsterdam & ICAI",
+            "email": "Verified email at uva.nl",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=AVDkgFIAAAAJ&citpid=14"
+        },
+        {
+            "name": "Arkaitz Zubiaga",
+            "link": "https://scholar.google.com/citations?user=IUb-xxMAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=IUb-xxMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "IUb-xxMAAAAJ",
+            "affiliations": "Queen Mary University of London",
+            "email": "Verified email at qmul.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=IUb-xxMAAAAJ&citpid=9"
+        },
+        {
+            "name": "Hideo Joho",
+            "link": "https://scholar.google.com/citations?user=8W8gwisAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=8W8gwisAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "8W8gwisAAAAJ",
+            "affiliations": "Professor, Institute of Library, Information and Media Science, University of Tsukuba",
+            "email": "Verified email at slis.tsukuba.ac.jp",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=8W8gwisAAAAJ&citpid=4"
+        },
+        {
+            "name": "Edgar Meij",
+            "link": "https://scholar.google.com/citations?user=vb6YKF0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=vb6YKF0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "vb6YKF0AAAAJ",
+            "affiliations": "Bloomberg",
+            "email": "Verified email at bloomberg.net",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=vb6YKF0AAAAJ&citpid=4"
+        },
+        {
+            "name": "Flora Salim",
+            "link": "https://scholar.google.com/citations?user=Yz35RSYAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Yz35RSYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Yz35RSYAAAAJ",
+            "affiliations": "Professor, Cisco Chair of Digital Transport, Computer Science and Engineering, UNSW",
+            "email": "Verified email at unsw.edu.au",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Yz35RSYAAAAJ&citpid=2"
+        },
+        {
+            "name": "Michael Soprano",
+            "link": "https://scholar.google.com/citations?user=ocK0qRUAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=ocK0qRUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ocK0qRUAAAAJ",
+            "affiliations": "Postdoctoral Research Fellow at the University of Udine",
+            "email": "Verified email at uniud.it",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=ocK0qRUAAAAJ&citpid=2"
+        },
+        {
+            "name": "W. Bruce Croft",
+            "link": "https://scholar.google.com/citations?user=ArV74ZMAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=ArV74ZMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ArV74ZMAAAAJ",
+            "affiliations": "Distinguished Professor Emeritus, University of Massachusetts Amherst",
+            "email": "Verified email at cs.umass.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=ArV74ZMAAAAJ&citpid=3"
+        },
+        {
+            "name": "Víctor Fresno",
+            "link": "https://scholar.google.com/citations?user=X_95ZxEAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=X_95ZxEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "X_95ZxEAAAAJ",
+            "affiliations": "Associate Professor of Computer Science (UNED)",
+            "email": "Verified email at lsi.uned.es",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=X_95ZxEAAAAJ&citpid=3"
+        },
+        {
+            "name": "Raquel Martinez",
+            "link": "https://scholar.google.com/citations?user=m0-0QxgAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=m0-0QxgAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "m0-0QxgAAAAJ",
+            "affiliations": "Full Professor of Computer Science, UNED University",
+            "email": "Verified email at lsi.uned.es",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Yongli Ren",
+            "link": "https://scholar.google.com/citations?user=ZZl7bW8AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=ZZl7bW8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ZZl7bW8AAAAJ",
+            "affiliations": "School of Computing Technologies, RMIT University",
+            "email": "Verified email at rmit.edu.au",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=ZZl7bW8AAAAJ&citpid=4"
+        },
+        {
+            "name": "Ryen W. White",
+            "link": "https://scholar.google.com/citations?user=U69fiZMAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=U69fiZMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "U69fiZMAAAAJ",
+            "affiliations": "General Manager, Deputy Lab Director, Microsoft Research",
+            "email": "Verified email at microsoft.com",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=U69fiZMAAAAJ&citpid=5"
+        }
+    ],
+    "serpapi_pagination": {
+        "next": "https://serpapi.com/search.json?author_id=sLzYrNYAAAAJ&engine=google_scholar_author&hl=en&start=20"
+    }
+}

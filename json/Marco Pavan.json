@@ -1,0 +1,83 @@
+{
+    "search_metadata": {
+        "id": "65689a0933b236970249f964",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/5ebbf35b03138644/65689a0933b236970249f964.json",
+        "created_at": "2023-11-30 14:19:53 UTC",
+        "processed_at": "2023-11-30 14:19:53 UTC",
+        "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Marco+Pavan&view_op=search_authors&hl=en",
+        "raw_html_file": "https://serpapi.com/searches/5ebbf35b03138644/65689a0933b236970249f964.html",
+        "total_time_taken": 1.2
+    },
+    "search_parameters": {
+        "engine": "google_scholar_profiles",
+        "mauthors": "Marco Pavan",
+        "hl": "en"
+    },
+    "profiles": [
+        {
+            "name": "Marco Pavan",
+            "link": "https://scholar.google.com/citations?hl=en&user=-UudVuUAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=-UudVuUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "-UudVuUAAAAJ",
+            "affiliations": "PhD in Computer Science, University of Udine",
+            "email": "Verified email at uniud.it",
+            "cited_by": 112,
+            "interests": [
+                {
+                    "title": "Data Mining",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adata_mining",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:data_mining"
+                },
+                {
+                    "title": "Information Retrieval",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ainformation_retrieval",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:information_retrieval"
+                },
+                {
+                    "title": "Artificial intelligence",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aartificial_intelligence",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:artificial_intelligence"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=-UudVuUAAAAJ&citpid=2"
+        },
+        {
+            "name": "marco pavan",
+            "link": "https://scholar.google.com/citations?hl=en&user=EvAT2T0AAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=EvAT2T0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "EvAT2T0AAAAJ",
+            "affiliations": "Professore di Antico Testamento, Pontificia Università San Tommaso Angelicum",
+            "email": "Verified email at pust.it",
+            "cited_by": 34,
+            "interests": [
+                {
+                    "title": "Letteratura del Secondo Tempio",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aletteratura_del_secondo_tempio",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:letteratura_del_secondo_tempio"
+                },
+                {
+                    "title": "Salmi",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Asalmi",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:salmi"
+                },
+                {
+                    "title": "Letteratura siriaca",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aletteratura_siriaca",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:letteratura_siriaca"
+                },
+                {
+                    "title": "Psalms",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Apsalms",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:psalms"
+                },
+                {
+                    "title": "Psalter",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Apsalter",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:psalter"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=EvAT2T0AAAAJ&citpid=1"
+        }
+    ]
+}

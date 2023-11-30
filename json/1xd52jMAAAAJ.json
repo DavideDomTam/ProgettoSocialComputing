@@ -1,0 +1,565 @@
+{
+    "search_metadata": {
+        "id": "6568997c2e7d6b2033d77f5a",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/aec16c65642a27ca/6568997c2e7d6b2033d77f5a.json",
+        "created_at": "2023-11-30 14:17:32 UTC",
+        "processed_at": "2023-11-30 14:17:32 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=1xd52jMAAAAJ&hl=en",
+        "raw_html_file": "https://serpapi.com/searches/aec16c65642a27ca/6568997c2e7d6b2033d77f5a.html",
+        "total_time_taken": 0.94
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "1xd52jMAAAAJ",
+        "hl": "en"
+    },
+    "author": {
+        "name": "Kevin Roitero",
+        "affiliations": "University of Udine",
+        "email": "Verified email at uniud.it",
+        "website": "https://kevinroitero.com/",
+        "interests": [
+            {
+                "title": "Artificial Intelligence",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:artificial_intelligence",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aartificial_intelligence"
+            },
+            {
+                "title": "Crowdsourcing and Human Computation",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:crowdsourcing_and_human_computation",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acrowdsourcing_and_human_computation"
+            },
+            {
+                "title": "Information Retrieval",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:information_retrieval",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ainformation_retrieval"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=1xd52jMAAAAJ&citpid=6"
+    },
+    "articles": [
+        {
+            "title": "All Those Wasted Hours: On Task Abandonment in Crowdsourcing",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1xd52jMAAAAJ&citation_for_view=1xd52jMAAAAJ:eQOLeE2rZwMC",
+            "citation_id": "1xd52jMAAAAJ:eQOLeE2rZwMC",
+            "authors": "L Han, K Roitero, U Gadiraju, C Sarasua, A Checco, E Maddalena, ...",
+            "publication": "Proceedings of the Twelfth ACM International Conference on Web Search and …, 2019",
+            "cited_by": {
+                "value": 60,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13445533322541398778",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13445533322541398778&engine=google_scholar&hl=en",
+                "cites_id": "13445533322541398778"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Can The Crowd Identify Misinformation Objectively? The Effects of Judgment Scale and Assessor's Background",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1xd52jMAAAAJ&citation_for_view=1xd52jMAAAAJ:KlAtU1dfN6UC",
+            "citation_id": "1xd52jMAAAAJ:KlAtU1dfN6UC",
+            "authors": "K Roitero, M Soprano, S Fan, D Spina, S Mizzaro, G Demartini",
+            "publication": "Proceedings of the 43rd International ACM SIGIR Conference on Research and …, 2020",
+            "cited_by": {
+                "value": 50,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5144879525913693104",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5144879525913693104&engine=google_scholar&hl=en",
+                "cites_id": "5144879525913693104"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Let's agree to disagree: Fixing agreement measures for crowdsourcing",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1xd52jMAAAAJ&citation_for_view=1xd52jMAAAAJ:9yKSN-GCB0IC",
+            "citation_id": "1xd52jMAAAAJ:9yKSN-GCB0IC",
+            "authors": "A Checco, K Roitero, E Maddalena, S Mizzaro, G Demartini",
+            "publication": "Proceedings of the AAAI Conference on Human Computation and Crowdsourcing 5 …, 2017",
+            "cited_by": {
+                "value": 46,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13917896110935332151",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13917896110935332151&engine=google_scholar&hl=en",
+                "cites_id": "13917896110935332151"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "The COVID-19 Infodemic: Can the Crowd Judge Recent Misinformation Objectively?",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1xd52jMAAAAJ&citation_for_view=1xd52jMAAAAJ:YOwf2qJgpHMC",
+            "citation_id": "1xd52jMAAAAJ:YOwf2qJgpHMC",
+            "authors": "K Roitero, M Soprano, B Portelli, D Spina, V Della Mea, G Serra, ...",
+            "publication": "Proceedings of the 29th ACM International Conference on Information …, 2020",
+            "cited_by": {
+                "value": 39,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12945281884161330513",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12945281884161330513&engine=google_scholar&hl=en",
+                "cites_id": "12945281884161330513"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Crowdsourcing truthfulness: The impact of judgment scale and assessor bias",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1xd52jMAAAAJ&citation_for_view=1xd52jMAAAAJ:3fE2CSJIrl8C",
+            "citation_id": "1xd52jMAAAAJ:3fE2CSJIrl8C",
+            "authors": "D La Barbera, K Roitero, G Demartini, S Mizzaro, D Spina",
+            "publication": "Advances in Information Retrieval: 42nd European Conference on IR Research …, 2020",
+            "cited_by": {
+                "value": 39,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10684200931203285045",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10684200931203285045&engine=google_scholar&hl=en",
+                "cites_id": "10684200931203285045"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "The impact of task abandonment in crowdsourcing",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1xd52jMAAAAJ&citation_for_view=1xd52jMAAAAJ:UebtZRa9Y70C",
+            "citation_id": "1xd52jMAAAAJ:UebtZRa9Y70C",
+            "authors": "L Han, K Roitero, U Gadiraju, C Sarasua, A Checco, E Maddalena, ...",
+            "publication": "IEEE Transactions on Knowledge and Data Engineering 33 (5), 2266-2279, 2019",
+            "cited_by": {
+                "value": 38,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13725491866116202731",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13725491866116202731&engine=google_scholar&hl=en",
+                "cites_id": "13725491866116202731"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "The many dimensions of truthfulness: Crowdsourcing misinformation assessments on a multidimensional scale",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1xd52jMAAAAJ&citation_for_view=1xd52jMAAAAJ:9ZlFYXVOiuMC",
+            "citation_id": "1xd52jMAAAAJ:9ZlFYXVOiuMC",
+            "authors": "M Soprano, K Roitero, D La Barbera, D Ceolin, D Spina, S Mizzaro, ...",
+            "publication": "Information Processing & Management 58 (6), 102710, 2021",
+            "cited_by": {
+                "value": 36,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1256946852954389244",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1256946852954389244&engine=google_scholar&hl=en",
+                "cites_id": "1256946852954389244"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "On Fine-Grained Relevance Scales",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1xd52jMAAAAJ&citation_for_view=1xd52jMAAAAJ:qjMakFHDy7sC",
+            "citation_id": "1xd52jMAAAAJ:qjMakFHDy7sC",
+            "authors": "K Roitero, E Maddalena, G Demartini, S Mizzaro",
+            "publication": "The 41st International ACM SIGIR Conference on Research & Development in …, 2018",
+            "cited_by": {
+                "value": 31,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=251309017899556040",
+                "serpapi_link": "https://serpapi.com/search.json?cites=251309017899556040&engine=google_scholar&hl=en",
+                "cites_id": "251309017899556040"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Crowd worker strategies in relevance judgment tasks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1xd52jMAAAAJ&citation_for_view=1xd52jMAAAAJ:8k81kl-MbHgC",
+            "citation_id": "1xd52jMAAAAJ:8k81kl-MbHgC",
+            "authors": "L Han, E Maddalena, A Checco, C Sarasua, U Gadiraju, K Roitero, ...",
+            "publication": "Proceedings of the 13th International Conference on Web Search and Data …, 2020",
+            "cited_by": {
+                "value": 29,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2440634027409730499",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2440634027409730499&engine=google_scholar&hl=en",
+                "cites_id": "2440634027409730499"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Considering assessor agreement in ir evaluation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1xd52jMAAAAJ&citation_for_view=1xd52jMAAAAJ:2osOgNQ5qMEC",
+            "citation_id": "1xd52jMAAAAJ:2osOgNQ5qMEC",
+            "authors": "E Maddalena, K Roitero, G Demartini, S Mizzaro",
+            "publication": "Proceedings of the ACM SIGIR International Conference on Theory of …, 2017",
+            "cited_by": {
+                "value": 29,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17839749587967019376",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17839749587967019376&engine=google_scholar&hl=en",
+                "cites_id": "17839749587967019376"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Can the crowd judge truthfulness? A longitudinal study on recent misinformation about COVID-19",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1xd52jMAAAAJ&citation_for_view=1xd52jMAAAAJ:Wp0gIr-vW9MC",
+            "citation_id": "1xd52jMAAAAJ:Wp0gIr-vW9MC",
+            "authors": "K Roitero, M Soprano, B Portelli, M De Luise, D Spina, VD Mea, G Serra, ...",
+            "publication": "Personal and Ubiquitous Computing, 1-31, 2021",
+            "cited_by": {
+                "value": 20,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1280744545905684761",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1280744545905684761&engine=google_scholar&hl=en",
+                "cites_id": "1280744545905684761"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Twitter goes to the Doctor: Detecting Medical Tweets using Machine Learning and BERT.",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1xd52jMAAAAJ&citation_for_view=1xd52jMAAAAJ:Zph67rFs4hoC",
+            "citation_id": "1xd52jMAAAAJ:Zph67rFs4hoC",
+            "authors": "K Roitero, C Bozzato, V Della Mea, S Mizzaro, G Serra",
+            "publication": "SIIRH@ ECIR, 2020",
+            "cited_by": {
+                "value": 19,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11306155606707394742",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11306155606707394742&engine=google_scholar&hl=en",
+                "cites_id": "11306155606707394742"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "The effects of crowd worker biases in fact-checking tasks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1xd52jMAAAAJ&citation_for_view=1xd52jMAAAAJ:HDshCWvjkbEC",
+            "citation_id": "1xd52jMAAAAJ:HDshCWvjkbEC",
+            "authors": "T Draws, D La Barbera, M Soprano, K Roitero, D Ceolin, A Checco, ...",
+            "publication": "Proceedings of the 2022 ACM Conference on Fairness, Accountability, and …, 2022",
+            "cited_by": {
+                "value": 17,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9990284390874509019",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9990284390874509019&engine=google_scholar&hl=en",
+                "cites_id": "9990284390874509019"
+            },
+            "year": "2022"
+        },
+        {
+            "title": "Detection of HER2 from Haematoxylin-Eosin Slides Through a Cascade of Deep Learning Classifiers via Multi-Instance Learning",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1xd52jMAAAAJ&citation_for_view=1xd52jMAAAAJ:4TOpqqG69KYC",
+            "citation_id": "1xd52jMAAAAJ:4TOpqqG69KYC",
+            "authors": "D La Barbera, A Polónia, K Roitero, E Conde-Sousa, V Della Mea",
+            "publication": "Journal of Imaging 6 (9), 82, 2020",
+            "cited_by": {
+                "value": 17,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17674346889158848649",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17674346889158848649&engine=google_scholar&hl=en",
+                "cites_id": "17674346889158848649"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Leveraging behavioral heterogeneity across markets for cross-market training of recommender systems",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1xd52jMAAAAJ&citation_for_view=1xd52jMAAAAJ:kNdYIx-mwKoC",
+            "citation_id": "1xd52jMAAAAJ:kNdYIx-mwKoC",
+            "authors": "K Roitero, B Carterette, R Mehrotra, M Lalmas",
+            "publication": "Companion Proceedings of the Web Conference 2020, 694-702, 2020",
+            "cited_by": {
+                "value": 17,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2393568481279174154",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2393568481279174154&engine=google_scholar&hl=en",
+                "cites_id": "2393568481279174154"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Do easy topics predict effectiveness better than difficult topics?",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1xd52jMAAAAJ&citation_for_view=1xd52jMAAAAJ:u-x6o8ySG0sC",
+            "citation_id": "1xd52jMAAAAJ:u-x6o8ySG0sC",
+            "authors": "K Roitero, E Maddalena, S Mizzaro",
+            "publication": "Advances in Information Retrieval: 39th European Conference on IR Research …, 2017",
+            "cited_by": {
+                "value": 17,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6799266872742406890",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6799266872742406890&engine=google_scholar&hl=en",
+                "cites_id": "6799266872742406890"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "On Transforming Relevance Scales",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1xd52jMAAAAJ&citation_for_view=1xd52jMAAAAJ:hqOjcs7Dif8C",
+            "citation_id": "1xd52jMAAAAJ:hqOjcs7Dif8C",
+            "authors": "L Han, K Roitero, E Maddalena, S Mizzaro, G Demartini",
+            "publication": "Proceedings of the 28th ACM International Conference on Information and …, 2019",
+            "cited_by": {
+                "value": 15,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4690762025139458076",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4690762025139458076&engine=google_scholar&hl=en",
+                "cites_id": "4690762025139458076"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "How Many Truth Levels? Six? One Hundred? Even More? Validating Truthfulness of Statements via Crowdsourcing.",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1xd52jMAAAAJ&citation_for_view=1xd52jMAAAAJ:Y0pCki6q_DkC",
+            "citation_id": "1xd52jMAAAAJ:Y0pCki6q_DkC",
+            "authors": "K Roitero, G Demartini, S Mizzaro, D Spina",
+            "publication": "CIKM Workshops, 2018",
+            "cited_by": {
+                "value": 14,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18398565507887174732",
+                "serpapi_link": "https://serpapi.com/search.json?cites=18398565507887174732&engine=google_scholar&hl=en",
+                "cites_id": "18398565507887174732"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Underlying cause of death identification from death certificates using reverse coding to text and a NLP based deep learning approach",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1xd52jMAAAAJ&citation_for_view=1xd52jMAAAAJ:M3ejUd6NZC8C",
+            "citation_id": "1xd52jMAAAAJ:M3ejUd6NZC8C",
+            "authors": "V Della Mea, MH Popescu, K Roitero",
+            "publication": "Informatics in Medicine Unlocked 21, 100456, 2020",
+            "cited_by": {
+                "value": 13,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=505260687152610087",
+                "serpapi_link": "https://serpapi.com/search.json?cites=505260687152610087&engine=google_scholar&hl=en",
+                "cites_id": "505260687152610087"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Query performance prediction and effectiveness evaluation without relevance judgments: Two sides of the same coin",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1xd52jMAAAAJ&citation_for_view=1xd52jMAAAAJ:IjCSPb-OGe4C",
+            "citation_id": "1xd52jMAAAAJ:IjCSPb-OGe4C",
+            "authors": "S Mizzaro, J Mothe, K Roitero, MZ Ullah",
+            "publication": "The 41st International ACM SIGIR Conference on Research & Development in …, 2018",
+            "cited_by": {
+                "value": 13,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10095406618226814730",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10095406618226814730&engine=google_scholar&hl=en",
+                "cites_id": "10095406618226814730"
+            },
+            "year": "2018"
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 692,
+                    "since_2018": 683
+                }
+            },
+            {
+                "h_index": {
+                    "all": 16,
+                    "since_2018": 16
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 23,
+                    "since_2018": 23
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2017,
+                "citations": 6
+            },
+            {
+                "year": 2018,
+                "citations": 18
+            },
+            {
+                "year": 2019,
+                "citations": 48
+            },
+            {
+                "year": 2020,
+                "citations": 89
+            },
+            {
+                "year": 2021,
+                "citations": 120
+            },
+            {
+                "year": 2022,
+                "citations": 189
+            },
+            {
+                "year": 2023,
+                "citations": 218
+            }
+        ]
+    },
+    "public_access": {
+        "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=1xd52jMAAAAJ",
+        "available": 19,
+        "not_available": 6
+    },
+    "co_authors": [
+        {
+            "name": "Stefano Mizzaro",
+            "link": "https://scholar.google.com/citations?user=2wvJC6IAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=2wvJC6IAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "2wvJC6IAAAAJ",
+            "affiliations": "Full professor of Computer Science and Information Technology",
+            "email": "Verified email at uniud.it",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=2wvJC6IAAAAJ&citpid=1"
+        },
+        {
+            "name": "Gianluca Demartini",
+            "link": "https://scholar.google.com/citations?user=PCAiILsAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=PCAiILsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "PCAiILsAAAAJ",
+            "affiliations": "Associate Professor at the University of Queensland",
+            "email": "Verified email at cs.berkeley.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=PCAiILsAAAAJ&citpid=6"
+        },
+        {
+            "name": "Michael Soprano",
+            "link": "https://scholar.google.com/citations?user=ocK0qRUAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=ocK0qRUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ocK0qRUAAAAJ",
+            "affiliations": "Postdoctoral Research Fellow at the University of Udine",
+            "email": "Verified email at uniud.it",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=ocK0qRUAAAAJ&citpid=2"
+        },
+        {
+            "name": "Eddy Maddalena",
+            "link": "https://scholar.google.com/citations?user=egHDpFkAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=egHDpFkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "egHDpFkAAAAJ",
+            "affiliations": "Università degli Studi di Udine, Italy",
+            "email": "Verified email at uniud.it",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=egHDpFkAAAAJ&citpid=4"
+        },
+        {
+            "name": "Vincenzo Della Mea",
+            "link": "https://scholar.google.com/citations?user=BF3B4KAAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=BF3B4KAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "BF3B4KAAAAAJ",
+            "affiliations": "Associate Professor of Medical Informatics, University of Udine",
+            "email": "Verified email at uniud.it",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=BF3B4KAAAAAJ&citpid=7"
+        },
+        {
+            "name": "Damiano Spina",
+            "link": "https://scholar.google.com/citations?user=sLzYrNYAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=sLzYrNYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "sLzYrNYAAAAJ",
+            "affiliations": "School of Computing Technologies, RMIT University",
+            "email": "Verified email at rmit.edu.au",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=sLzYrNYAAAAJ&citpid=8"
+        },
+        {
+            "name": "David La Barbera",
+            "link": "https://scholar.google.com/citations?user=MvN8wKEAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=MvN8wKEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "MvN8wKEAAAAJ",
+            "affiliations": "Università Degli Studi Di Udine",
+            "email": "Verified email at spes.uniud.it",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=MvN8wKEAAAAJ&citpid=1"
+        },
+        {
+            "name": "Alessandro Checco",
+            "link": "https://scholar.google.com/citations?user=crhkrNcAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=crhkrNcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "crhkrNcAAAAJ",
+            "affiliations": "Computer Science Department - University of Rome La Sapienza",
+            "email": "Verified email at uniroma1.it",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=crhkrNcAAAAJ&citpid=2"
+        },
+        {
+            "name": "Beatrice Portelli",
+            "link": "https://scholar.google.com/citations?user=HQZd6wsAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=HQZd6wsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "HQZd6wsAAAAJ",
+            "affiliations": "University of Udine",
+            "email": "Verified email at spes.uniud.it",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=HQZd6wsAAAAJ&citpid=2"
+        },
+        {
+            "name": "Mihai Horia Popescu",
+            "link": "https://scholar.google.com/citations?user=7VIbKlEAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=7VIbKlEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "7VIbKlEAAAAJ",
+            "affiliations": "PhD student",
+            "email": "Verified email at uniud.it",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=7VIbKlEAAAAJ&citpid=5"
+        },
+        {
+            "name": "Davide Ceolin",
+            "link": "https://scholar.google.com/citations?user=y8Jy518AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=y8Jy518AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "y8Jy518AAAAJ",
+            "affiliations": "Tenured Researcher, CWI Amsterdam",
+            "email": "Verified email at cwi.nl",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Falk Scholer",
+            "link": "https://scholar.google.com/citations?user=qOLjlqsAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=qOLjlqsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "qOLjlqsAAAAJ",
+            "affiliations": "School of Computing Technologies, RMIT University",
+            "email": "Verified email at rmit.edu.au",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=qOLjlqsAAAAJ&citpid=2"
+        },
+        {
+            "name": "J. Shane Culpepper",
+            "link": "https://scholar.google.com/citations?user=OFlBSEEAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=OFlBSEEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "OFlBSEEAAAAJ",
+            "affiliations": "The University of Queensland",
+            "email": "Verified email at uq.edu.au",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=OFlBSEEAAAAJ&citpid=8"
+        },
+        {
+            "name": "Andrea Brunello",
+            "link": "https://scholar.google.com/citations?user=GuteS00AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=GuteS00AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "GuteS00AAAAJ",
+            "affiliations": "Università degli Studi di Udine",
+            "email": "Verified email at uniud.it",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=GuteS00AAAAJ&citpid=4"
+        },
+        {
+            "name": "Shaoyang Fan",
+            "link": "https://scholar.google.com/citations?user=uF87D5kAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=uF87D5kAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "uF87D5kAAAAJ",
+            "affiliations": "The University of Queensland",
+            "email": "Verified email at uq.edu.au",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=uF87D5kAAAAJ&citpid=1"
+        },
+        {
+            "name": "Yunke Qu",
+            "link": "https://scholar.google.com/citations?user=oup2M48AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=oup2M48AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "oup2M48AAAAJ",
+            "affiliations": "The University of Queensland",
+            "email": "Verified email at uq.net.au",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Mark Sanderson",
+            "link": "https://scholar.google.com/citations?user=HmqvvQkAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=HmqvvQkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "HmqvvQkAAAAJ",
+            "affiliations": "School of Computing Technologies, RMIT University",
+            "email": "Verified email at rmit.edu.au",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=HmqvvQkAAAAJ&citpid=7"
+        },
+        {
+            "name": "Rishabh Mehrotra",
+            "link": "https://scholar.google.com/citations?user=X9BKWWoAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=X9BKWWoAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "X9BKWWoAAAAJ",
+            "affiliations": "Director - Machine Learning, ShareChat",
+            "email": "Verified email at sharechat.co",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=X9BKWWoAAAAJ&citpid=3"
+        },
+        {
+            "name": "Mounia Lalmas",
+            "link": "https://scholar.google.com/citations?user=wAr9G5sAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=wAr9G5sAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "wAr9G5sAAAAJ",
+            "affiliations": "Spotify",
+            "email": "Verified email at acm.org",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=wAr9G5sAAAAJ&citpid=3"
+        },
+        {
+            "name": "Tim Draws",
+            "link": "https://scholar.google.com/citations?user=UTMHOZMAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=UTMHOZMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "UTMHOZMAAAAJ",
+            "affiliations": "OTTO",
+            "email": "Verified email at otto.de",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=UTMHOZMAAAAJ&citpid=3"
+        }
+    ],
+    "serpapi_pagination": {
+        "next": "https://serpapi.com/search.json?author_id=1xd52jMAAAAJ&engine=google_scholar_author&hl=en&start=20"
+    }
+}

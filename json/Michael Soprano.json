@@ -1,13 +1,13 @@
 {
     "search_metadata": {
-        "id": "656778bba4be1082b85ed9db",
+        "id": "656898b6a1b4236d73db3e14",
         "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/eaa1124578e8e52c/656778bba4be1082b85ed9db.json",
-        "created_at": "2023-11-29 17:45:31 UTC",
-        "processed_at": "2023-11-29 17:45:31 UTC",
+        "json_endpoint": "https://serpapi.com/searches/40e0721b631d589c/656898b6a1b4236d73db3e14.json",
+        "created_at": "2023-11-30 14:14:14 UTC",
+        "processed_at": "2023-11-30 14:14:14 UTC",
         "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Michael+Soprano&view_op=search_authors&hl=en",
-        "raw_html_file": "https://serpapi.com/searches/eaa1124578e8e52c/656778bba4be1082b85ed9db.html",
-        "total_time_taken": 0.89
+        "raw_html_file": "https://serpapi.com/searches/40e0721b631d589c/656898b6a1b4236d73db3e14.html",
+        "total_time_taken": 0.59
     },
     "search_parameters": {
         "engine": "google_scholar_profiles",
