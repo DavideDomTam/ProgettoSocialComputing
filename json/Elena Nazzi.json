@@ -1,0 +1,56 @@
+{
+    "search_metadata": {
+        "id": "65689a039d1586bd69743fb0",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/2f87f37542890ada/65689a039d1586bd69743fb0.json",
+        "created_at": "2023-11-30 14:19:47 UTC",
+        "processed_at": "2023-11-30 14:19:47 UTC",
+        "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Elena+Nazzi&view_op=search_authors&hl=en",
+        "raw_html_file": "https://serpapi.com/searches/2f87f37542890ada/65689a039d1586bd69743fb0.html",
+        "total_time_taken": 0.99
+    },
+    "search_parameters": {
+        "engine": "google_scholar_profiles",
+        "mauthors": "Elena Nazzi",
+        "hl": "en"
+    },
+    "profiles": [
+        {
+            "name": "Elena Nazzi",
+            "link": "https://scholar.google.com/citations?hl=en&user=krOJM2sAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=krOJM2sAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "krOJM2sAAAAJ",
+            "affiliations": "PhD student in Interaction Design, IT University of Copenhagen",
+            "email": "Verified email at itu.dk",
+            "cited_by": 175,
+            "interests": [
+                {
+                    "title": "Interaction Design",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ainteraction_design",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:interaction_design"
+                },
+                {
+                    "title": "Social Computing",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Asocial_computing",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:social_computing"
+                },
+                {
+                    "title": "Tangible Computing",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Atangible_computing",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:tangible_computing"
+                },
+                {
+                    "title": "Internet of Things",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ainternet_of_things",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:internet_of_things"
+                },
+                {
+                    "title": "Embodied Interaction",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aembodied_interaction",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:embodied_interaction"
+                }
+            ],
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        }
+    ]
+}

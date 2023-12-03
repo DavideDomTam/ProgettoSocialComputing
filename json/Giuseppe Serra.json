@@ -1,0 +1,147 @@
+{
+    "search_metadata": {
+        "id": "656898e6969c08ba6ce86074",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/bf975b5563b59f8b/656898e6969c08ba6ce86074.json",
+        "created_at": "2023-11-30 14:15:02 UTC",
+        "processed_at": "2023-11-30 14:15:02 UTC",
+        "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Giuseppe+Serra&view_op=search_authors&hl=en",
+        "raw_html_file": "https://serpapi.com/searches/bf975b5563b59f8b/656898e6969c08ba6ce86074.html",
+        "total_time_taken": 1.09
+    },
+    "search_parameters": {
+        "engine": "google_scholar_profiles",
+        "mauthors": "Giuseppe Serra",
+        "hl": "en"
+    },
+    "profiles": [
+        {
+            "name": "Giuseppe Serra",
+            "link": "https://scholar.google.com/citations?hl=en&user=xz1J-xQAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=xz1J-xQAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "xz1J-xQAAAAJ",
+            "affiliations": "Associate Professor of Computer Science, University of Udine",
+            "email": "Verified email at uniud.it",
+            "cited_by": 5344,
+            "interests": [
+                {
+                    "title": "Machine Learning",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amachine_learning",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:machine_learning"
+                },
+                {
+                    "title": "Artificial Intelligence",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aartificial_intelligence",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:artificial_intelligence"
+                },
+                {
+                    "title": "Multimedia",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amultimedia",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:multimedia"
+                },
+                {
+                    "title": "NLP",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Anlp",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:nlp"
+                },
+                {
+                    "title": "Multimedia Forensics",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amultimedia_forensics",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:multimedia_forensics"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=xz1J-xQAAAAJ&citpid=3"
+        },
+        {
+            "name": "Giuseppe Serra",
+            "link": "https://scholar.google.com/citations?hl=en&user=vEE1SCMAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=vEE1SCMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "vEE1SCMAAAAJ",
+            "affiliations": "Consiglio Nazionale delle Ricerche - IBE",
+            "email": "Verified email at cnr.it",
+            "cited_by": 445,
+            "interests": [
+                {
+                    "title": "entomology",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aentomology",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:entomology"
+                },
+                {
+                    "title": "plant protection",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aplant_protection",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:plant_protection"
+                },
+                {
+                    "title": "forest entomology",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aforest_entomology",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:forest_entomology"
+                },
+                {
+                    "title": "agriculture entomology",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aagriculture_entomology",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:agriculture_entomology"
+                },
+                {
+                    "title": "insect mass-rearing",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ainsect_mass_rearing",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:insect_mass_rearing"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=vEE1SCMAAAAJ&citpid=6"
+        },
+        {
+            "name": "Giuseppe Serra",
+            "link": "https://scholar.google.com/citations?hl=en&user=okTZ0VgAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=okTZ0VgAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "okTZ0VgAAAAJ",
+            "affiliations": "Goethe-Universität Frankfurt",
+            "email": "Verified email at med.uni-frankfurt.de",
+            "cited_by": 7,
+            "interests": [
+                {
+                    "title": "Explainable AI",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aexplainable_ai",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:explainable_ai"
+                },
+                {
+                    "title": "Machine Learning",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amachine_learning",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:machine_learning"
+                },
+                {
+                    "title": "Graph AI",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Agraph_ai",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:graph_ai"
+                },
+                {
+                    "title": "Representation Learning",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Arepresentation_learning",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:representation_learning"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=okTZ0VgAAAAJ&citpid=10"
+        },
+        {
+            "name": "Giuseppe Serra",
+            "link": "https://scholar.google.com/citations?hl=en&user=j0VqrQcAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=j0VqrQcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "j0VqrQcAAAAJ",
+            "affiliations": "PhD Student @ EURECOM",
+            "email": "Verified email at eurecom.fr",
+            "cited_by": 7,
+            "interests": [
+                {
+                    "title": "Information Theory",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ainformation_theory",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:information_theory"
+                },
+                {
+                    "title": "Machine Learning",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amachine_learning",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:machine_learning"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=j0VqrQcAAAAJ&citpid=5"
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "search_metadata": {
+        "id": "656899824d443dbde57b57a1",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/0eed6d5d6b6f1ad6/656899824d443dbde57b57a1.json",
+        "created_at": "2023-11-30 14:17:38 UTC",
+        "processed_at": "2023-11-30 14:17:38 UTC",
+        "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Falk+Scholer&view_op=search_authors&hl=en",
+        "raw_html_file": "https://serpapi.com/searches/0eed6d5d6b6f1ad6/656899824d443dbde57b57a1.html",
+        "total_time_taken": 1.52
+    },
+    "search_parameters": {
+        "engine": "google_scholar_profiles",
+        "mauthors": "Falk Scholer",
+        "hl": "en"
+    },
+    "profiles": [
+        {
+            "name": "Falk Scholer",
+            "link": "https://scholar.google.com/citations?hl=en&user=qOLjlqsAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=qOLjlqsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "qOLjlqsAAAAJ",
+            "affiliations": "School of Computing Technologies, RMIT University",
+            "email": "Verified email at rmit.edu.au",
+            "cited_by": 4655,
+            "interests": [
+                {
+                    "title": "Information retrieval",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ainformation_retrieval",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:information_retrieval"
+                },
+                {
+                    "title": "search",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Asearch",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:search"
+                },
+                {
+                    "title": "… transparency and ethics of algorithms AI and …",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Atransparency_and_ethics_of_algorithms_ai_and",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:fairness_accountability_transparency_and_ethics_of_algorithms_ai_and_computing"
+                },
+                {
+                    "title": "data science",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adata_science",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:data_science"
+                },
+                {
+                    "title": "dat",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adat",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:dat"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=qOLjlqsAAAAJ&citpid=2"
+        },
+        {
+            "name": "Avner Falk",
+            "link": "https://scholar.google.com/citations?hl=en&user=m8TXhSQAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=m8TXhSQAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "m8TXhSQAAAAJ",
+            "affiliations": "Independent Scholar",
+            "cited_by": 679,
+            "interests": [
+                {
+                    "title": "Psychoanalysis",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Apsychoanalysis",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:psychoanalysis"
+                },
+                {
+                    "title": "Psychohistory",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Apsychohistory",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:psychohistory"
+                },
+                {
+                    "title": "Psychobiography",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Apsychobiography",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:psychobiography"
+                },
+                {
+                    "title": "Political Psychology",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Apolitical_psychology",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:political_psychology"
+                },
+                {
+                    "title": "Psychogeography",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Apsychogeography",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:psychogeography"
+                }
+            ],
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        }
+    ]
+}

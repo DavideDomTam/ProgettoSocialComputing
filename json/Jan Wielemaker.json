@@ -1,0 +1,41 @@
+{
+    "search_metadata": {
+        "id": "656898eadefa13f299423250",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/f3b945c9b6da9035/656898eadefa13f299423250.json",
+        "created_at": "2023-11-30 14:15:06 UTC",
+        "processed_at": "2023-11-30 14:15:06 UTC",
+        "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Jan+Wielemaker&view_op=search_authors&hl=en",
+        "raw_html_file": "https://serpapi.com/searches/f3b945c9b6da9035/656898eadefa13f299423250.html",
+        "total_time_taken": 0.43
+    },
+    "search_parameters": {
+        "engine": "google_scholar_profiles",
+        "mauthors": "Jan Wielemaker",
+        "hl": "en"
+    },
+    "profiles": [
+        {
+            "name": "Jan Wielemaker",
+            "link": "https://scholar.google.com/citations?hl=en&user=7J1vJdEAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=7J1vJdEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "7J1vJdEAAAAJ",
+            "affiliations": "Researcher in Computer Science, VU University Amsterdam",
+            "email": "Verified email at vu.nl",
+            "cited_by": 5073,
+            "interests": [
+                {
+                    "title": "Logic programming",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Alogic_programming",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:logic_programming"
+                },
+                {
+                    "title": "Semantic web",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Asemantic_web",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:semantic_web"
+                }
+            ],
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        }
+    ]
+}

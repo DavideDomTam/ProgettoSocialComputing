@@ -1,13 +1,13 @@
 {
     "search_metadata": {
-        "id": "656778b59bddf70d3b001fb6",
+        "id": "656898b4ca968f313eea41b3",
         "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/fe1e3dde2097c171/656778b59bddf70d3b001fb6.json",
-        "created_at": "2023-11-29 17:45:25 UTC",
-        "processed_at": "2023-11-29 17:45:25 UTC",
+        "json_endpoint": "https://serpapi.com/searches/cb77e8394cf14c4c/656898b4ca968f313eea41b3.json",
+        "created_at": "2023-11-30 14:14:12 UTC",
+        "processed_at": "2023-11-30 14:14:12 UTC",
         "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Damiano+Spina&view_op=search_authors&hl=en",
-        "raw_html_file": "https://serpapi.com/searches/fe1e3dde2097c171/656778b59bddf70d3b001fb6.html",
-        "total_time_taken": 0.93
+        "raw_html_file": "https://serpapi.com/searches/cb77e8394cf14c4c/656898b4ca968f313eea41b3.html",
+        "total_time_taken": 0.98
     },
     "search_parameters": {
         "engine": "google_scholar_profiles",
@@ -22,7 +22,7 @@
             "author_id": "sLzYrNYAAAAJ",
             "affiliations": "School of Computing Technologies, RMIT University",
             "email": "Verified email at rmit.edu.au",
-            "cited_by": 2491,
+            "cited_by": 2492,
             "interests": [
                 {
                     "title": "Information Retrieval",

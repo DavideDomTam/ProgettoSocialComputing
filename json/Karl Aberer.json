@@ -1,0 +1,56 @@
+{
+    "search_metadata": {
+        "id": "65689af094fb031770337cf4",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/b2ccff9108c278bc/65689af094fb031770337cf4.json",
+        "created_at": "2023-11-30 14:23:44 UTC",
+        "processed_at": "2023-11-30 14:23:44 UTC",
+        "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Karl+Aberer&view_op=search_authors&hl=en",
+        "raw_html_file": "https://serpapi.com/searches/b2ccff9108c278bc/65689af094fb031770337cf4.html",
+        "total_time_taken": 1.03
+    },
+    "search_parameters": {
+        "engine": "google_scholar_profiles",
+        "mauthors": "Karl Aberer",
+        "hl": "en"
+    },
+    "profiles": [
+        {
+            "name": "Karl Aberer",
+            "link": "https://scholar.google.com/citations?hl=en&user=ifU81ikAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=ifU81ikAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ifU81ikAAAAJ",
+            "affiliations": "Professor of Computer and Communication Sciences, EPFL",
+            "email": "Verified email at epfl.ch",
+            "cited_by": 23849,
+            "interests": [
+                {
+                    "title": "Social Media",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Asocial_media",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:social_media"
+                },
+                {
+                    "title": "Data Management",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adata_management",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:data_management"
+                },
+                {
+                    "title": "Data Integration",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adata_integration",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:data_integration"
+                },
+                {
+                    "title": "Trust Management",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Atrust_management",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:trust_management"
+                },
+                {
+                    "title": "Semantic Web",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Asemantic_web",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:semantic_web"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=ifU81ikAAAAJ&citpid=2"
+        }
+    ]
+}

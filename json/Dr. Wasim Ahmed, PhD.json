@@ -1,0 +1,169 @@
+{
+    "search_metadata": {
+        "id": "65689aeb34ff95c861b4f251",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/46c227326350663b/65689aeb34ff95c861b4f251.json",
+        "created_at": "2023-11-30 14:23:39 UTC",
+        "processed_at": "2023-11-30 14:23:39 UTC",
+        "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Dr.+Wasim+Ahmed%2C+PhD&view_op=search_authors&hl=en",
+        "raw_html_file": "https://serpapi.com/searches/46c227326350663b/65689aeb34ff95c861b4f251.html",
+        "total_time_taken": 4.02
+    },
+    "search_parameters": {
+        "engine": "google_scholar_profiles",
+        "mauthors": "Dr. Wasim Ahmed, PhD",
+        "hl": "en"
+    },
+    "profiles": [
+        {
+            "name": "Dr. Wasim Ahmed, PhD",
+            "link": "https://scholar.google.com/citations?hl=en&user=JduIcrAAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=JduIcrAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "JduIcrAAAAAJ",
+            "affiliations": "Senior Lecturer in Marketing",
+            "email": "Verified email at hull.ac.uk",
+            "cited_by": 2173,
+            "interests": [
+                {
+                    "title": "Disinformation",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adisinformation",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:disinformation"
+                },
+                {
+                    "title": "Twitter",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Atwitter",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:twitter"
+                },
+                {
+                    "title": "Digital Business",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adigital_business",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:digital_business"
+                },
+                {
+                    "title": "Social Network Analysis",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Asocial_network_analysis",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:social_network_analysis"
+                },
+                {
+                    "title": "Health Informatics",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ahealth_informatics",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:health_informatics"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=JduIcrAAAAAJ&citpid=4"
+        },
+        {
+            "name": "Waseem Ahmad",
+            "link": "https://scholar.google.com/citations?hl=en&user=3JzfEW8AAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=3JzfEW8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "3JzfEW8AAAAJ",
+            "affiliations": "PhD Candidate at Griffith University",
+            "email": "Verified email at griffithuni.edu.au",
+            "cited_by": 314,
+            "interests": [
+                {
+                    "title": "Environmental Sciences",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aenvironmental_sciences",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:environmental_sciences"
+                },
+                {
+                    "title": "Renewable Energies",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Arenewable_energies",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:renewable_energies"
+                },
+                {
+                    "title": "Electrocatalysts",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aelectrocatalysts",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:electrocatalysts"
+                },
+                {
+                    "title": "Nanotechnology",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ananotechnology",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:nanotechnology"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=3JzfEW8AAAAJ&citpid=2"
+        },
+        {
+            "name": "Wasim Ahmad",
+            "link": "https://scholar.google.com/citations?hl=en&user=Q4O3DMIAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Q4O3DMIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Q4O3DMIAAAAJ",
+            "affiliations": "PhD Scholar Academia Sinica, Taiwan",
+            "email": "Verified email at iis.sinica.edu.tw",
+            "cited_by": 23,
+            "interests": [
+                {
+                    "title": "DeepFake Detection",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adeep_fake_detection",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:deepfake_detection"
+                },
+                {
+                    "title": "Machine Learning and NLP",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amachine_learning_and_nlp",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:machine_learning_and_nlp"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Q4O3DMIAAAAJ&citpid=4"
+        },
+        {
+            "name": "Waseem Ahmad",
+            "link": "https://scholar.google.com/citations?hl=en&user=cuPr32MAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=cuPr32MAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "cuPr32MAAAAJ",
+            "affiliations": "PhD Research Scholar, Jamia Miliia Islamia, New Delhi-110025",
+            "email": "Verified email at st.jmi.ac.in",
+            "cited_by": 1,
+            "interests": [
+                {
+                    "title": "Autobiographical Writings",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aautobiographical_writings",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:autobiographical_writings"
+                },
+                {
+                    "title": "Biographical writings",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Abiographical_writings",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:biographical_writings"
+                },
+                {
+                    "title": "Modern Writings from Jammu and Kashmir",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amodern_writings_from_jammu_and_kashmir",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:modern_writings_from_jammu_and_kashmir"
+                }
+            ],
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Wasim Ahmed",
+            "link": "https://scholar.google.com/citations?hl=en&user=v23JYioAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=v23JYioAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "v23JYioAAAAJ",
+            "affiliations": "PhD scholar, dept. of mathematics",
+            "email": "Verified email at myamu.ac.in",
+            "cited_by": null,
+            "interests": [
+                {
+                    "title": "prime ring",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aprime_ring",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:prime_ring"
+                },
+                {
+                    "title": "semiprime ring",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Asemiprime_ring",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:semiprime_ring"
+                },
+                {
+                    "title": "triangular algebra",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Atriangular_algebra",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:triangular_algebra"
+                },
+                {
+                    "title": "generalized derivation",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ageneralized_derivation",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:generalized_derivation"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=v23JYioAAAAJ&citpid=1"
+        }
+    ]
+}

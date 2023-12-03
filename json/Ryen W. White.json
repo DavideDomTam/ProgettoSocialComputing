@@ -1,0 +1,56 @@
+{
+    "search_metadata": {
+        "id": "65689a76477c0ebd200ad83c",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/18d6dd1990ac1163/65689a76477c0ebd200ad83c.json",
+        "created_at": "2023-11-30 14:21:42 UTC",
+        "processed_at": "2023-11-30 14:21:42 UTC",
+        "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Ryen+W.+White&view_op=search_authors&hl=en",
+        "raw_html_file": "https://serpapi.com/searches/18d6dd1990ac1163/65689a76477c0ebd200ad83c.html",
+        "total_time_taken": 6.3
+    },
+    "search_parameters": {
+        "engine": "google_scholar_profiles",
+        "mauthors": "Ryen W. White",
+        "hl": "en"
+    },
+    "profiles": [
+        {
+            "name": "Ryen W. White",
+            "link": "https://scholar.google.com/citations?hl=en&user=U69fiZMAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=U69fiZMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "U69fiZMAAAAJ",
+            "affiliations": "General Manager, Deputy Lab Director, Microsoft Research",
+            "email": "Verified email at microsoft.com",
+            "cited_by": 20484,
+            "interests": [
+                {
+                    "title": "Information Retrieval",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ainformation_retrieval",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:information_retrieval"
+                },
+                {
+                    "title": "Human-Computer Interaction",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ahuman_computer_interaction",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:human_computer_interaction"
+                },
+                {
+                    "title": "Artificial Intelligence",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aartificial_intelligence",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:artificial_intelligence"
+                },
+                {
+                    "title": "Psychology",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Apsychology",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:psychology"
+                },
+                {
+                    "title": "Health",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ahealth",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:health"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=U69fiZMAAAAJ&citpid=5"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "search_metadata": {
+        "id": "656898ef5c56061b36046713",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/0b598d5d56b979de/656898ef5c56061b36046713.json",
+        "created_at": "2023-11-30 14:15:11 UTC",
+        "processed_at": "2023-11-30 14:15:11 UTC",
+        "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Tetsuya+Sakai&view_op=search_authors&hl=en",
+        "raw_html_file": "https://serpapi.com/searches/0b598d5d56b979de/656898ef5c56061b36046713.html",
+        "total_time_taken": 0.87
+    },
+    "search_parameters": {
+        "engine": "google_scholar_profiles",
+        "mauthors": "Tetsuya Sakai",
+        "hl": "en"
+    },
+    "profiles": [
+        {
+            "name": "Tetsuya Sakai",
+            "link": "https://scholar.google.com/citations?hl=en&user=vi56gz4AAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=vi56gz4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "vi56gz4AAAAJ",
+            "affiliations": "Waseda University",
+            "email": "Verified email at waseda.jp",
+            "cited_by": 6629,
+            "interests": [
+                {
+                    "title": "information retrieval",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ainformation_retrieval",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:information_retrieval"
+                },
+                {
+                    "title": "natural language processing",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Anatural_language_processing",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:natural_language_processing"
+                },
+                {
+                    "title": "human computer interaction",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ahuman_computer_interaction",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:human_computer_interaction"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=vi56gz4AAAAJ&citpid=2"
+        }
+    ]
+}

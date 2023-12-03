@@ -1,0 +1,46 @@
+{
+    "search_metadata": {
+        "id": "65689af20a90c790eb0a981c",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/f032c5d75a09f17a/65689af20a90c790eb0a981c.json",
+        "created_at": "2023-11-30 14:23:46 UTC",
+        "processed_at": "2023-11-30 14:23:46 UTC",
+        "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Alberto+Tonon&view_op=search_authors&hl=en",
+        "raw_html_file": "https://serpapi.com/searches/f032c5d75a09f17a/65689af20a90c790eb0a981c.html",
+        "total_time_taken": 0.17
+    },
+    "search_parameters": {
+        "engine": "google_scholar_profiles",
+        "mauthors": "Alberto Tonon",
+        "hl": "en"
+    },
+    "profiles": [
+        {
+            "name": "Alberto Tonon",
+            "link": "https://scholar.google.com/citations?hl=en&user=zBYcXUMAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=zBYcXUMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "zBYcXUMAAAAJ",
+            "affiliations": "PhD Student, University of Fribourg",
+            "email": "Verified email at exascale.info",
+            "cited_by": 467,
+            "interests": [
+                {
+                    "title": "Computer Science",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acomputer_science",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:computer_science"
+                },
+                {
+                    "title": "Information Retrieval",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ainformation_retrieval",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:information_retrieval"
+                },
+                {
+                    "title": "Semantic Web",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Asemantic_web",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:semantic_web"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=zBYcXUMAAAAJ&citpid=2"
+        }
+    ]
+}

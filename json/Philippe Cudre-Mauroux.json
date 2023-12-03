@@ -1,0 +1,51 @@
+{
+    "search_metadata": {
+        "id": "65689adf37b24abf3e8ed17b",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/e7a33350058e04b8/65689adf37b24abf3e8ed17b.json",
+        "created_at": "2023-11-30 14:23:27 UTC",
+        "processed_at": "2023-11-30 14:23:27 UTC",
+        "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Philippe+Cudre-Mauroux&view_op=search_authors&hl=en",
+        "raw_html_file": "https://serpapi.com/searches/e7a33350058e04b8/65689adf37b24abf3e8ed17b.html",
+        "total_time_taken": 0.46
+    },
+    "search_parameters": {
+        "engine": "google_scholar_profiles",
+        "mauthors": "Philippe Cudre-Mauroux",
+        "hl": "en"
+    },
+    "profiles": [
+        {
+            "name": "Philippe Cudre-Mauroux",
+            "link": "https://scholar.google.com/citations?hl=en&user=NpccCXwAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=NpccCXwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "NpccCXwAAAAJ",
+            "affiliations": "Full Professor (Computer Science), U. of Fribourg–Switzerland",
+            "email": "Verified email at unifr.ch",
+            "cited_by": 9325,
+            "interests": [
+                {
+                    "title": "Big Data",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Abig_data",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:big_data"
+                },
+                {
+                    "title": "Graph Data",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Agraph_data",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:graph_data"
+                },
+                {
+                    "title": "Infrastructures for AI",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ainfrastructures_for_ai",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:infrastructures_for_ai"
+                },
+                {
+                    "title": "Emergent Semantics",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aemergent_semantics",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:emergent_semantics"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=NpccCXwAAAAJ&citpid=3"
+        }
+    ]
+}

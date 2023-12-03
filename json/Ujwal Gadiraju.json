@@ -1,0 +1,56 @@
+{
+    "search_metadata": {
+        "id": "65689ae1ea1442d258f413d5",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/ce87d0976fdea1e9/65689ae1ea1442d258f413d5.json",
+        "created_at": "2023-11-30 14:23:29 UTC",
+        "processed_at": "2023-11-30 14:23:29 UTC",
+        "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Ujwal+Gadiraju&view_op=search_authors&hl=en",
+        "raw_html_file": "https://serpapi.com/searches/ce87d0976fdea1e9/65689ae1ea1442d258f413d5.html",
+        "total_time_taken": 0.63
+    },
+    "search_parameters": {
+        "engine": "google_scholar_profiles",
+        "mauthors": "Ujwal Gadiraju",
+        "hl": "en"
+    },
+    "profiles": [
+        {
+            "name": "Ujwal Gadiraju",
+            "link": "https://scholar.google.com/citations?hl=en&user=FX7BF6QAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=FX7BF6QAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "FX7BF6QAAAAJ",
+            "affiliations": "Assistant Professor, Web Information Systems, Delft University of Technology",
+            "email": "Verified email at tudelft.nl",
+            "cited_by": 3271,
+            "interests": [
+                {
+                    "title": "Human-centered AI",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ahuman_centered_ai",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:human_centered_ai"
+                },
+                {
+                    "title": "Crowd Computing",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acrowd_computing",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:crowd_computing"
+                },
+                {
+                    "title": "Human-Computer Interaction",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ahuman_computer_interaction",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:human_computer_interaction"
+                },
+                {
+                    "title": "Information Retrieval",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ainformation_retrieval",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:information_retrieval"
+                },
+                {
+                    "title": "Conversational Interfaces",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aconversational_interfaces",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:conversational_interfaces"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=FX7BF6QAAAAJ&citpid=20"
+        }
+    ]
+}

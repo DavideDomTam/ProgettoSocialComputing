@@ -1,0 +1,68 @@
+{
+    "search_metadata": {
+        "id": "656898edb5961edafc902cfb",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/fd25f1fb532a688c/656898edb5961edafc902cfb.json",
+        "created_at": "2023-11-30 14:15:09 UTC",
+        "processed_at": "2023-11-30 14:15:09 UTC",
+        "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Afshin+Rahimi&view_op=search_authors&hl=en",
+        "raw_html_file": "https://serpapi.com/searches/fd25f1fb532a688c/656898edb5961edafc902cfb.html",
+        "total_time_taken": 1.12
+    },
+    "search_parameters": {
+        "engine": "google_scholar_profiles",
+        "mauthors": "Afshin Rahimi",
+        "hl": "en"
+    },
+    "profiles": [
+        {
+            "name": "Afshin Rahimi",
+            "link": "https://scholar.google.com/citations?hl=en&user=WhPw2I0AAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=WhPw2I0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "WhPw2I0AAAAJ",
+            "affiliations": "Applied Scientist @ Amazon",
+            "email": "Verified email at uq.edu.au",
+            "cited_by": 1295,
+            "interests": [
+                {
+                    "title": "Natural Language Processing",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Anatural_language_processing",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:natural_language_processing"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=WhPw2I0AAAAJ&citpid=2"
+        },
+        {
+            "name": "Afshin Rahimi",
+            "link": "https://scholar.google.com/citations?hl=en&user=6wgDNw4AAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=6wgDNw4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "6wgDNw4AAAAJ",
+            "affiliations": "Associate Professor, University of Windsor",
+            "email": "Verified email at uwindsor.ca",
+            "cited_by": 463,
+            "interests": [
+                {
+                    "title": "Fault Diagnosis and Prognosis",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Afault_diagnosis_and_prognosis",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:fault_diagnosis_and_prognosis"
+                },
+                {
+                    "title": "Control",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acontrol",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:control"
+                },
+                {
+                    "title": "Machine Learning",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amachine_learning",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:machine_learning"
+                },
+                {
+                    "title": "Computer Vision",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acomputer_vision",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:computer_vision"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=6wgDNw4AAAAJ&citpid=2"
+        }
+    ]
+}

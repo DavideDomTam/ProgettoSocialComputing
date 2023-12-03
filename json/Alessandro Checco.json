@@ -1,0 +1,56 @@
+{
+    "search_metadata": {
+        "id": "656898eb0b50627f790e6923",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/3c49fef1f4ffc23e/656898eb0b50627f790e6923.json",
+        "created_at": "2023-11-30 14:15:07 UTC",
+        "processed_at": "2023-11-30 14:15:07 UTC",
+        "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Alessandro+Checco&view_op=search_authors&hl=en",
+        "raw_html_file": "https://serpapi.com/searches/3c49fef1f4ffc23e/656898eb0b50627f790e6923.html",
+        "total_time_taken": 1.05
+    },
+    "search_parameters": {
+        "engine": "google_scholar_profiles",
+        "mauthors": "Alessandro Checco",
+        "hl": "en"
+    },
+    "profiles": [
+        {
+            "name": "Alessandro Checco",
+            "link": "https://scholar.google.com/citations?hl=en&user=crhkrNcAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=crhkrNcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "crhkrNcAAAAJ",
+            "affiliations": "Computer Science Department - University of Rome La Sapienza",
+            "email": "Verified email at uniroma1.it",
+            "cited_by": 905,
+            "interests": [
+                {
+                    "title": "Human Computation",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ahuman_computation",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:human_computation"
+                },
+                {
+                    "title": "Crowdsourcing",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acrowdsourcing",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:crowdsourcing"
+                },
+                {
+                    "title": "Graph Theory",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Agraph_theory",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:graph_theory"
+                },
+                {
+                    "title": "Markov Chains",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amarkov_chains",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:markov_chains"
+                },
+                {
+                    "title": "Wireless Networks",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Awireless_networks",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:wireless_networks"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=crhkrNcAAAAJ&citpid=2"
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "search_metadata": {
+        "id": "656899fb0f98660e94b617f4",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/4e292e068b205e87/656899fb0f98660e94b617f4.json",
+        "created_at": "2023-11-30 14:19:39 UTC",
+        "processed_at": "2023-11-30 14:19:39 UTC",
+        "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Luca+Di+Gaspero&view_op=search_authors&hl=en",
+        "raw_html_file": "https://serpapi.com/searches/4e292e068b205e87/656899fb0f98660e94b617f4.html",
+        "total_time_taken": 1.24
+    },
+    "search_parameters": {
+        "engine": "google_scholar_profiles",
+        "mauthors": "Luca Di Gaspero",
+        "hl": "en"
+    },
+    "profiles": [
+        {
+            "name": "Luca Di Gaspero",
+            "link": "https://scholar.google.com/citations?hl=en&user=fIES7P0AAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=fIES7P0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "fIES7P0AAAAJ",
+            "affiliations": "Associate Professor of Information Technology, University of Udine",
+            "email": "Verified email at uniud.it",
+            "cited_by": 3660,
+            "interests": [
+                {
+                    "title": "Artificial Intelligence",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aartificial_intelligence",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:artificial_intelligence"
+                },
+                {
+                    "title": "Operations Research",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aoperations_research",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:operations_research"
+                },
+                {
+                    "title": "Data Analytics",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adata_analytics",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:data_analytics"
+                },
+                {
+                    "title": "Metaheuristics",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ametaheuristics",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:metaheuristics"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=fIES7P0AAAAJ&citpid=3"
+        }
+    ]
+}

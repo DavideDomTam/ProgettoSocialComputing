@@ -1,0 +1,51 @@
+{
+    "search_metadata": {
+        "id": "65689ae83a218a40ce2a143b",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/c5bab4c3f93a56cf/65689ae83a218a40ce2a143b.json",
+        "created_at": "2023-11-30 14:23:36 UTC",
+        "processed_at": "2023-11-30 14:23:36 UTC",
+        "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Shazia+Sadiq&view_op=search_authors&hl=en",
+        "raw_html_file": "https://serpapi.com/searches/c5bab4c3f93a56cf/65689ae83a218a40ce2a143b.html",
+        "total_time_taken": 0.65
+    },
+    "search_parameters": {
+        "engine": "google_scholar_profiles",
+        "mauthors": "Shazia Sadiq",
+        "hl": "en"
+    },
+    "profiles": [
+        {
+            "name": "Shazia Sadiq",
+            "link": "https://scholar.google.com/citations?hl=en&user=1Jo0EmIAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=1Jo0EmIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "1Jo0EmIAAAAJ",
+            "affiliations": "The University of Queensland",
+            "email": "Verified email at itee.uq.edu.au",
+            "cited_by": 10257,
+            "interests": [
+                {
+                    "title": "Data Quality Management",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adata_quality_management",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:data_quality_management"
+                },
+                {
+                    "title": "Business Process Management",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Abusiness_process_management",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:business_process_management"
+                },
+                {
+                    "title": "… Risk and Compliance in Information Systems",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Arisk_and_compliance_in_information_systems",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:governance_risk_and_compliance_in_information_systems"
+                },
+                {
+                    "title": "Service Systems",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aservice_systems",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:service_systems"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=1Jo0EmIAAAAJ&citpid=2"
+        }
+    ]
+}

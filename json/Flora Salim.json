@@ -1,0 +1,77 @@
+{
+    "search_metadata": {
+        "id": "65689a6e1071f4c74d4aea9e",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/5f26ace38b716cde/65689a6e1071f4c74d4aea9e.json",
+        "created_at": "2023-11-30 14:21:34 UTC",
+        "processed_at": "2023-11-30 14:21:34 UTC",
+        "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Flora+Salim&view_op=search_authors&hl=en",
+        "raw_html_file": "https://serpapi.com/searches/5f26ace38b716cde/65689a6e1071f4c74d4aea9e.html",
+        "total_time_taken": 0.72
+    },
+    "search_parameters": {
+        "engine": "google_scholar_profiles",
+        "mauthors": "Flora Salim",
+        "hl": "en"
+    },
+    "profiles": [
+        {
+            "name": "Flora Salim",
+            "link": "https://scholar.google.com/citations?hl=en&user=Yz35RSYAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Yz35RSYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Yz35RSYAAAAJ",
+            "affiliations": "Professor, Cisco Chair of Digital Transport, Computer Science and Engineering, UNSW",
+            "email": "Verified email at unsw.edu.au",
+            "cited_by": 3961,
+            "interests": [
+                {
+                    "title": "Machine Learning",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amachine_learning",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:machine_learning"
+                },
+                {
+                    "title": "Artificial Intelligence",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aartificial_intelligence",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:artificial_intelligence"
+                },
+                {
+                    "title": "Ubiquitous Computing",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aubiquitous_computing",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:ubiquitous_computing"
+                },
+                {
+                    "title": "Time Series",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Atime_series",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:time_series"
+                },
+                {
+                    "title": "Mobility Data Science",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amobility_data_science",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:mobility_data_science"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Yz35RSYAAAAJ&citpid=2"
+        },
+        {
+            "name": "Selim Z. Heneidy",
+            "link": "https://scholar.google.com/citations?hl=en&user=YvQkQ2QAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=YvQkQ2QAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "YvQkQ2QAAAAJ",
+            "affiliations": "Professor of Applied Ecology and Flora",
+            "cited_by": 689,
+            "interests": [
+                {
+                    "title": "Rangemangement and Conservation of NR",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Arangemangement_and_conservation_of_nr",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:rangemangement_and_conservation_of_nr"
+                },
+                {
+                    "title": "identification of wild flora",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aidentification_of_wild_flora",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:identification_of_wild_flora"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=YvQkQ2QAAAAJ&citpid=3"
+        }
+    ]
+}

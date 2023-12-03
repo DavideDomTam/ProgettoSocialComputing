@@ -1,0 +1,56 @@
+{
+    "search_metadata": {
+        "id": "65689a69eb690fd40d5caab1",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/12a0f6a91d75a01c/65689a69eb690fd40d5caab1.json",
+        "created_at": "2023-11-30 14:21:29 UTC",
+        "processed_at": "2023-11-30 14:21:29 UTC",
+        "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Arkaitz+Zubiaga&view_op=search_authors&hl=en",
+        "raw_html_file": "https://serpapi.com/searches/12a0f6a91d75a01c/65689a69eb690fd40d5caab1.html",
+        "total_time_taken": 0.62
+    },
+    "search_parameters": {
+        "engine": "google_scholar_profiles",
+        "mauthors": "Arkaitz Zubiaga",
+        "hl": "en"
+    },
+    "profiles": [
+        {
+            "name": "Arkaitz Zubiaga",
+            "link": "https://scholar.google.com/citations?hl=en&user=IUb-xxMAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=IUb-xxMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "IUb-xxMAAAAJ",
+            "affiliations": "Queen Mary University of London",
+            "email": "Verified email at qmul.ac.uk",
+            "cited_by": 6629,
+            "interests": [
+                {
+                    "title": "Social Media Mining",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Asocial_media_mining",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:social_media_mining"
+                },
+                {
+                    "title": "Social Data Science",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Asocial_data_science",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:social_data_science"
+                },
+                {
+                    "title": "Natural Language Processing",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Anatural_language_processing",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:natural_language_processing"
+                },
+                {
+                    "title": "Computational Social Science",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acomputational_social_science",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:computational_social_science"
+                },
+                {
+                    "title": "Computational Journalism",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acomputational_journalism",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:computational_journalism"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=IUb-xxMAAAAJ&citpid=9"
+        }
+    ]
+}

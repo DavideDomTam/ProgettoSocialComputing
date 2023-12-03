@@ -1,0 +1,56 @@
+{
+    "search_metadata": {
+        "id": "656898eec56d93082d4c47f2",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/11fb0c5626182435/656898eec56d93082d4c47f2.json",
+        "created_at": "2023-11-30 14:15:10 UTC",
+        "processed_at": "2023-11-30 14:15:10 UTC",
+        "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Andrea+Brunello&view_op=search_authors&hl=en",
+        "raw_html_file": "https://serpapi.com/searches/11fb0c5626182435/656898eec56d93082d4c47f2.html",
+        "total_time_taken": 0.54
+    },
+    "search_parameters": {
+        "engine": "google_scholar_profiles",
+        "mauthors": "Andrea Brunello",
+        "hl": "en"
+    },
+    "profiles": [
+        {
+            "name": "Andrea Brunello",
+            "link": "https://scholar.google.com/citations?hl=en&user=GuteS00AAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=GuteS00AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "GuteS00AAAAJ",
+            "affiliations": "Università degli Studi di Udine",
+            "email": "Verified email at uniud.it",
+            "cited_by": 280,
+            "interests": [
+                {
+                    "title": "Data science",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adata_science",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:data_science"
+                },
+                {
+                    "title": "machine learning",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amachine_learning",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:machine_learning"
+                },
+                {
+                    "title": "evolutionary computation",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aevolutionary_computation",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:evolutionary_computation"
+                },
+                {
+                    "title": "data modelling",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adata_modelling",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:data_modelling"
+                },
+                {
+                    "title": "databases",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adatabases",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:databases"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=GuteS00AAAAJ&citpid=4"
+        }
+    ]
+}

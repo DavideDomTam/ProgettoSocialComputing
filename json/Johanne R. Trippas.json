@@ -1,0 +1,56 @@
+{
+    "search_metadata": {
+        "id": "65689a617f83613f95f27ee3",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/69b7c82e83f086de/65689a617f83613f95f27ee3.json",
+        "created_at": "2023-11-30 14:21:21 UTC",
+        "processed_at": "2023-11-30 14:21:21 UTC",
+        "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Johanne+R.+Trippas&view_op=search_authors&hl=en",
+        "raw_html_file": "https://serpapi.com/searches/69b7c82e83f086de/65689a617f83613f95f27ee3.html",
+        "total_time_taken": 1.18
+    },
+    "search_parameters": {
+        "engine": "google_scholar_profiles",
+        "mauthors": "Johanne R. Trippas",
+        "hl": "en"
+    },
+    "profiles": [
+        {
+            "name": "Johanne R. Trippas",
+            "link": "https://scholar.google.com/citations?hl=en&user=x483lssAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=x483lssAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "x483lssAAAAJ",
+            "affiliations": "Vice-Chancellor's Research Fellow, School of Computing Technologies, RMIT University",
+            "email": "Verified email at rmit.edu.au",
+            "cited_by": 984,
+            "interests": [
+                {
+                    "title": "Information Retrieval",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ainformation_retrieval",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:information_retrieval"
+                },
+                {
+                    "title": "Conversational Interfaces",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aconversational_interfaces",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:conversational_interfaces"
+                },
+                {
+                    "title": "Spoken Interaction Design",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aspoken_interaction_design",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:spoken_interaction_design"
+                },
+                {
+                    "title": "Conversational Search",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aconversational_search",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:conversational_search"
+                },
+                {
+                    "title": "Human Computer Interaction",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ahuman_computer_interaction",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:human_computer_interaction"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=x483lssAAAAJ&citpid=3"
+        }
+    ]
+}

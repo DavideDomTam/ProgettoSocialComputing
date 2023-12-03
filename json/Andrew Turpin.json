@@ -1,0 +1,51 @@
+{
+    "search_metadata": {
+        "id": "65689a0b303eb14aa5e52e6f",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/f7e2537f64810344/65689a0b303eb14aa5e52e6f.json",
+        "created_at": "2023-11-30 14:19:55 UTC",
+        "processed_at": "2023-11-30 14:19:55 UTC",
+        "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Andrew+Turpin&view_op=search_authors&hl=en",
+        "raw_html_file": "https://serpapi.com/searches/f7e2537f64810344/65689a0b303eb14aa5e52e6f.html",
+        "total_time_taken": 1.72
+    },
+    "search_parameters": {
+        "engine": "google_scholar_profiles",
+        "mauthors": "Andrew Turpin",
+        "hl": "en"
+    },
+    "profiles": [
+        {
+            "name": "Andrew Turpin",
+            "link": "https://scholar.google.com/citations?hl=en&user=lCZblDwAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=lCZblDwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "lCZblDwAAAAJ",
+            "affiliations": "Lions Eye Institute and Curtin University",
+            "email": "Verified email at curtin.edu.au",
+            "cited_by": 6893,
+            "interests": [
+                {
+                    "title": "Human vision",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ahuman_vision",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:human_vision"
+                },
+                {
+                    "title": "Computer vision",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acomputer_vision",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:computer_vision"
+                },
+                {
+                    "title": "Information Science",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ainformation_science",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:information_science"
+                },
+                {
+                    "title": "Data Analysis",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adata_analysis",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:data_analysis"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=lCZblDwAAAAJ&citpid=4"
+        }
+    ]
+}

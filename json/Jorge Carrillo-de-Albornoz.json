@@ -1,0 +1,56 @@
+{
+    "search_metadata": {
+        "id": "65689a63d737d7d469b8d9fd",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/ef9644bf04b435fc/65689a63d737d7d469b8d9fd.json",
+        "created_at": "2023-11-30 14:21:23 UTC",
+        "processed_at": "2023-11-30 14:21:23 UTC",
+        "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Jorge+Carrillo-de-Albornoz&view_op=search_authors&hl=en",
+        "raw_html_file": "https://serpapi.com/searches/ef9644bf04b435fc/65689a63d737d7d469b8d9fd.html",
+        "total_time_taken": 1.21
+    },
+    "search_parameters": {
+        "engine": "google_scholar_profiles",
+        "mauthors": "Jorge Carrillo-de-Albornoz",
+        "hl": "en"
+    },
+    "profiles": [
+        {
+            "name": "Jorge Carrillo-de-Albornoz",
+            "link": "https://scholar.google.com/citations?hl=en&user=8yHMQqoAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=8yHMQqoAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "8yHMQqoAAAAJ",
+            "affiliations": "Researcher in Computer Science, UNED",
+            "email": "Verified email at lsi.uned.es",
+            "cited_by": 1386,
+            "interests": [
+                {
+                    "title": "Sentiment Analysis",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Asentiment_analysis",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:sentiment_analysis"
+                },
+                {
+                    "title": "Opinion Mining",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aopinion_mining",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:opinion_mining"
+                },
+                {
+                    "title": "Online Reputation Management",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aonline_reputation_management",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:online_reputation_management"
+                },
+                {
+                    "title": "Negation Detection",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Anegation_detection",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:negation_detection"
+                },
+                {
+                    "title": "Natural Language Processing",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Anatural_language_processing",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:natural_language_processing"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=8yHMQqoAAAAJ&citpid=1"
+        }
+    ]
+}

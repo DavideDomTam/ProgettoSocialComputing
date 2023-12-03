@@ -1,0 +1,227 @@
+{
+    "search_metadata": {
+        "id": "65689a7295bf92dd9bc613d7",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/58b725850eb782fb/65689a7295bf92dd9bc613d7.json",
+        "created_at": "2023-11-30 14:21:38 UTC",
+        "processed_at": "2023-11-30 14:21:38 UTC",
+        "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Raquel+Martinez&view_op=search_authors&hl=en",
+        "raw_html_file": "https://serpapi.com/searches/58b725850eb782fb/65689a7295bf92dd9bc613d7.html",
+        "total_time_taken": 1.75
+    },
+    "search_parameters": {
+        "engine": "google_scholar_profiles",
+        "mauthors": "Raquel Martinez",
+        "hl": "en"
+    },
+    "profiles": [
+        {
+            "name": "Raquel Manzano Martinez",
+            "link": "https://scholar.google.com/citations?hl=en&user=a1H9MxgAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=a1H9MxgAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "a1H9MxgAAAAJ",
+            "affiliations": "Neuroscientist. Lecturer in Genetics. University of Zaragoza.",
+            "email": "Verified email at unizar.es",
+            "cited_by": 11804,
+            "interests": [
+                {
+                    "title": "… Lateral Sclerosis. Spinal and Bulbar Muscular …",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Alateral_sclerosis_spinal_and_bulbar_muscular",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:neuromuscular_muscle_regeneration_exosomes_myogenesis_amyotrophic_lateral_sclerosis_spinal_and_bulbar_muscular_atrophy"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=a1H9MxgAAAAJ&citpid=3"
+        },
+        {
+            "name": "Raquel-Amaya Martínez-González",
+            "link": "https://scholar.google.com/citations?hl=en&user=E97QRPwAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=E97QRPwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "E97QRPwAAAAJ",
+            "affiliations": "University of Oviedo, Spain",
+            "email": "Verified email at uniovi.es",
+            "cited_by": 3464,
+            "interests": [
+                {
+                    "title": "Emotional and Social Competences",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aemotional_and_social_competences",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:emotional_and_social_competences"
+                },
+                {
+                    "title": "Evidence-Based Parenting Programmes",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aevidence_based_parenting_programmes",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:evidence_based_parenting_programmes"
+                },
+                {
+                    "title": "Family Education",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Afamily_education",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:family_education"
+                },
+                {
+                    "title": "School-Family-Community Partnerships",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aschool_family_community_partnerships",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:school_family_community_partnerships"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=E97QRPwAAAAJ&citpid=1"
+        },
+        {
+            "name": "Raquel Corbatón-Martínez",
+            "link": "https://scholar.google.com/citations?hl=en&user=wtFmOyEAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=wtFmOyEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "wtFmOyEAAAAJ",
+            "affiliations": "Universitat Jaume I",
+            "email": "Verified email at uji.es",
+            "cited_by": 2810,
+            "interests": [
+                {
+                    "title": "Educació",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aeducaci%C3%B3",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:educaci%C3%B3"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=wtFmOyEAAAAJ&citpid=2"
+        },
+        {
+            "name": "Raquel Martínez Buján",
+            "link": "https://scholar.google.com/citations?hl=en&user=1a1CMKIAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=1a1CMKIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "1a1CMKIAAAAJ",
+            "affiliations": "Profesora Titular",
+            "email": "Verified email at udc.es",
+            "cited_by": 2039,
+            "interests": [
+                {
+                    "title": "cuidados",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acuidados",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:cuidados"
+                },
+                {
+                    "title": "sostenibilidad",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Asostenibilidad",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:sostenibilidad"
+                },
+                {
+                    "title": "familia",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Afamilia",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:familia"
+                },
+                {
+                    "title": "estado de bienestar",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aestado_de_bienestar",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:estado_de_bienestar"
+                },
+                {
+                    "title": "comunes",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acomunes",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:comunes"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=1a1CMKIAAAAJ&citpid=13"
+        },
+        {
+            "name": "Raquel Chacon Ruiz Martinez",
+            "link": "https://scholar.google.com/citations?hl=en&user=0HF8RJ4AAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=0HF8RJ4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "0HF8RJ4AAAAJ",
+            "affiliations": "Jovem Pesquisadora",
+            "email": "Verified email at usp.br",
+            "cited_by": 1945,
+            "interests": [
+                {
+                    "title": "Neurociências",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aneuroci%C3%AAncias",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:neuroci%C3%AAncias"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=0HF8RJ4AAAAJ&citpid=4"
+        },
+        {
+            "name": "Raquel Díaz Martínez",
+            "link": "https://scholar.google.com/citations?hl=en&user=UVbrIIUAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=UVbrIIUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "UVbrIIUAAAAJ",
+            "affiliations": "INVESTIGADORA POSDOCTORAL",
+            "email": "Verified email at externas.sescam.jccm.es",
+            "cited_by": 1576,
+            "interests": [
+                {
+                    "title": "GUILLAIN BARRÉ",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aguillain_barr%C3%A9",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:guillain_barr%C3%A9"
+                }
+            ],
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Raquel Martinez",
+            "link": "https://scholar.google.com/citations?hl=en&user=m0-0QxgAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=m0-0QxgAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "m0-0QxgAAAAJ",
+            "affiliations": "Full Professor of Computer Science, UNED University",
+            "email": "Verified email at lsi.uned.es",
+            "cited_by": 1195,
+            "interests": [
+                {
+                    "title": "Natural Language Processing",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Anatural_language_processing",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:natural_language_processing"
+                },
+                {
+                    "title": "Document Clustering",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adocument_clustering",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:document_clustering"
+                },
+                {
+                    "title": "Multilinguality",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amultilinguality",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:multilinguality"
+                },
+                {
+                    "title": "Person name desambiguation",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aperson_name_desambiguation",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:person_name_desambiguation"
+                },
+                {
+                    "title": "Document representation",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adocument_representation",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:document_representation"
+                }
+            ],
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "RAQUEL MARTINEZ ESPAÑA",
+            "link": "https://scholar.google.com/citations?hl=en&user=FsayO9QAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=FsayO9QAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "FsayO9QAAAAJ",
+            "affiliations": "Universidad de Murcia",
+            "email": "Verified email at um.es",
+            "cited_by": 927,
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=FsayO9QAAAAJ&citpid=2"
+        },
+        {
+            "name": "Raquel Rodríguez-Martínez",
+            "link": "https://scholar.google.com/citations?hl=en&user=Up9xQO4AAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Up9xQO4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Up9xQO4AAAAJ",
+            "affiliations": "University of Antofagasta",
+            "email": "Verified email at uantof.cl",
+            "cited_by": 744,
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "RAQUEL MARIA MARTINEZ LOPEZ",
+            "link": "https://scholar.google.com/citations?hl=en&user=cUdgw_UAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=cUdgw_UAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "cUdgw_UAAAAJ",
+            "affiliations": "",
+            "email": "Verified email at ucm.es",
+            "cited_by": 579,
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        }
+    ],
+    "pagination": {
+        "next": "https://serpapi.com/search.json?after_author=w4XaALr9__8J&engine=google_scholar_profiles&hl=en&mauthors=Raquel+Martinez",
+        "next_page_token": "w4XaALr9__8J"
+    }
+}

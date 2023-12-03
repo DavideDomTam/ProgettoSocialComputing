@@ -1,0 +1,36 @@
+{
+    "search_metadata": {
+        "id": "65689a6f681ebe5384933119",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/8d2635d398b032dc/65689a6f681ebe5384933119.json",
+        "created_at": "2023-11-30 14:21:35 UTC",
+        "processed_at": "2023-11-30 14:21:35 UTC",
+        "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=W.+Bruce+Croft&view_op=search_authors&hl=en",
+        "raw_html_file": "https://serpapi.com/searches/8d2635d398b032dc/65689a6f681ebe5384933119.html",
+        "total_time_taken": 1.62
+    },
+    "search_parameters": {
+        "engine": "google_scholar_profiles",
+        "mauthors": "W. Bruce Croft",
+        "hl": "en"
+    },
+    "profiles": [
+        {
+            "name": "W. Bruce Croft",
+            "link": "https://scholar.google.com/citations?hl=en&user=ArV74ZMAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=ArV74ZMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ArV74ZMAAAAJ",
+            "affiliations": "Distinguished Professor Emeritus, University of Massachusetts Amherst",
+            "email": "Verified email at cs.umass.edu",
+            "cited_by": 64251,
+            "interests": [
+                {
+                    "title": "Information Retrieval",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ainformation_retrieval",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:information_retrieval"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=ArV74ZMAAAAJ&citpid=3"
+        }
+    ]
+}

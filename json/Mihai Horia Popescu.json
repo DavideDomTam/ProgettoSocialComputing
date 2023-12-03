@@ -1,0 +1,46 @@
+{
+    "search_metadata": {
+        "id": "65689981c47d3c5ee26950c6",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/76a41d82c83db872/65689981c47d3c5ee26950c6.json",
+        "created_at": "2023-11-30 14:17:37 UTC",
+        "processed_at": "2023-11-30 14:17:37 UTC",
+        "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Mihai+Horia+Popescu&view_op=search_authors&hl=en",
+        "raw_html_file": "https://serpapi.com/searches/76a41d82c83db872/65689981c47d3c5ee26950c6.html",
+        "total_time_taken": 0.59
+    },
+    "search_parameters": {
+        "engine": "google_scholar_profiles",
+        "mauthors": "Mihai Horia Popescu",
+        "hl": "en"
+    },
+    "profiles": [
+        {
+            "name": "Mihai Horia Popescu",
+            "link": "https://scholar.google.com/citations?hl=en&user=7VIbKlEAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=7VIbKlEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "7VIbKlEAAAAJ",
+            "affiliations": "PhD student",
+            "email": "Verified email at uniud.it",
+            "cited_by": 47,
+            "interests": [
+                {
+                    "title": "Machine learning",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amachine_learning",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:machine_learning"
+                },
+                {
+                    "title": "medical informatics",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amedical_informatics",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:medical_informatics"
+                },
+                {
+                    "title": "Explainable Artificial Intelligence (XAI)",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aexplainable_artificial_intelligence_xai",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:explainable_artificial_intelligence_xai"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=7VIbKlEAAAAJ&citpid=5"
+        }
+    ]
+}

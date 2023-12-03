@@ -1,0 +1,83 @@
+{
+    "search_metadata": {
+        "id": "6568998c1e803ffdc044ebb1",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/346058813b83f49a/6568998c1e803ffdc044ebb1.json",
+        "created_at": "2023-11-30 14:17:48 UTC",
+        "processed_at": "2023-11-30 14:17:48 UTC",
+        "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Mark+Sanderson&view_op=search_authors&hl=en",
+        "raw_html_file": "https://serpapi.com/searches/346058813b83f49a/6568998c1e803ffdc044ebb1.html",
+        "total_time_taken": 1.1
+    },
+    "search_parameters": {
+        "engine": "google_scholar_profiles",
+        "mauthors": "Mark Sanderson",
+        "hl": "en"
+    },
+    "profiles": [
+        {
+            "name": "Mark R. Sanderson",
+            "link": "https://scholar.google.com/citations?hl=en&user=hTob0R4AAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=hTob0R4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "hTob0R4AAAAJ",
+            "affiliations": "Visiting Professor, St. George's University of London",
+            "email": "Verified email at kcl.ac.uk",
+            "cited_by": 15661,
+            "interests": [
+                {
+                    "title": "Structural Biology",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Astructural_biology",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:structural_biology"
+                },
+                {
+                    "title": "topoisomerases",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Atopoisomerases",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:topoisomerases"
+                },
+                {
+                    "title": "nucleic acid interacting proteins",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Anucleic_acid_interacting_proteins",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:nucleic_acid_interacting_proteins"
+                }
+            ],
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Mark Sanderson",
+            "link": "https://scholar.google.com/citations?hl=en&user=HmqvvQkAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=HmqvvQkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "HmqvvQkAAAAJ",
+            "affiliations": "School of Computing Technologies, RMIT University",
+            "email": "Verified email at rmit.edu.au",
+            "cited_by": 13372,
+            "interests": [
+                {
+                    "title": "Information Retrieval",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ainformation_retrieval",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:information_retrieval"
+                },
+                {
+                    "title": "Data Analysis",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adata_analysis",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:data_analysis"
+                },
+                {
+                    "title": "Recommender Systems",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Arecommender_systems",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:recommender_systems"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=HmqvvQkAAAAJ&citpid=7"
+        },
+        {
+            "name": "Mark Sanderson-Cimino",
+            "link": "https://scholar.google.com/citations?hl=en&user=yOQvSSEAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=yOQvSSEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "yOQvSSEAAAAJ",
+            "affiliations": "SDSU/UCSD Joint Doctoral Program in Clinical Psychology",
+            "email": "Verified email at ucsd.edu",
+            "cited_by": 669,
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        }
+    ]
+}

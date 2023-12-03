@@ -1,0 +1,605 @@
+{
+    "search_metadata": {
+        "id": "65689addd3aba205241e23c1",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/f337c235206a9475/65689addd3aba205241e23c1.json",
+        "created_at": "2023-11-30 14:23:25 UTC",
+        "processed_at": "2023-11-30 14:23:25 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=PCAiILsAAAAJ&hl=en",
+        "raw_html_file": "https://serpapi.com/searches/f337c235206a9475/65689addd3aba205241e23c1.html",
+        "total_time_taken": 0.76
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "PCAiILsAAAAJ",
+        "hl": "en"
+    },
+    "author": {
+        "name": "Gianluca Demartini",
+        "affiliations": "Associate Professor at the University of Queensland",
+        "email": "Verified email at cs.berkeley.edu",
+        "website": "http://www.gianlucademartini.net/",
+        "interests": [
+            {
+                "title": "Information Retrieval",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:information_retrieval",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ainformation_retrieval"
+            },
+            {
+                "title": "Semantic Web",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:semantic_web",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Asemantic_web"
+            },
+            {
+                "title": "Human Computation",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:human_computation",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ahuman_computation"
+            },
+            {
+                "title": "Crowdsourcing",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:crowdsourcing",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acrowdsourcing"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=PCAiILsAAAAJ&citpid=6"
+    },
+    "articles": [
+        {
+            "title": "Zencrowd: leveraging probabilistic reasoning and crowdsourcing techniques for large-scale entity linking",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PCAiILsAAAAJ&citation_for_view=PCAiILsAAAAJ:IWHjjKOFINEC",
+            "citation_id": "PCAiILsAAAAJ:IWHjjKOFINEC",
+            "authors": "G Demartini, DE Difallah, P Cudré-Mauroux",
+            "publication": "Proceedings of the 21st international conference on World Wide Web, 469-478, 2012",
+            "cited_by": {
+                "value": 585,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7452693300596160795,7011969670055261443",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7452693300596160795%2C7011969670055261443&engine=google_scholar&hl=en",
+                "cites_id": "7452693300596160795,7011969670055261443"
+            },
+            "year": "2012"
+        },
+        {
+            "title": "Understanding malicious behavior in crowdsourcing platforms: The case of online surveys",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PCAiILsAAAAJ&citation_for_view=PCAiILsAAAAJ:yD5IFk8b50cC",
+            "citation_id": "PCAiILsAAAAJ:yD5IFk8b50cC",
+            "authors": "U Gadiraju, R Kawase, S Dietze, G Demartini",
+            "publication": "Proceedings of the 33rd annual ACM conference on human factors in computing …, 2015",
+            "cited_by": {
+                "value": 307,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14396801076511898112",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14396801076511898112&engine=google_scholar&hl=en",
+                "cites_id": "14396801076511898112"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "The dynamics of micro-task crowdsourcing: The case of amazon mturk",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PCAiILsAAAAJ&citation_for_view=PCAiILsAAAAJ:D03iK_w7-QYC",
+            "citation_id": "PCAiILsAAAAJ:D03iK_w7-QYC",
+            "authors": "DE Difallah, M Catasta, G Demartini, PG Ipeirotis, P Cudré-Mauroux",
+            "publication": "Proceedings of the 24th international conference on world wide web, 238-247, 2015",
+            "cited_by": {
+                "value": 288,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14650136444951070170,3659796962353553730",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14650136444951070170%2C3659796962353553730&engine=google_scholar&hl=en",
+                "cites_id": "14650136444951070170,3659796962353553730"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "Pick-a-crowd: tell me what you like, and i'll tell you what to do",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PCAiILsAAAAJ&citation_for_view=PCAiILsAAAAJ:j3f4tGmQtD8C",
+            "citation_id": "PCAiILsAAAAJ:j3f4tGmQtD8C",
+            "authors": "DE Difallah, G Demartini, P Cudré-Mauroux",
+            "publication": "Proceedings of the 22nd international conference on World Wide Web, 367-374, 2013",
+            "cited_by": {
+                "value": 227,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6984586255532272806",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6984586255532272806&engine=google_scholar&hl=en",
+                "cites_id": "6984586255532272806"
+            },
+            "year": "2013"
+        },
+        {
+            "title": "Using Twitter as a data source: An overview of ethical, legal, and methodological challenges",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PCAiILsAAAAJ&citation_for_view=PCAiILsAAAAJ:8AbLer7MMksC",
+            "citation_id": "PCAiILsAAAAJ:8AbLer7MMksC",
+            "authors": "W Ahmed, PA Bath, G Demartini",
+            "publication": "The ethics of online research 2, 79-107, 2017",
+            "cited_by": {
+                "value": 218,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10852646980294115926",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10852646980294115926&engine=google_scholar&hl=en",
+                "cites_id": "10852646980294115926"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Overview of the INEX 2009 entity ranking track",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PCAiILsAAAAJ&citation_for_view=PCAiILsAAAAJ:bEWYMUwI8FkC",
+            "citation_id": "PCAiILsAAAAJ:bEWYMUwI8FkC",
+            "authors": "G Demartini, T Iofciu, AP De Vries",
+            "publication": "Focused Retrieval and Evaluation, 254-264, 2010",
+            "cited_by": {
+                "value": 172,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16227077147302685119",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16227077147302685119&engine=google_scholar&hl=en",
+                "cites_id": "16227077147302685119"
+            },
+            "year": "2010"
+        },
+        {
+            "title": "Mechanical cheat: Spamming schemes and adversarial techniques on crowdsourcing platforms.",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PCAiILsAAAAJ&citation_for_view=PCAiILsAAAAJ:-f6ydRqryjwC",
+            "citation_id": "PCAiILsAAAAJ:-f6ydRqryjwC",
+            "authors": "DE Difallah, G Demartini, P Cudré-Mauroux",
+            "publication": "CrowdSearch 842, 26-30, 2012",
+            "cited_by": {
+                "value": 145,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8898564996713882622",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8898564996713882622&engine=google_scholar&hl=en",
+                "cites_id": "8898564996713882622"
+            },
+            "year": "2012"
+        },
+        {
+            "title": "Large-scale linked data integration using probabilistic reasoning and crowdsourcing",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PCAiILsAAAAJ&citation_for_view=PCAiILsAAAAJ:isC4tDSrTZIC",
+            "citation_id": "PCAiILsAAAAJ:isC4tDSrTZIC",
+            "authors": "G Demartini, DE Difallah, P Cudré-Mauroux",
+            "publication": "The VLDB Journal 22 (5), 665-687, 2013",
+            "cited_by": {
+                "value": 116,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1439514964687172680",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1439514964687172680&engine=google_scholar&hl=en",
+                "cites_id": "1439514964687172680"
+            },
+            "year": "2013"
+        },
+        {
+            "title": "Novel insights into views towards H1N1 during the 2009 Pandemic: a thematic analysis of Twitter data",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PCAiILsAAAAJ&citation_for_view=PCAiILsAAAAJ:eMMeJKvmdy0C",
+            "citation_id": "PCAiILsAAAAJ:eMMeJKvmdy0C",
+            "authors": "W Ahmed, PA Bath, L Sbaffi, G Demartini",
+            "publication": "Health Information & Libraries Journal 36 (1), 60-72, 2019",
+            "cited_by": {
+                "value": 115,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2196195988677988404",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2196195988677988404&engine=google_scholar&hl=en",
+                "cites_id": "2196195988677988404"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Combining inverted indices and structured search for ad-hoc object retrieval",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PCAiILsAAAAJ&citation_for_view=PCAiILsAAAAJ:TQgYirikUcIC",
+            "citation_id": "PCAiILsAAAAJ:TQgYirikUcIC",
+            "authors": "A Tonon, G Demartini, P Cudré-Mauroux",
+            "publication": "Proceedings of the 35th international ACM SIGIR conference on Research and …, 2012",
+            "cited_by": {
+                "value": 91,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6813757336952439364",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6813757336952439364&engine=google_scholar&hl=en",
+                "cites_id": "6813757336952439364"
+            },
+            "year": "2012"
+        },
+        {
+            "title": "Finding Experts Using Wikipedia.",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PCAiILsAAAAJ&citation_for_view=PCAiILsAAAAJ:u-x6o8ySG0sC",
+            "citation_id": "PCAiILsAAAAJ:u-x6o8ySG0sC",
+            "authors": "G Demartini",
+            "publication": "FEWS 290, 33-41, 2007",
+            "cited_by": {
+                "value": 89,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9182474082404464365",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9182474082404464365&engine=google_scholar&hl=en",
+                "cites_id": "9182474082404464365"
+            },
+            "year": "2007"
+        },
+        {
+            "title": "Scaling-up the crowd: Micro-task pricing schemes for worker retention and latency improvement",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PCAiILsAAAAJ&citation_for_view=PCAiILsAAAAJ:M05iB0D1s5AC",
+            "citation_id": "PCAiILsAAAAJ:M05iB0D1s5AC",
+            "authors": "D Difallah, M Catasta, G Demartini, P Cudré-Mauroux",
+            "publication": "Proceedings of the AAAI Conference on Human Computation and Crowdsourcing 2 …, 2014",
+            "cited_by": {
+                "value": 83,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6331456387581173884",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6331456387581173884&engine=google_scholar&hl=en",
+                "cites_id": "6331456387581173884"
+            },
+            "year": "2014"
+        },
+        {
+            "title": "TRank: Ranking Entity Types Using the Web of Data",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PCAiILsAAAAJ&citation_for_view=PCAiILsAAAAJ:YFjsv_pBGBYC",
+            "citation_id": "PCAiILsAAAAJ:YFjsv_pBGBYC",
+            "authors": "A Tonon, M Catasta, G Demartini, P Cudré-Mauroux, K Aberer",
+            "publication": "The Semantic Web–ISWC 2013: 12th International Semantic Web Conference …, 2013",
+            "cited_by": {
+                "value": 71,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8644610477501217587",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8644610477501217587&engine=google_scholar&hl=en",
+                "cites_id": "8644610477501217587"
+            },
+            "year": "2013"
+        },
+        {
+            "title": "Modeling task complexity in crowdsourcing",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PCAiILsAAAAJ&citation_for_view=PCAiILsAAAAJ:p2g8aNsByqUC",
+            "citation_id": "PCAiILsAAAAJ:p2g8aNsByqUC",
+            "authors": "J Yang, J Redi, G Demartini, A Bozzon",
+            "publication": "Proceedings of the AAAI Conference on Human Computation and Crowdsourcing 4 …, 2016",
+            "cited_by": {
+                "value": 69,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2928325505864173959",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2928325505864173959&engine=google_scholar&hl=en",
+                "cites_id": "2928325505864173959"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "Overview of the INEX 2008 Entity Ranking Track, Advances in Focused Retrieval: 7th International Workshop of the Initiative for the Evaluation of XML Retrieval, INEX 2008 …",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PCAiILsAAAAJ&citation_for_view=PCAiILsAAAAJ:hMod-77fHWUC",
+            "citation_id": "PCAiILsAAAAJ:hMod-77fHWUC",
+            "authors": "G Demartini, AP Vries, T Iofciu, J Zhu",
+            "publication": "Springer-Verlag, Berlin, Heidelberg, 2009",
+            "cited_by": {
+                "value": 63,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5281241519466568292,14141990115977956806",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5281241519466568292%2C14141990115977956806&engine=google_scholar&hl=en",
+                "cites_id": "5281241519466568292,14141990115977956806"
+            },
+            "year": "2009"
+        },
+        {
+            "title": "All those wasted hours: On task abandonment in crowdsourcing",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PCAiILsAAAAJ&citation_for_view=PCAiILsAAAAJ:HE397vMXCloC",
+            "citation_id": "PCAiILsAAAAJ:HE397vMXCloC",
+            "authors": "L Han, K Roitero, U Gadiraju, C Sarasua, A Checco, E Maddalena, ...",
+            "publication": "Proceedings of the twelfth ACM international conference on web search and …, 2019",
+            "cited_by": {
+                "value": 60,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13445533322541398778",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13445533322541398778&engine=google_scholar&hl=en",
+                "cites_id": "13445533322541398778"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "CrowdQ: Crowdsourced Query Understanding.",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PCAiILsAAAAJ&citation_for_view=PCAiILsAAAAJ:_Qo2XoVZTnwC",
+            "citation_id": "PCAiILsAAAAJ:_Qo2XoVZTnwC",
+            "authors": "G Demartini, B Trushkowsky, T Kraska, MJ Franklin, UC Berkeley",
+            "publication": "CIDR, 2013",
+            "cited_by": {
+                "value": 57,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5866315844112325099",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5866315844112325099&engine=google_scholar&hl=en",
+                "cites_id": "5866315844112325099"
+            },
+            "year": "2013"
+        },
+        {
+            "title": "Modus operandi of crowd workers: The invisible role of microtask work environments",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PCAiILsAAAAJ&citation_for_view=PCAiILsAAAAJ:tS2w5q8j5-wC",
+            "citation_id": "PCAiILsAAAAJ:tS2w5q8j5-wC",
+            "authors": "U Gadiraju, A Checco, N Gupta, G Demartini",
+            "publication": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous …, 2017",
+            "cited_by": {
+                "value": 55,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8283994254232619494",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8283994254232619494&engine=google_scholar&hl=en",
+                "cites_id": "8283994254232619494"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Human beyond the machine: Challenges and opportunities of microtask crowdsourcing",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PCAiILsAAAAJ&citation_for_view=PCAiILsAAAAJ:f2IySw72cVMC",
+            "citation_id": "PCAiILsAAAAJ:f2IySw72cVMC",
+            "authors": "U Gadiraju, G Demartini, R Kawase, S Dietze",
+            "publication": "IEEE Intelligent Systems 30 (4), 81-85, 2015",
+            "cited_by": {
+                "value": 53,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6269630015196798628",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6269630015196798628&engine=google_scholar&hl=en",
+                "cites_id": "6269630015196798628"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "Contextualized ranking of entity types based on knowledge graphs",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PCAiILsAAAAJ&citation_for_view=PCAiILsAAAAJ:NhqRSupF_l8C",
+            "citation_id": "PCAiILsAAAAJ:NhqRSupF_l8C",
+            "authors": "A Tonon, M Catasta, R Prokofyev, G Demartini, K Aberer, ...",
+            "publication": "Journal of Web Semantics 37, 170-183, 2016",
+            "cited_by": {
+                "value": 51,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10152754921536855001",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10152754921536855001&engine=google_scholar&hl=en",
+                "cites_id": "10152754921536855001"
+            },
+            "year": "2016"
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 5356,
+                    "since_2018": 3430
+                }
+            },
+            {
+                "h_index": {
+                    "all": 39,
+                    "since_2018": 32
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 93,
+                    "since_2018": 70
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2008,
+                "citations": 25
+            },
+            {
+                "year": 2009,
+                "citations": 48
+            },
+            {
+                "year": 2010,
+                "citations": 81
+            },
+            {
+                "year": 2011,
+                "citations": 130
+            },
+            {
+                "year": 2012,
+                "citations": 149
+            },
+            {
+                "year": 2013,
+                "citations": 182
+            },
+            {
+                "year": 2014,
+                "citations": 228
+            },
+            {
+                "year": 2015,
+                "citations": 273
+            },
+            {
+                "year": 2016,
+                "citations": 311
+            },
+            {
+                "year": 2017,
+                "citations": 441
+            },
+            {
+                "year": 2018,
+                "citations": 427
+            },
+            {
+                "year": 2019,
+                "citations": 451
+            },
+            {
+                "year": 2020,
+                "citations": 569
+            },
+            {
+                "year": 2021,
+                "citations": 658
+            },
+            {
+                "year": 2022,
+                "citations": 704
+            },
+            {
+                "year": 2023,
+                "citations": 614
+            }
+        ]
+    },
+    "public_access": {
+        "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=PCAiILsAAAAJ",
+        "available": 60,
+        "not_available": 16
+    },
+    "co_authors": [
+        {
+            "name": "Philippe Cudre-Mauroux",
+            "link": "https://scholar.google.com/citations?user=NpccCXwAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=NpccCXwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "NpccCXwAAAAJ",
+            "affiliations": "Full Professor (Computer Science), U. of Fribourg–Switzerland",
+            "email": "Verified email at unifr.ch",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=NpccCXwAAAAJ&citpid=3"
+        },
+        {
+            "name": "Djellel Difallah",
+            "link": "https://scholar.google.com/citations?user=K5d-OHEAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=K5d-OHEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "K5d-OHEAAAAJ",
+            "affiliations": "Assistant Professor, Computer Science, NYU Abu Dhabi",
+            "email": "Verified email at nyu.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=K5d-OHEAAAAJ&citpid=9"
+        },
+        {
+            "name": "Kevin Roitero",
+            "link": "https://scholar.google.com/citations?user=1xd52jMAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=1xd52jMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "1xd52jMAAAAJ",
+            "affiliations": "University of Udine",
+            "email": "Verified email at uniud.it",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=1xd52jMAAAAJ&citpid=6"
+        },
+        {
+            "name": "Stefano Mizzaro",
+            "link": "https://scholar.google.com/citations?user=2wvJC6IAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=2wvJC6IAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "2wvJC6IAAAAJ",
+            "affiliations": "Full professor of Computer Science and Information Technology",
+            "email": "Verified email at uniud.it",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=2wvJC6IAAAAJ&citpid=1"
+        },
+        {
+            "name": "Alessandro Checco",
+            "link": "https://scholar.google.com/citations?user=crhkrNcAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=crhkrNcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "crhkrNcAAAAJ",
+            "affiliations": "Computer Science Department - University of Rome La Sapienza",
+            "email": "Verified email at uniroma1.it",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=crhkrNcAAAAJ&citpid=2"
+        },
+        {
+            "name": "Ujwal Gadiraju",
+            "link": "https://scholar.google.com/citations?user=FX7BF6QAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=FX7BF6QAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "FX7BF6QAAAAJ",
+            "affiliations": "Assistant Professor, Web Information Systems, Delft University of Technology",
+            "email": "Verified email at tudelft.nl",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=FX7BF6QAAAAJ&citpid=20"
+        },
+        {
+            "name": "Tereza Iofciu",
+            "link": "https://scholar.google.com/citations?user=wQgkh-4AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=wQgkh-4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "wQgkh-4AAAAJ",
+            "affiliations": "L3S",
+            "email": "Verified email at neuefische.de",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=wQgkh-4AAAAJ&citpid=1"
+        },
+        {
+            "name": "Michele Catasta",
+            "link": "https://scholar.google.com/citations?user=ZxfOSWMAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=ZxfOSWMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ZxfOSWMAAAAJ",
+            "affiliations": "VP of AI at Replit",
+            "email": "Verified email at cs.stanford.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=ZxfOSWMAAAAJ&citpid=8"
+        },
+        {
+            "name": "Wolfgang Nejdl",
+            "link": "https://scholar.google.com/citations?user=LC62bdYAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=LC62bdYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "LC62bdYAAAAJ",
+            "affiliations": "Professor of Computer Science, Leibniz Universität Hannover, L3S Research Center, Hannover, Germany",
+            "email": "Verified email at kbs.uni-hannover.de",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=LC62bdYAAAAJ&citpid=3"
+        },
+        {
+            "name": "Lei Han",
+            "link": "https://scholar.google.com/citations?user=Oibami4AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Oibami4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Oibami4AAAAJ",
+            "affiliations": "The University of Queensland",
+            "email": "Verified email at uq.edu.au",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Oibami4AAAAJ&citpid=1"
+        },
+        {
+            "name": "Shazia Sadiq",
+            "link": "https://scholar.google.com/citations?user=1Jo0EmIAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=1Jo0EmIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "1Jo0EmIAAAAJ",
+            "affiliations": "The University of Queensland",
+            "email": "Verified email at itee.uq.edu.au",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=1Jo0EmIAAAAJ&citpid=2"
+        },
+        {
+            "name": "Peter A Bath",
+            "link": "https://scholar.google.com/citations?user=-ExSN_IAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=-ExSN_IAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "-ExSN_IAAAAJ",
+            "affiliations": "University of Sheffield",
+            "email": "Verified email at sheffield.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=-ExSN_IAAAAJ&citpid=4"
+        },
+        {
+            "name": "Damiano Spina",
+            "link": "https://scholar.google.com/citations?user=sLzYrNYAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=sLzYrNYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "sLzYrNYAAAAJ",
+            "affiliations": "School of Computing Technologies, RMIT University",
+            "email": "Verified email at rmit.edu.au",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=sLzYrNYAAAAJ&citpid=8"
+        },
+        {
+            "name": "Dr. Wasim Ahmed, PhD",
+            "link": "https://scholar.google.com/citations?user=JduIcrAAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=JduIcrAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "JduIcrAAAAAJ",
+            "affiliations": "Senior Lecturer in Marketing",
+            "email": "Verified email at hull.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=JduIcrAAAAAJ&citpid=4"
+        },
+        {
+            "name": "Eddy Maddalena",
+            "link": "https://scholar.google.com/citations?user=egHDpFkAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=egHDpFkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "egHDpFkAAAAJ",
+            "affiliations": "Università degli Studi di Udine, Italy",
+            "email": "Verified email at uniud.it",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=egHDpFkAAAAJ&citpid=4"
+        },
+        {
+            "name": "Karl Aberer",
+            "link": "https://scholar.google.com/citations?user=ifU81ikAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=ifU81ikAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ifU81ikAAAAJ",
+            "affiliations": "Professor of Computer and Communication Sciences, EPFL",
+            "email": "Verified email at epfl.ch",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=ifU81ikAAAAJ&citpid=2"
+        },
+        {
+            "name": "Alberto Tonon",
+            "link": "https://scholar.google.com/citations?user=zBYcXUMAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=zBYcXUMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "zBYcXUMAAAAJ",
+            "affiliations": "PhD Student, University of Fribourg",
+            "email": "Verified email at exascale.info",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=zBYcXUMAAAAJ&citpid=2"
+        },
+        {
+            "name": "Michael Soprano",
+            "link": "https://scholar.google.com/citations?user=ocK0qRUAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=ocK0qRUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ocK0qRUAAAAJ",
+            "affiliations": "Postdoctoral Research Fellow at the University of Udine",
+            "email": "Verified email at uniud.it",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=ocK0qRUAAAAJ&citpid=2"
+        },
+        {
+            "name": "Laura Sbaffi",
+            "link": "https://scholar.google.com/citations?user=TMKfR4AAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=TMKfR4AAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "TMKfR4AAAAAJ",
+            "affiliations": "Senior Lecturer, Information School, University of Sheffield",
+            "email": "Verified email at sheffield.ac.uk",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Claudiu S. Firan",
+            "link": "https://scholar.google.com/citations?user=SRc8aowAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=SRc8aowAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "SRc8aowAAAAJ",
+            "email": "Verified email at l3s.de",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=SRc8aowAAAAJ&citpid=2"
+        }
+    ],
+    "serpapi_pagination": {
+        "next": "https://serpapi.com/search.json?author_id=PCAiILsAAAAJ&engine=google_scholar_author&hl=en&start=20"
+    }
+}

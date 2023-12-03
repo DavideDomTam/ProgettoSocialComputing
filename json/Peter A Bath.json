@@ -1,0 +1,83 @@
+{
+    "search_metadata": {
+        "id": "65689ae914b245873705e480",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/32abab4061ec414c/65689ae914b245873705e480.json",
+        "created_at": "2023-11-30 14:23:37 UTC",
+        "processed_at": "2023-11-30 14:23:37 UTC",
+        "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Peter+A+Bath&view_op=search_authors&hl=en",
+        "raw_html_file": "https://serpapi.com/searches/32abab4061ec414c/65689ae914b245873705e480.html",
+        "total_time_taken": 1.6
+    },
+    "search_parameters": {
+        "engine": "google_scholar_profiles",
+        "mauthors": "Peter A Bath",
+        "hl": "en"
+    },
+    "profiles": [
+        {
+            "name": "Peter A Bath",
+            "link": "https://scholar.google.com/citations?hl=en&user=-ExSN_IAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=-ExSN_IAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "-ExSN_IAAAAJ",
+            "affiliations": "University of Sheffield",
+            "email": "Verified email at sheffield.ac.uk",
+            "cited_by": 7126,
+            "interests": [
+                {
+                    "title": "Health Informatics",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ahealth_informatics",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:health_informatics"
+                },
+                {
+                    "title": "Health Data Science",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ahealth_data_science",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:health_data_science"
+                },
+                {
+                    "title": "Information behaviours",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ainformation_behaviours",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:information_behaviours"
+                },
+                {
+                    "title": "Older people",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aolder_people",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:older_people"
+                },
+                {
+                    "title": "online sharing",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aonline_sharing",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:online_sharing"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=-ExSN_IAAAAJ&citpid=4"
+        },
+        {
+            "name": "Adegbenro Peter Daso",
+            "link": "https://scholar.google.com/citations?hl=en&user=215CQsYAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=215CQsYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "215CQsYAAAAJ",
+            "affiliations": "University of Bath, United Kingdom",
+            "email": "Verified email at bath.ac.uk",
+            "cited_by": 1499,
+            "interests": [
+                {
+                    "title": "Environmental Chemistry",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aenvironmental_chemistry",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:environmental_chemistry"
+                },
+                {
+                    "title": "Analytical Chemistry",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aanalytical_chemistry",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:analytical_chemistry"
+                },
+                {
+                    "title": "Environmental Mass Spectrometry",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aenvironmental_mass_spectrometry",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:environmental_mass_spectrometry"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=215CQsYAAAAJ&citpid=7"
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "search_metadata": {
+        "id": "656899fa681ebe542d855ba0",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/0f06780b009b573d/656899fa681ebe542d855ba0.json",
+        "created_at": "2023-11-30 14:19:38 UTC",
+        "processed_at": "2023-11-30 14:19:38 UTC",
+        "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Luca+Vassena&view_op=search_authors&hl=en",
+        "raw_html_file": "https://serpapi.com/searches/0f06780b009b573d/656899fa681ebe542d855ba0.html",
+        "total_time_taken": 0.3
+    },
+    "search_parameters": {
+        "engine": "google_scholar_profiles",
+        "mauthors": "Luca Vassena",
+        "hl": "en"
+    },
+    "profiles": [
+        {
+            "name": "Vanessa De Luca",
+            "link": "https://scholar.google.com/citations?hl=en&user=HZl2KP0AAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=HZl2KP0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "HZl2KP0AAAAJ",
+            "affiliations": "Research Associate, SUPSI",
+            "email": "Verified email at supsi.ch",
+            "cited_by": 424,
+            "interests": [
+                {
+                    "title": "Interaction Design",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ainteraction_design",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:interaction_design"
+                }
+            ],
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Luca Vassena",
+            "link": "https://scholar.google.com/citations?hl=en&user=dCBk3oIAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=dCBk3oIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "dCBk3oIAAAAJ",
+            "affiliations": "Università di Udine",
+            "email": "Verified email at uniud.it",
+            "cited_by": 359,
+            "interests": [
+                {
+                    "title": "mobile",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amobile",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:mobile"
+                },
+                {
+                    "title": "ir",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Air",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:ir"
+                },
+                {
+                    "title": "context",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acontext",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:context"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=dCBk3oIAAAAJ&citpid=2"
+        }
+    ]
+}

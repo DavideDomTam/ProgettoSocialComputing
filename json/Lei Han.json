@@ -1,0 +1,237 @@
+{
+    "search_metadata": {
+        "id": "65689ae7fa86759ec5b59d6b",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/8554fb1458de8bbf/65689ae7fa86759ec5b59d6b.json",
+        "created_at": "2023-11-30 14:23:35 UTC",
+        "processed_at": "2023-11-30 14:23:35 UTC",
+        "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Lei+Han&view_op=search_authors&hl=en",
+        "raw_html_file": "https://serpapi.com/searches/8554fb1458de8bbf/65689ae7fa86759ec5b59d6b.html",
+        "total_time_taken": 1.19
+    },
+    "search_parameters": {
+        "engine": "google_scholar_profiles",
+        "mauthors": "Lei Han",
+        "hl": "en"
+    },
+    "profiles": [
+        {
+            "name": "Leihan Tang",
+            "link": "https://scholar.google.com/citations?hl=en&user=kYTmdEMAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=kYTmdEMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "kYTmdEMAAAAJ",
+            "affiliations": "Professor of Physics, Hong Kong Baptist University",
+            "email": "Verified email at hkbu.edu.hk",
+            "cited_by": 6660,
+            "interests": [
+                {
+                    "title": "Statistical Physics",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Astatistical_physics",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:statistical_physics"
+                },
+                {
+                    "title": "Biological Physics",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Abiological_physics",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:biological_physics"
+                },
+                {
+                    "title": "Computational Physics",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acomputational_physics",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:computational_physics"
+                },
+                {
+                    "title": "Systems Biology",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Asystems_biology",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:systems_biology"
+                },
+                {
+                    "title": "Quantitative Modeling",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aquantitative_modeling",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:quantitative_modeling"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=kYTmdEMAAAAJ&citpid=4"
+        },
+        {
+            "name": "Lei Han",
+            "link": "https://scholar.google.com/citations?hl=en&user=Tz4_zi8AAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Tz4_zi8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Tz4_zi8AAAAJ",
+            "affiliations": "Tencent Robotics X & Tencent AI Lab",
+            "email": "Verified email at tencent.com",
+            "cited_by": 1760,
+            "interests": [
+                {
+                    "title": "Machine Learning",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amachine_learning",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:machine_learning"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Tz4_zi8AAAAJ&citpid=3"
+        },
+        {
+            "name": "Xiang-Lei Han（韩相磊）",
+            "link": "https://scholar.google.com/citations?hl=en&user=VYsX2n0AAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=VYsX2n0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "VYsX2n0AAAAJ",
+            "affiliations": "",
+            "cited_by": 660,
+            "interests": [
+                {
+                    "title": "Nanofabrication",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ananofabrication",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:nanofabrication"
+                },
+                {
+                    "title": "Nanoelectronics",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ananoelectronics",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:nanoelectronics"
+                },
+                {
+                    "title": "Silicon Photonics",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Asilicon_photonics",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:silicon_photonics"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=VYsX2n0AAAAJ&citpid=3"
+        },
+        {
+            "name": "LEI HAN",
+            "link": "https://scholar.google.com/citations?hl=en&user=fI5pZ_cAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=fI5pZ_cAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "fI5pZ_cAAAAJ",
+            "affiliations": "Hong Kong University of Science and Technology",
+            "email": "Verified email at connect.ust.hk",
+            "cited_by": 554,
+            "interests": [
+                {
+                    "title": "Computer Vision",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acomputer_vision",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:computer_vision"
+                },
+                {
+                    "title": "SLAM",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aslam",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:slam"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=fI5pZ_cAAAAJ&citpid=2"
+        },
+        {
+            "name": "Chun-Lei Han",
+            "link": "https://scholar.google.com/citations?hl=en&user=LU0gym0AAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=LU0gym0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "LU0gym0AAAAJ",
+            "affiliations": "Beijing Tiantan Hospital,Capital Medical University",
+            "email": "Verified email at mail.ccmu.edu.cn",
+            "cited_by": 531,
+            "interests": [
+                {
+                    "title": "Epilepsy",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aepilepsy",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:epilepsy"
+                },
+                {
+                    "title": "Parkinson's disease",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aparkinson_s_disease",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:parkinson%27s_disease"
+                },
+                {
+                    "title": "Non-coding RNA",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Anon_coding_rna",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:non_coding_rna"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=LU0gym0AAAAJ&citpid=8"
+        },
+        {
+            "name": "Lei Han",
+            "link": "https://scholar.google.com/citations?hl=en&user=xTGHYnoAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=xTGHYnoAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "xTGHYnoAAAAJ",
+            "affiliations": "St. Jude Children's Research Hospital",
+            "email": "Verified email at stjude.org",
+            "cited_by": 509,
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=xTGHYnoAAAAJ&citpid=2"
+        },
+        {
+            "name": "Leihan Zhang",
+            "link": "https://scholar.google.com/citations?hl=en&user=Cs4DInYAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Cs4DInYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Cs4DInYAAAAJ",
+            "affiliations": "Beijing University of Posts and Telecommunications",
+            "email": "Verified email at bupt.edu.cn",
+            "cited_by": 427,
+            "interests": [
+                {
+                    "title": "meme diffusion",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ameme_diffusion",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:meme_diffusion"
+                },
+                {
+                    "title": "sentiment analysis",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Asentiment_analysis",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:sentiment_analysis"
+                },
+                {
+                    "title": "natural language processing",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Anatural_language_processing",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:natural_language_processing"
+                }
+            ],
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Lei Han",
+            "link": "https://scholar.google.com/citations?hl=en&user=926_eDkAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=926_eDkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "926_eDkAAAAJ",
+            "affiliations": "UTsouthwestern",
+            "email": "Verified email at utsouthwestern.edu",
+            "cited_by": 375,
+            "interests": [
+                {
+                    "title": "Chemistry",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Achemistry",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:chemistry"
+                },
+                {
+                    "title": "Biochemistry",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Abiochemistry",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:biochemistry"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=926_eDkAAAAJ&citpid=2"
+        },
+        {
+            "name": "Lei Han",
+            "link": "https://scholar.google.com/citations?hl=en&user=9B9NUN0AAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=9B9NUN0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "9B9NUN0AAAAJ",
+            "affiliations": "",
+            "cited_by": 309,
+            "interests": [
+                {
+                    "title": "structural biology/ Membrane protein",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Astructural_biology_membrane_protein",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:structural_biology_membrane_protein"
+                }
+            ],
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Lei Han",
+            "link": "https://scholar.google.com/citations?hl=en&user=Oibami4AAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Oibami4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Oibami4AAAAJ",
+            "affiliations": "The University of Queensland",
+            "email": "Verified email at uq.edu.au",
+            "cited_by": 230,
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Oibami4AAAAJ&citpid=1"
+        }
+    ],
+    "pagination": {
+        "next": "https://serpapi.com/search.json?after_author=y8G4ABf___8J&engine=google_scholar_profiles&hl=en&mauthors=Lei+Han",
+        "next_page_token": "y8G4ABf___8J"
+    }
+}

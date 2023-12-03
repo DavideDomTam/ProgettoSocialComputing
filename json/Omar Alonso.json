@@ -1,0 +1,323 @@
+{
+    "search_metadata": {
+        "id": "656899ff37014ce7bbb457f4",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/0bdcfbac2902af63/656899ff37014ce7bbb457f4.json",
+        "created_at": "2023-11-30 14:19:43 UTC",
+        "processed_at": "2023-11-30 14:19:43 UTC",
+        "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Omar+Alonso&view_op=search_authors&hl=en",
+        "raw_html_file": "https://serpapi.com/searches/0bdcfbac2902af63/656899ff37014ce7bbb457f4.html",
+        "total_time_taken": 1.66
+    },
+    "search_parameters": {
+        "engine": "google_scholar_profiles",
+        "mauthors": "Omar Alonso",
+        "hl": "en"
+    },
+    "profiles": [
+        {
+            "name": "Omar Alonso",
+            "link": "https://scholar.google.com/citations?hl=en&user=VvLUqbkAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=VvLUqbkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "VvLUqbkAAAAJ",
+            "affiliations": "Amazon",
+            "email": "Verified email at amazon.com",
+            "cited_by": 4344,
+            "interests": [
+                {
+                    "title": "Information Retrieval",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ainformation_retrieval",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:information_retrieval"
+                },
+                {
+                    "title": "Crowdsourcing",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acrowdsourcing",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:crowdsourcing"
+                },
+                {
+                    "title": "Social search",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Asocial_search",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:social_search"
+                },
+                {
+                    "title": "Knowledge graphs",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aknowledge_graphs",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:knowledge_graphs"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=VvLUqbkAAAAJ&citpid=4"
+        },
+        {
+            "name": "Omar Gutierrez-Alonso",
+            "link": "https://scholar.google.com/citations?hl=en&user=3dE5T7kAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=3dE5T7kAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "3dE5T7kAAAAJ",
+            "affiliations": "INIFAP",
+            "email": "Verified email at inifap.gob.mx",
+            "cited_by": 347,
+            "interests": [
+                {
+                    "title": "Fungicide resistance",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Afungicide_resistance",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:fungicide_resistance"
+                },
+                {
+                    "title": "RNA-seq",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Arna_seq",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:rna_seq"
+                },
+                {
+                    "title": "Data mining",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adata_mining",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:data_mining"
+                },
+                {
+                    "title": "Crop protection",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acrop_protection",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:crop_protection"
+                },
+                {
+                    "title": "Epidemiology",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aepidemiology",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:epidemiology"
+                }
+            ],
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "OMAR ALONSO PATINO CASTRO",
+            "link": "https://scholar.google.com/citations?hl=en&user=ORl7BG4AAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=ORl7BG4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ORl7BG4AAAAJ",
+            "affiliations": "Universidad EAN",
+            "email": "Verified email at universidadean.edu.co",
+            "cited_by": 198,
+            "interests": [
+                {
+                    "title": "Organizaciones",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aorganizaciones",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:organizaciones"
+                },
+                {
+                    "title": "Finanzas",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Afinanzas",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:finanzas"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=ORl7BG4AAAAJ&citpid=2"
+        },
+        {
+            "name": "Omar Alonso Doria Arrieta",
+            "link": "https://scholar.google.com/citations?hl=en&user=QhOf-lIAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=QhOf-lIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "QhOf-lIAAAAJ",
+            "affiliations": "Data Scientist at Sky.",
+            "email": "Verified email at skytv.it",
+            "cited_by": 126,
+            "interests": [
+                {
+                    "title": "Economics",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aeconomics",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:economics"
+                },
+                {
+                    "title": "Machine Learning",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amachine_learning",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:machine_learning"
+                },
+                {
+                    "title": "Banking",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Abanking",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:banking"
+                },
+                {
+                    "title": "Development",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adevelopment",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:development"
+                },
+                {
+                    "title": "Data Science",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adata_science",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:data_science"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=QhOf-lIAAAAJ&citpid=1"
+        },
+        {
+            "name": "OMAR ALFONSO CARDENAS CAYCEDO",
+            "link": "https://scholar.google.com/citations?hl=en&user=sdS5-8gAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=sdS5-8gAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "sdS5-8gAAAAJ",
+            "affiliations": "Universidad de Nariño",
+            "email": "Verified email at udenar.edu.co",
+            "cited_by": 55,
+            "interests": [
+                {
+                    "title": "derecho",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aderecho",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:derecho"
+                },
+                {
+                    "title": "derecho comercial",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aderecho_comercial",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:derecho_comercial"
+                },
+                {
+                    "title": "sociedades comerciales",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Asociedades_comerciales",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:sociedades_comerciales"
+                },
+                {
+                    "title": "derecho procesal",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aderecho_procesal",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:derecho_procesal"
+                },
+                {
+                    "title": "derecho mercantil internacional",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aderecho_mercantil_internacional",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:derecho_mercantil_internacional"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=sdS5-8gAAAAJ&citpid=1"
+        },
+        {
+            "name": "OMAR GUILLERMO ROBAYO ALFONSO",
+            "link": "https://scholar.google.com/citations?hl=en&user=KX7u2LsAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=KX7u2LsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "KX7u2LsAAAAJ",
+            "affiliations": "Profesor de Economía, Universidad de Cundinamarca.",
+            "cited_by": 38,
+            "interests": [
+                {
+                    "title": "Economia y Finanzas",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aeconomia_y_finanzas",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:economia_y_finanzas"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=KX7u2LsAAAAJ&citpid=2"
+        },
+        {
+            "name": "Omar Alonso García Martínez",
+            "link": "https://scholar.google.com/citations?hl=en&user=upXl-M0AAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=upXl-M0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "upXl-M0AAAAJ",
+            "affiliations": "Fundación Universitaria San Mateo",
+            "email": "Verified email at funsanmateo.edu.co",
+            "cited_by": 18,
+            "interests": [
+                {
+                    "title": "Artes visuales",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aartes_visuales",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:artes_visuales"
+                },
+                {
+                    "title": "Artes pláticas y visuales",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aartes_pl%C3%A1ticas_y_visuales",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:artes_pl%C3%A1ticas_y_visuales"
+                },
+                {
+                    "title": "Diseño gráfico",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adise%C3%B1o_gr%C3%A1fico",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:dise%C3%B1o_gr%C3%A1fico"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=upXl-M0AAAAJ&citpid=2"
+        },
+        {
+            "name": "Omar Alonso Ruiz Bastidas",
+            "link": "https://scholar.google.com/citations?hl=en&user=07KgwDcAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=07KgwDcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "07KgwDcAAAAJ",
+            "affiliations": "Profesor Semiologia, Pontificia Universidad Javeriana Cali, ORCID 0000-0001-5072-2376",
+            "email": "Verified email at javerianacali.edu.co",
+            "cited_by": 2,
+            "interests": [
+                {
+                    "title": "Cardiovascular risk",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acardiovascular_risk",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:cardiovascular_risk"
+                },
+                {
+                    "title": "Diabetes Mellitus",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adiabetes_mellitus",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:diabetes_mellitus"
+                },
+                {
+                    "title": "Hypertension",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ahypertension",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:hypertension"
+                },
+                {
+                    "title": "Hypotiroidism",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ahypotiroidism",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:hypotiroidism"
+                },
+                {
+                    "title": "Reumatology",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Areumatology",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:reumatology"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=07KgwDcAAAAJ&citpid=1"
+        },
+        {
+            "name": "Omar Alonso Villafuerte Sánchez",
+            "link": "https://scholar.google.com/citations?hl=en&user=zW3bwvQAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=zW3bwvQAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "zW3bwvQAAAAJ",
+            "affiliations": "Universidad del Noreste AC",
+            "email": "Verified email at une.edu.mx",
+            "cited_by": null,
+            "interests": [
+                {
+                    "title": "Turismo",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aturismo",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:turismo"
+                },
+                {
+                    "title": "Animación Turística",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aanimaci%C3%B3n_tur%C3%ADstica",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:animaci%C3%B3n_tur%C3%ADstica"
+                },
+                {
+                    "title": "Viajes",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aviajes",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:viajes"
+                },
+                {
+                    "title": "Gastronomia",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Agastronomia",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:gastronomia"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=zW3bwvQAAAAJ&citpid=4"
+        },
+        {
+            "name": "Omar Alfonso Gutiérrez-De La Paz",
+            "link": "https://scholar.google.com/citations?hl=en&user=G9dFuNIAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=G9dFuNIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "G9dFuNIAAAAJ",
+            "affiliations": "PhD student at CIC - National Polytechnic Institute, Mexico",
+            "email": "Verified email at cic.ipn.mx",
+            "cited_by": null,
+            "interests": [
+                {
+                    "title": "Deep Learning",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adeep_learning",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:deep_learning"
+                },
+                {
+                    "title": "Optimization problems",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aoptimization_problems",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:optimization_problems"
+                },
+                {
+                    "title": "Reinforcement Learning",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Areinforcement_learning",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:reinforcement_learning"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=G9dFuNIAAAAJ&citpid=2"
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "search_metadata": {
+        "id": "65689a65c504e9210015bcd4",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/a078f577b9d0a101/65689a65c504e9210015bcd4.json",
+        "created_at": "2023-11-30 14:21:25 UTC",
+        "processed_at": "2023-11-30 14:21:25 UTC",
+        "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Maarten+de+Rijke&view_op=search_authors&hl=en",
+        "raw_html_file": "https://serpapi.com/searches/a078f577b9d0a101/65689a65c504e9210015bcd4.html",
+        "total_time_taken": 4.06
+    },
+    "search_parameters": {
+        "engine": "google_scholar_profiles",
+        "mauthors": "Maarten de Rijke",
+        "hl": "en"
+    },
+    "profiles": [
+        {
+            "name": "Maarten de Rijke",
+            "link": "https://scholar.google.com/citations?hl=en&user=AVDkgFIAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=AVDkgFIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "AVDkgFIAAAAJ",
+            "affiliations": "University of Amsterdam & ICAI",
+            "email": "Verified email at uva.nl",
+            "cited_by": 36842,
+            "interests": [
+                {
+                    "title": "Information retrieval",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ainformation_retrieval",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:information_retrieval"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=AVDkgFIAAAAJ&citpid=14"
+        },
+        {
+            "name": "Maarten De Rijcke",
+            "link": "https://scholar.google.com/citations?hl=en&user=4N5CCp0AAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=4N5CCp0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "4N5CCp0AAAAJ",
+            "affiliations": "Flanders Marine Institute",
+            "email": "Verified email at vliz.be",
+            "cited_by": 1297,
+            "interests": [
+                {
+                    "title": "Harmful algal blooms",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aharmful_algal_blooms",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:harmful_algal_blooms"
+                },
+                {
+                    "title": "microbial ecology",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amicrobial_ecology",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:microbial_ecology"
+                },
+                {
+                    "title": "oceans and human health",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aoceans_and_human_health",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:oceans_and_human_health"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=4N5CCp0AAAAJ&citpid=1"
+        }
+    ]
+}
