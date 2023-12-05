@@ -1,13 +1,13 @@
 {
     "search_metadata": {
-        "id": "656898f19b6472371dbd3eb3",
+        "id": "656f29532c08441e1b91461c",
         "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/9c57fa0da8b386c6/656898f19b6472371dbd3eb3.json",
-        "created_at": "2023-11-30 14:15:13 UTC",
-        "processed_at": "2023-11-30 14:15:13 UTC",
+        "json_endpoint": "https://serpapi.com/searches/9c57fa0da8b386c6/656f29532c08441e1b91461c.json",
+        "created_at": "2023-12-05 13:44:51 UTC",
+        "processed_at": "2023-12-05 13:44:51 UTC",
         "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Eddy+Maddalena&view_op=search_authors&hl=en",
-        "raw_html_file": "https://serpapi.com/searches/9c57fa0da8b386c6/656898f19b6472371dbd3eb3.html",
-        "total_time_taken": 1.19
+        "raw_html_file": "https://serpapi.com/searches/9c57fa0da8b386c6/656f29532c08441e1b91461c.html",
+        "total_time_taken": 0.46
     },
     "search_parameters": {
         "engine": "google_scholar_profiles",
@@ -22,7 +22,7 @@
             "author_id": "j8YC3TAAAAAJ",
             "affiliations": "Unita' di Gastroenterologia ed Endoscopia Digestiva, ospedale Sandro Pertini, Roma",
             "email": "Verified email at aslroma2.it",
-            "cited_by": 1748,
+            "cited_by": 1747,
             "interests": [
                 {
                     "title": "endoscopia digestiva diagnostica e opertiva",
@@ -54,7 +54,7 @@
             "author_id": "DPk1AI4AAAAJ",
             "affiliations": "Archaeology University of Edinburgh",
             "email": "Verified email at ed.ac.uk",
-            "cited_by": 746,
+            "cited_by": 747,
             "interests": [
                 {
                     "title": "Archaeology",
@@ -91,7 +91,7 @@
             "author_id": "egHDpFkAAAAJ",
             "affiliations": "Università degli Studi di Udine, Italy",
             "email": "Verified email at uniud.it",
-            "cited_by": 553,
+            "cited_by": 554,
             "interests": [
                 {
                     "title": "Information Retrieval",
@@ -128,7 +128,7 @@
             "author_id": "S4S1-tQAAAAJ",
             "affiliations": "Lector univ.dr., Fac. Stiinte, Ed. Fizica si Informatica, Univ. Pitesti",
             "email": "Verified email at upit.ro",
-            "cited_by": 38,
+            "cited_by": 39,
             "interests": [
                 {
                     "title": "Biotehnologii vegetale",
@@ -150,7 +150,7 @@
             "author_id": "mzA-lkIAAAAJ",
             "affiliations": "University of Edinburgh",
             "email": "Verified email at ed.ac.uk",
-            "cited_by": 24,
+            "cited_by": 25,
             "interests": [
                 {
                     "title": "graph neural networks",

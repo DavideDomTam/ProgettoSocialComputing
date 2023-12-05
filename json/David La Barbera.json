@@ -1,13 +1,13 @@
 {
     "search_metadata": {
-        "id": "656898e2eb690fd40d5caa1e",
+        "id": "656f2947116a55f1c9aa4d6f",
         "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/cc64ac3ff8cb102c/656898e2eb690fd40d5caa1e.json",
-        "created_at": "2023-11-30 14:14:58 UTC",
-        "processed_at": "2023-11-30 14:14:58 UTC",
+        "json_endpoint": "https://serpapi.com/searches/cc64ac3ff8cb102c/656f2947116a55f1c9aa4d6f.json",
+        "created_at": "2023-12-05 13:44:39 UTC",
+        "processed_at": "2023-12-05 13:44:39 UTC",
         "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=David+La+Barbera&view_op=search_authors&hl=en",
-        "raw_html_file": "https://serpapi.com/searches/cc64ac3ff8cb102c/656898e2eb690fd40d5caa1e.html",
-        "total_time_taken": 0.71
+        "raw_html_file": "https://serpapi.com/searches/cc64ac3ff8cb102c/656f2947116a55f1c9aa4d6f.html",
+        "total_time_taken": 1.28
     },
     "search_parameters": {
         "engine": "google_scholar_profiles",
@@ -22,7 +22,7 @@
             "author_id": "MvN8wKEAAAAJ",
             "affiliations": "Università Degli Studi Di Udine",
             "email": "Verified email at spes.uniud.it",
-            "cited_by": 139,
+            "cited_by": 140,
             "interests": [
                 {
                     "title": "Computer Science",
