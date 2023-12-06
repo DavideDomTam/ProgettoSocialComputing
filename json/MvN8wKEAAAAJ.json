@@ -1,13 +1,13 @@
 {
     "search_metadata": {
-        "id": "656898aa216a9d376370e488",
+        "id": "656f2c2cea144294d6b46c80",
         "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/979bde751934ffab/656898aa216a9d376370e488.json",
-        "created_at": "2023-11-30 14:14:02 UTC",
-        "processed_at": "2023-11-30 14:14:02 UTC",
+        "json_endpoint": "https://serpapi.com/searches/979bde751934ffab/656f2c2cea144294d6b46c80.json",
+        "created_at": "2023-12-05 13:57:00 UTC",
+        "processed_at": "2023-12-05 13:57:00 UTC",
         "google_scholar_author_url": "https://scholar.google.com/citations?user=MvN8wKEAAAAJ&hl=en",
-        "raw_html_file": "https://serpapi.com/searches/979bde751934ffab/656898aa216a9d376370e488.html",
-        "total_time_taken": 0.68
+        "raw_html_file": "https://serpapi.com/searches/979bde751934ffab/656f2c2cea144294d6b46c80.html",
+        "total_time_taken": 0.77
     },
     "search_parameters": {
         "engine": "google_scholar_author",
@@ -91,7 +91,7 @@
             "authors": "E Conde-Sousa, J Vale, M Feng, K Xu, Y Wang, V Della Mea, ...",
             "publication": "Journal of Imaging 8 (8), 213, 2022",
             "cited_by": {
-                "value": 8,
+                "value": 9,
                 "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1614991763017371314",
                 "serpapi_link": "https://serpapi.com/search.json?cites=1614991763017371314&engine=google_scholar&hl=en",
                 "cites_id": "1614991763017371314"
@@ -217,8 +217,8 @@
         "table": [
             {
                 "citations": {
-                    "all": 139,
-                    "since_2018": 139
+                    "all": 140,
+                    "since_2018": 140
                 }
             },
             {
@@ -249,7 +249,7 @@
             },
             {
                 "year": 2023,
-                "citations": 71
+                "citations": 72
             }
         ]
     },
