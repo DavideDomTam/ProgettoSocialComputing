@@ -1,13 +1,13 @@
 {
     "search_metadata": {
-        "id": "65689ae57f836140281c0785",
+        "id": "65730dfa94fb036f02d9afe9",
         "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/d5e3ccc3eabf591c/65689ae57f836140281c0785.json",
-        "created_at": "2023-11-30 14:23:33 UTC",
-        "processed_at": "2023-11-30 14:23:33 UTC",
+        "json_endpoint": "https://serpapi.com/searches/2fa667d1aaf1660a/65730dfa94fb036f02d9afe9.json",
+        "created_at": "2023-12-08 12:37:14 UTC",
+        "processed_at": "2023-12-08 12:37:14 UTC",
         "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Wolfgang+Nejdl&view_op=search_authors&hl=en",
-        "raw_html_file": "https://serpapi.com/searches/d5e3ccc3eabf591c/65689ae57f836140281c0785.html",
-        "total_time_taken": 1.41
+        "raw_html_file": "https://serpapi.com/searches/2fa667d1aaf1660a/65730dfa94fb036f02d9afe9.html",
+        "total_time_taken": 0.26
     },
     "search_parameters": {
         "engine": "google_scholar_profiles",
@@ -22,7 +22,7 @@
             "author_id": "LC62bdYAAAAJ",
             "affiliations": "Professor of Computer Science, Leibniz Universität Hannover, L3S Research Center …",
             "email": "Verified email at kbs.uni-hannover.de",
-            "cited_by": 25480,
+            "cited_by": 25515,
             "interests": [
                 {
                     "title": "Information Retrieval",

@@ -1,13 +1,13 @@
 {
     "search_metadata": {
-        "id": "65689a5a8cd8780ee8c800b6",
+        "id": "65730dd7ada54bd14c5aa9d1",
         "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/9369ecd241a65069/65689a5a8cd8780ee8c800b6.json",
-        "created_at": "2023-11-30 14:21:14 UTC",
-        "processed_at": "2023-11-30 14:21:14 UTC",
+        "json_endpoint": "https://serpapi.com/searches/2da1aa47c947eb04/65730dd7ada54bd14c5aa9d1.json",
+        "created_at": "2023-12-08 12:36:39 UTC",
+        "processed_at": "2023-12-08 12:36:39 UTC",
         "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Julio+Gonzalo&view_op=search_authors&hl=en",
-        "raw_html_file": "https://serpapi.com/searches/9369ecd241a65069/65689a5a8cd8780ee8c800b6.html",
-        "total_time_taken": 4.88
+        "raw_html_file": "https://serpapi.com/searches/2da1aa47c947eb04/65730dd7ada54bd14c5aa9d1.html",
+        "total_time_taken": 1.17
     },
     "search_parameters": {
         "engine": "google_scholar_profiles",
@@ -22,7 +22,7 @@
             "author_id": "opFCmpYAAAAJ",
             "affiliations": "Full professor of Computer Science, UNED",
             "email": "Verified email at lsi.uned.es",
-            "cited_by": 6087,
+            "cited_by": 6093,
             "interests": [
                 {
                     "title": "Natural Language Processing",

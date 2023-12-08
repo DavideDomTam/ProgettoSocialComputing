@@ -1,13 +1,13 @@
 {
     "search_metadata": {
-        "id": "656899f734ff95c7c7e6ff6e",
+        "id": "65730dbf1baebbdc5e539e62",
         "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/aa8674f35a214632/656899f734ff95c7c7e6ff6e.json",
-        "created_at": "2023-11-30 14:19:35 UTC",
-        "processed_at": "2023-11-30 14:19:35 UTC",
+        "json_endpoint": "https://serpapi.com/searches/1cefef2fb9aba137/65730dbf1baebbdc5e539e62.json",
+        "created_at": "2023-12-08 12:36:15 UTC",
+        "processed_at": "2023-12-08 12:36:15 UTC",
         "google_scholar_author_url": "https://scholar.google.com/citations?user=2wvJC6IAAAAJ&hl=en",
-        "raw_html_file": "https://serpapi.com/searches/aa8674f35a214632/656899f734ff95c7c7e6ff6e.html",
-        "total_time_taken": 1.42
+        "raw_html_file": "https://serpapi.com/searches/1cefef2fb9aba137/65730dbf1baebbdc5e539e62.html",
+        "total_time_taken": 0.69
     },
     "search_parameters": {
         "engine": "google_scholar_author",
@@ -55,7 +55,7 @@
             "authors": "S Mizzaro",
             "publication": "Journal of the American society for information science 48 (9), 810-832, 1997",
             "cited_by": {
-                "value": 988,
+                "value": 987,
                 "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12085206997805424971",
                 "serpapi_link": "https://serpapi.com/search.json?cites=12085206997805424971&engine=google_scholar&hl=en",
                 "cites_id": "12085206997805424971"
@@ -334,7 +334,7 @@
             {
                 "citations": {
                     "all": 4744,
-                    "since_2018": 1584
+                    "since_2018": 1585
                 }
             },
             {
@@ -401,7 +401,7 @@
             },
             {
                 "year": 2008,
-                "citations": 174
+                "citations": 173
             },
             {
                 "year": 2009,
@@ -421,7 +421,7 @@
             },
             {
                 "year": 2013,
-                "citations": 223
+                "citations": 222
             },
             {
                 "year": 2014,
@@ -441,7 +441,7 @@
             },
             {
                 "year": 2018,
-                "citations": 256
+                "citations": 255
             },
             {
                 "year": 2019,
@@ -457,11 +457,11 @@
             },
             {
                 "year": 2022,
-                "citations": 296
+                "citations": 295
             },
             {
                 "year": 2023,
-                "citations": 317
+                "citations": 320
             }
         ]
     },
@@ -643,13 +643,13 @@
             "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=-UudVuUAAAAJ&citpid=2"
         },
         {
-            "name": "Andrew Turpin",
-            "link": "https://scholar.google.com/citations?user=lCZblDwAAAAJ&hl=en",
-            "serpapi_link": "https://serpapi.com/search.json?author_id=lCZblDwAAAAJ&engine=google_scholar_author&hl=en",
-            "author_id": "lCZblDwAAAAJ",
-            "affiliations": "Lions Eye Institute and Curtin University",
-            "email": "Verified email at curtin.edu.au",
-            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=lCZblDwAAAAJ&citpid=4"
+            "name": "Giuseppe Serra",
+            "link": "https://scholar.google.com/citations?user=xz1J-xQAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=xz1J-xQAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "xz1J-xQAAAAJ",
+            "affiliations": "Associate Professor of Computer Science, University of Udine",
+            "email": "Verified email at uniud.it",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=xz1J-xQAAAAJ&citpid=3"
         }
     ],
     "serpapi_pagination": {

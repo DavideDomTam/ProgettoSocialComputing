@@ -1,13 +1,13 @@
 {
     "search_metadata": {
-        "id": "65689a57303eb14aa5e52e9f",
+        "id": "65730dd37690dcefa9a3f050",
         "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/4beb0d6c0e338f6c/65689a57303eb14aa5e52e9f.json",
-        "created_at": "2023-11-30 14:21:11 UTC",
-        "processed_at": "2023-11-30 14:21:11 UTC",
+        "json_endpoint": "https://serpapi.com/searches/b12cbf1890d74341/65730dd37690dcefa9a3f050.json",
+        "created_at": "2023-12-08 12:36:35 UTC",
+        "processed_at": "2023-12-08 12:36:35 UTC",
         "google_scholar_author_url": "https://scholar.google.com/citations?user=sLzYrNYAAAAJ&hl=en",
-        "raw_html_file": "https://serpapi.com/searches/4beb0d6c0e338f6c/65689a57303eb14aa5e52e9f.html",
-        "total_time_taken": 1.12
+        "raw_html_file": "https://serpapi.com/searches/b12cbf1890d74341/65730dd37690dcefa9a3f050.html",
+        "total_time_taken": 2.1
     },
     "search_parameters": {
         "engine": "google_scholar_author",
@@ -294,7 +294,7 @@
             "authors": "LL Saling, D Mallal, F Scholer, R Schelton, D Spina",
             "publication": "PLoS One, 2021",
             "cited_by": {
-                "value": 39,
+                "value": 40,
                 "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13694566592895669503",
                 "serpapi_link": "https://serpapi.com/search.json?cites=13694566592895669503&engine=google_scholar&hl=en",
                 "cites_id": "13694566592895669503"
@@ -308,7 +308,7 @@
             "authors": "K Roitero, M Soprano, B Portelli, D Spina, V Della Mea, G Serra, ...",
             "publication": "CIKM'20 Proceedings of the 29th ACM International Conference and Knowledge …, 2020",
             "cited_by": {
-                "value": 39,
+                "value": 40,
                 "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12945281884161330513",
                 "serpapi_link": "https://serpapi.com/search.json?cites=12945281884161330513&engine=google_scholar&hl=en",
                 "cites_id": "12945281884161330513"
@@ -334,8 +334,8 @@
         "table": [
             {
                 "citations": {
-                    "all": 2492,
-                    "since_2018": 1822
+                    "all": 2495,
+                    "since_2018": 1820
                 }
             },
             {
@@ -346,7 +346,7 @@
             },
             {
                 "i10_index": {
-                    "all": 45,
+                    "all": 46,
                     "since_2018": 39
                 }
             }
@@ -398,11 +398,11 @@
             },
             {
                 "year": 2022,
-                "citations": 368
+                "citations": 363
             },
             {
                 "year": 2023,
-                "citations": 382
+                "citations": 385
             }
         ]
     },

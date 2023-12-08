@@ -1,0 +1,93 @@
+{
+    "search_metadata": {
+        "id": "65730e1a351764c3c2b3d2ac",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/2f5f714f6259eed1/65730e1a351764c3c2b3d2ac.json",
+        "created_at": "2023-12-08 12:37:46 UTC",
+        "processed_at": "2023-12-08 12:37:46 UTC",
+        "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Jonathon+Hare&view_op=search_authors&hl=en",
+        "raw_html_file": "https://serpapi.com/searches/2f5f714f6259eed1/65730e1a351764c3c2b3d2ac.html",
+        "total_time_taken": 0.75
+    },
+    "search_parameters": {
+        "engine": "google_scholar_profiles",
+        "mauthors": "Jonathon Hare",
+        "hl": "en"
+    },
+    "profiles": [
+        {
+            "name": "Jon Hare",
+            "link": "https://scholar.google.com/citations?hl=en&user=d_HvmVsAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=d_HvmVsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "d_HvmVsAAAAJ",
+            "affiliations": "NOAA Fisheries, Northeast Fisheries Science Center",
+            "email": "Verified email at noaa.gov",
+            "cited_by": 12317,
+            "interests": [
+                {
+                    "title": "oceanography",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aoceanography",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:oceanography"
+                },
+                {
+                    "title": "fisheries",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Afisheries",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:fisheries"
+                },
+                {
+                    "title": "climate change",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aclimate_change",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:climate_change"
+                },
+                {
+                    "title": "management",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amanagement",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:management"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=d_HvmVsAAAAJ&citpid=3"
+        },
+        {
+            "name": "Jonathon Hare",
+            "link": "https://scholar.google.com/citations?hl=en&user=UFeON5oAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=UFeON5oAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "UFeON5oAAAAJ",
+            "affiliations": "Professor of Machine Learning and Computer Vision, University of Southampton, United …",
+            "email": "Verified email at ecs.soton.ac.uk",
+            "cited_by": 4532,
+            "interests": [
+                {
+                    "title": "Deep Learning",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adeep_learning",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:deep_learning"
+                },
+                {
+                    "title": "Representation Learning",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Arepresentation_learning",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:representation_learning"
+                },
+                {
+                    "title": "Machine Learning",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amachine_learning",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:machine_learning"
+                },
+                {
+                    "title": "Computer Vision",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acomputer_vision",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:computer_vision"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=UFeON5oAAAAJ&citpid=1"
+        },
+        {
+            "name": "Jonathan O'Hare",
+            "link": "https://scholar.google.com/citations?hl=en&user=voxlV_AAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=voxlV_AAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "voxlV_AAAAAJ",
+            "affiliations": "3M Company",
+            "email": "Verified email at mmm.com",
+            "cited_by": 61,
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        }
+    ]
+}

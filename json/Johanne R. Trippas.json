@@ -1,13 +1,13 @@
 {
     "search_metadata": {
-        "id": "65689a617f83613f95f27ee3",
+        "id": "65730dda359e99f488439898",
         "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/69b7c82e83f086de/65689a617f83613f95f27ee3.json",
-        "created_at": "2023-11-30 14:21:21 UTC",
-        "processed_at": "2023-11-30 14:21:21 UTC",
+        "json_endpoint": "https://serpapi.com/searches/a8e6b9ce13904e38/65730dda359e99f488439898.json",
+        "created_at": "2023-12-08 12:36:42 UTC",
+        "processed_at": "2023-12-08 12:36:42 UTC",
         "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Johanne+R.+Trippas&view_op=search_authors&hl=en",
-        "raw_html_file": "https://serpapi.com/searches/69b7c82e83f086de/65689a617f83613f95f27ee3.html",
-        "total_time_taken": 1.18
+        "raw_html_file": "https://serpapi.com/searches/a8e6b9ce13904e38/65730dda359e99f488439898.html",
+        "total_time_taken": 4.17
     },
     "search_parameters": {
         "engine": "google_scholar_profiles",

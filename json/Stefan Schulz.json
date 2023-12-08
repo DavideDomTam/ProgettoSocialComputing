@@ -1,0 +1,278 @@
+{
+    "search_metadata": {
+        "id": "6572fb4c216a9d760c204c46",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/3fbf3c0ac85d953c/6572fb4c216a9d760c204c46.json",
+        "created_at": "2023-12-08 11:17:32 UTC",
+        "processed_at": "2023-12-08 11:17:32 UTC",
+        "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Stefan+Schulz&view_op=search_authors&hl=en",
+        "raw_html_file": "https://serpapi.com/searches/3fbf3c0ac85d953c/6572fb4c216a9d760c204c46.html",
+        "total_time_taken": 5.51
+    },
+    "search_parameters": {
+        "engine": "google_scholar_profiles",
+        "mauthors": "Stefan Schulz",
+        "hl": "en"
+    },
+    "profiles": [
+        {
+            "name": "Stefan Schulz",
+            "link": "https://scholar.google.com/citations?hl=en&user=LWQ2UJoAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=LWQ2UJoAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "LWQ2UJoAAAAJ",
+            "affiliations": "Professor of Pharmacology and Toxicology, Jena University Hospital & 7TM Antibodies",
+            "email": "Verified email at med.uni-jena.de",
+            "cited_by": 19196,
+            "interests": [
+                {
+                    "title": "Molecular Pharmacology of GPCRs",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amolecular_pharmacology_of_gpc_rs",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:molecular_pharmacology_of_gpcrs"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=LWQ2UJoAAAAJ&citpid=6"
+        },
+        {
+            "name": "Stephan Schulz",
+            "link": "https://scholar.google.com/citations?hl=en&user=ncPN7FoAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=ncPN7FoAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ncPN7FoAAAAJ",
+            "affiliations": "Professor für Anorganische Chemie, Universität Duisburg-Essen",
+            "email": "Verified email at uni-due.de",
+            "cited_by": 7487,
+            "interests": [
+                {
+                    "title": "Metallorganische Chemie",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ametallorganische_chemie",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:metallorganische_chemie"
+                },
+                {
+                    "title": "Energiematerialien",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aenergiematerialien",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:energiematerialien"
+                }
+            ],
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Stefan Schulz",
+            "link": "https://scholar.google.com/citations?hl=en&user=O2ariVIAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=O2ariVIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "O2ariVIAAAAJ",
+            "affiliations": "Medical University of Graz",
+            "email": "Verified email at medunigraz.at",
+            "cited_by": 6567,
+            "interests": [
+                {
+                    "title": "Biomedical Informatics",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Abiomedical_informatics",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:biomedical_informatics"
+                },
+                {
+                    "title": "Applied Ontology",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aapplied_ontology",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:applied_ontology"
+                },
+                {
+                    "title": "Natural Language Processing",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Anatural_language_processing",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:natural_language_processing"
+                },
+                {
+                    "title": "Electronic Health Records",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aelectronic_health_records",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:electronic_health_records"
+                },
+                {
+                    "title": "Biomedical Terminologies",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Abiomedical_terminologies",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:biomedical_terminologies"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=O2ariVIAAAAJ&citpid=2"
+        },
+        {
+            "name": "Stephen Schultz",
+            "link": "https://scholar.google.com/citations?hl=en&user=MvUIzX0AAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=MvUIzX0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "MvUIzX0AAAAJ",
+            "affiliations": "Professor of Electrical Engineering, Brigham Young University",
+            "email": "Verified email at byu.edu",
+            "cited_by": 3798,
+            "interests": [
+                {
+                    "title": "optical fiber sensors",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aoptical_fiber_sensors",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:optical_fiber_sensors"
+                },
+                {
+                    "title": "Electrical Engineering",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aelectrical_engineering",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:electrical_engineering"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=MvUIzX0AAAAJ&citpid=1"
+        },
+        {
+            "name": "Stephan Schulz",
+            "link": "https://scholar.google.com/citations?hl=en&user=Ebf2ARQAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Ebf2ARQAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Ebf2ARQAAAAJ",
+            "affiliations": "Professor of Computer Science, DHBW Stuttgart",
+            "email": "Verified email at eprover.org",
+            "cited_by": 3065,
+            "interests": [
+                {
+                    "title": "Automated Deduction",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aautomated_deduction",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:automated_deduction"
+                },
+                {
+                    "title": "Theorem Proving",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Atheorem_proving",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:theorem_proving"
+                },
+                {
+                    "title": "Machine Learning",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amachine_learning",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:machine_learning"
+                },
+                {
+                    "title": "Automated Reasoning",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aautomated_reasoning",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:automated_reasoning"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Ebf2ARQAAAAJ&citpid=2"
+        },
+        {
+            "name": "Stefan Schulze",
+            "link": "https://scholar.google.com/citations?hl=en&user=JaTRECgAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=JaTRECgAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "JaTRECgAAAAJ",
+            "affiliations": "Brenau University",
+            "email": "Verified email at brenau.edu",
+            "cited_by": 2668,
+            "interests": [
+                {
+                    "title": "Evolution",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aevolution",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:evolution"
+                }
+            ],
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Stefan Schulz",
+            "link": "https://scholar.google.com/citations?hl=en&user=zTX3PrsAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=zTX3PrsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "zTX3PrsAAAAJ",
+            "affiliations": "Senior Staff Researcher, Tyndall National Institute",
+            "email": "Verified email at tyndall.ie",
+            "cited_by": 2571,
+            "interests": [
+                {
+                    "title": "Solid State Theory",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Asolid_state_theory",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:solid_state_theory"
+                },
+                {
+                    "title": "Semiconductor Physics",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Asemiconductor_physics",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:semiconductor_physics"
+                },
+                {
+                    "title": "Nanostructures",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ananostructures",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:nanostructures"
+                },
+                {
+                    "title": "III-Nitrides",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aiii_nitrides",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:iii_nitrides"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=zTX3PrsAAAAJ&citpid=2"
+        },
+        {
+            "name": "Prof. Dr. Stefan M. Schulz",
+            "link": "https://scholar.google.com/citations?hl=en&user=JOwe1F4AAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=JOwe1F4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "JOwe1F4AAAAJ",
+            "affiliations": "University of Trier",
+            "email": "Verified email at uni-trier.de",
+            "cited_by": 2071,
+            "interests": [
+                {
+                    "title": "psychophysiology",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Apsychophysiology",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:psychophysiology"
+                },
+                {
+                    "title": "biological psychology",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Abiological_psychology",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:biological_psychology"
+                },
+                {
+                    "title": "cardiopsychology",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acardiopsychology",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:cardiopsychology"
+                },
+                {
+                    "title": "affective neuroscience",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aaffective_neuroscience",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:affective_neuroscience"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=JOwe1F4AAAAJ&citpid=1"
+        },
+        {
+            "name": "Max-Stephan Schulze",
+            "link": "https://scholar.google.com/citations?hl=en&user=kf7jGjEAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=kf7jGjEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "kf7jGjEAAAAJ",
+            "affiliations": "London School of Economics",
+            "email": "Verified email at lse.ac.uk",
+            "cited_by": 999,
+            "interests": [
+                {
+                    "title": "economic history",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aeconomic_history",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:economic_history"
+                }
+            ],
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Stefan Schulze",
+            "link": "https://scholar.google.com/citations?hl=en&user=vV6jVUoAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=vV6jVUoAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "vV6jVUoAAAAJ",
+            "affiliations": "Assistant Professor at Rochester Institute of Technology",
+            "email": "Verified email at rit.edu",
+            "cited_by": 932,
+            "interests": [
+                {
+                    "title": "proteomics",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aproteomics",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:proteomics"
+                },
+                {
+                    "title": "bioinformatics",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Abioinformatics",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:bioinformatics"
+                },
+                {
+                    "title": "glycobiology",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aglycobiology",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:glycobiology"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=vV6jVUoAAAAJ&citpid=6"
+        }
+    ],
+    "pagination": {
+        "next": "https://serpapi.com/search.json?after_author=5ZiXAFn8__8J&engine=google_scholar_profiles&hl=en&mauthors=Stefan+Schulz",
+        "next_page_token": "5ZiXAFn8__8J"
+    }
+}

@@ -1,13 +1,13 @@
 {
     "search_metadata": {
-        "id": "65689ae7fa86759ec5b59d6b",
+        "id": "65730dfc9bddf790cd60e05a",
         "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/8554fb1458de8bbf/65689ae7fa86759ec5b59d6b.json",
-        "created_at": "2023-11-30 14:23:35 UTC",
-        "processed_at": "2023-11-30 14:23:35 UTC",
+        "json_endpoint": "https://serpapi.com/searches/6bc1af41231ef480/65730dfc9bddf790cd60e05a.json",
+        "created_at": "2023-12-08 12:37:16 UTC",
+        "processed_at": "2023-12-08 12:37:16 UTC",
         "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Lei+Han&view_op=search_authors&hl=en",
-        "raw_html_file": "https://serpapi.com/searches/8554fb1458de8bbf/65689ae7fa86759ec5b59d6b.html",
-        "total_time_taken": 1.19
+        "raw_html_file": "https://serpapi.com/searches/6bc1af41231ef480/65730dfc9bddf790cd60e05a.html",
+        "total_time_taken": 0.76
     },
     "search_parameters": {
         "engine": "google_scholar_profiles",
@@ -22,7 +22,7 @@
             "author_id": "kYTmdEMAAAAJ",
             "affiliations": "Professor of Physics, Hong Kong Baptist University",
             "email": "Verified email at hkbu.edu.hk",
-            "cited_by": 6660,
+            "cited_by": 6662,
             "interests": [
                 {
                     "title": "Statistical Physics",
@@ -59,7 +59,7 @@
             "author_id": "Tz4_zi8AAAAJ",
             "affiliations": "Tencent Robotics X & Tencent AI Lab",
             "email": "Verified email at tencent.com",
-            "cited_by": 1760,
+            "cited_by": 1766,
             "interests": [
                 {
                     "title": "Machine Learning",
@@ -102,7 +102,7 @@
             "author_id": "fI5pZ_cAAAAJ",
             "affiliations": "Hong Kong University of Science and Technology",
             "email": "Verified email at connect.ust.hk",
-            "cited_by": 554,
+            "cited_by": 556,
             "interests": [
                 {
                     "title": "Computer Vision",
@@ -124,7 +124,7 @@
             "author_id": "LU0gym0AAAAJ",
             "affiliations": "Beijing Tiantan Hospital,Capital Medical University",
             "email": "Verified email at mail.ccmu.edu.cn",
-            "cited_by": 531,
+            "cited_by": 534,
             "interests": [
                 {
                     "title": "Epilepsy",
@@ -151,7 +151,7 @@
             "author_id": "xTGHYnoAAAAJ",
             "affiliations": "St. Jude Children's Research Hospital",
             "email": "Verified email at stjude.org",
-            "cited_by": 509,
+            "cited_by": 510,
             "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=xTGHYnoAAAAJ&citpid=2"
         },
         {
@@ -188,7 +188,7 @@
             "author_id": "926_eDkAAAAJ",
             "affiliations": "UTsouthwestern",
             "email": "Verified email at utsouthwestern.edu",
-            "cited_by": 375,
+            "cited_by": 376,
             "interests": [
                 {
                     "title": "Chemistry",
@@ -209,7 +209,7 @@
             "serpapi_link": "https://serpapi.com/search.json?author_id=9B9NUN0AAAAJ&engine=google_scholar_author&hl=en",
             "author_id": "9B9NUN0AAAAJ",
             "affiliations": "",
-            "cited_by": 309,
+            "cited_by": 310,
             "interests": [
                 {
                     "title": "structural biology/ Membrane protein",
@@ -226,12 +226,12 @@
             "author_id": "Oibami4AAAAJ",
             "affiliations": "The University of Queensland",
             "email": "Verified email at uq.edu.au",
-            "cited_by": 230,
+            "cited_by": 233,
             "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Oibami4AAAAJ&citpid=1"
         }
     ],
     "pagination": {
-        "next": "https://serpapi.com/search.json?after_author=y8G4ABf___8J&engine=google_scholar_profiles&hl=en&mauthors=Lei+Han",
-        "next_page_token": "y8G4ABf___8J"
+        "next": "https://serpapi.com/search.json?after_author=y8G4ABT___8J&engine=google_scholar_profiles&hl=en&mauthors=Lei+Han",
+        "next_page_token": "y8G4ABT___8J"
     }
 }

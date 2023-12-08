@@ -1,13 +1,13 @@
 {
     "search_metadata": {
-        "id": "656899847bea2735b1e206f1",
+        "id": "65730db31e803f2d0c2b1104",
         "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/2a6dd805f3c70504/656899847bea2735b1e206f1.json",
-        "created_at": "2023-11-30 14:17:40 UTC",
-        "processed_at": "2023-11-30 14:17:40 UTC",
+        "json_endpoint": "https://serpapi.com/searches/a48e20ddcd09cd52/65730db31e803f2d0c2b1104.json",
+        "created_at": "2023-12-08 12:36:03 UTC",
+        "processed_at": "2023-12-08 12:36:03 UTC",
         "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=J.+Shane+Culpepper&view_op=search_authors&hl=en",
-        "raw_html_file": "https://serpapi.com/searches/2a6dd805f3c70504/656899847bea2735b1e206f1.html",
-        "total_time_taken": 5.2
+        "raw_html_file": "https://serpapi.com/searches/a48e20ddcd09cd52/65730db31e803f2d0c2b1104.html",
+        "total_time_taken": 0.86
     },
     "search_parameters": {
         "engine": "google_scholar_profiles",
@@ -22,7 +22,7 @@
             "author_id": "OFlBSEEAAAAJ",
             "affiliations": "The University of Queensland",
             "email": "Verified email at uq.edu.au",
-            "cited_by": 3164,
+            "cited_by": 3169,
             "interests": [
                 {
                     "title": "Information Retrieval",

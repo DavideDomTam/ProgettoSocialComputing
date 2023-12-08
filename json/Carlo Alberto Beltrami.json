@@ -1,0 +1,36 @@
+{
+    "search_metadata": {
+        "id": "65730e1b9c449d972144fb10",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/93791fafff576e4d/65730e1b9c449d972144fb10.json",
+        "created_at": "2023-12-08 12:37:47 UTC",
+        "processed_at": "2023-12-08 12:37:47 UTC",
+        "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Carlo+Alberto+Beltrami&view_op=search_authors&hl=en",
+        "raw_html_file": "https://serpapi.com/searches/93791fafff576e4d/65730e1b9c449d972144fb10.html",
+        "total_time_taken": 0.75
+    },
+    "search_parameters": {
+        "engine": "google_scholar_profiles",
+        "mauthors": "Carlo Alberto Beltrami",
+        "hl": "en"
+    },
+    "profiles": [
+        {
+            "name": "Carlo Alberto Beltrami",
+            "link": "https://scholar.google.com/citations?hl=en&user=EZrMWWMAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=EZrMWWMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "EZrMWWMAAAAJ",
+            "affiliations": "Professore, Università di Udine",
+            "email": "Verified email at uniud.it",
+            "cited_by": 18403,
+            "interests": [
+                {
+                    "title": "cellule staminali",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acellule_staminali",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:cellule_staminali"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=EZrMWWMAAAAJ&citpid=1"
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "search_metadata": {
+        "id": "65730e15cace96361cc4e2ed",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/3b90163e8cac3524/65730e15cace96361cc4e2ed.json",
+        "created_at": "2023-12-08 12:37:41 UTC",
+        "processed_at": "2023-12-08 12:37:41 UTC",
+        "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Dante+Degl%27Innocenti&view_op=search_authors&hl=en",
+        "raw_html_file": "https://serpapi.com/searches/3b90163e8cac3524/65730e15cace96361cc4e2ed.html",
+        "total_time_taken": 0.73
+    },
+    "search_parameters": {
+        "engine": "google_scholar_profiles",
+        "mauthors": "Dante Degl'Innocenti",
+        "hl": "en"
+    },
+    "profiles": [
+        {
+            "name": "Dante Degl'Innocenti",
+            "link": "https://scholar.google.com/citations?hl=en&user=Ay6L7NsAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Ay6L7NsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Ay6L7NsAAAAJ",
+            "affiliations": "Datamantix",
+            "email": "Verified email at spes.uniud.it",
+            "cited_by": 116,
+            "interests": [
+                {
+                    "title": "Artificial Intelligence",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aartificial_intelligence",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:artificial_intelligence"
+                },
+                {
+                    "title": "Deep Learning",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adeep_learning",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:deep_learning"
+                },
+                {
+                    "title": "Natural Language Processing",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Anatural_language_processing",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:natural_language_processing"
+                },
+                {
+                    "title": "Data Science",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adata_science",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:data_science"
+                },
+                {
+                    "title": "Machine Learning",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amachine_learning",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:machine_learning"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Ay6L7NsAAAAJ&citpid=2"
+        }
+    ]
+}

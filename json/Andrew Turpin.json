@@ -1,13 +1,13 @@
 {
     "search_metadata": {
-        "id": "65689a0b303eb14aa5e52e6f",
+        "id": "65730e0dc90e0aadf88f741c",
         "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/f7e2537f64810344/65689a0b303eb14aa5e52e6f.json",
-        "created_at": "2023-11-30 14:19:55 UTC",
-        "processed_at": "2023-11-30 14:19:55 UTC",
+        "json_endpoint": "https://serpapi.com/searches/9fd3c52e790166a6/65730e0dc90e0aadf88f741c.json",
+        "created_at": "2023-12-08 12:37:33 UTC",
+        "processed_at": "2023-12-08 12:37:33 UTC",
         "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Andrew+Turpin&view_op=search_authors&hl=en",
-        "raw_html_file": "https://serpapi.com/searches/f7e2537f64810344/65689a0b303eb14aa5e52e6f.html",
-        "total_time_taken": 1.72
+        "raw_html_file": "https://serpapi.com/searches/9fd3c52e790166a6/65730e0dc90e0aadf88f741c.html",
+        "total_time_taken": 2.09
     },
     "search_parameters": {
         "engine": "google_scholar_profiles",
@@ -22,7 +22,7 @@
             "author_id": "lCZblDwAAAAJ",
             "affiliations": "Lions Eye Institute and Curtin University",
             "email": "Verified email at curtin.edu.au",
-            "cited_by": 6893,
+            "cited_by": 6899,
             "interests": [
                 {
                     "title": "Human vision",

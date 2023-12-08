@@ -1,13 +1,13 @@
 {
     "search_metadata": {
-        "id": "656f29532c08441e1b91461c",
+        "id": "65730cffe93ff49bd7f84517",
         "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/9c57fa0da8b386c6/656f29532c08441e1b91461c.json",
-        "created_at": "2023-12-05 13:44:51 UTC",
-        "processed_at": "2023-12-05 13:44:51 UTC",
+        "json_endpoint": "https://serpapi.com/searches/1a5afcf4c33c9645/65730cffe93ff49bd7f84517.json",
+        "created_at": "2023-12-08 12:33:03 UTC",
+        "processed_at": "2023-12-08 12:33:03 UTC",
         "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Eddy+Maddalena&view_op=search_authors&hl=en",
-        "raw_html_file": "https://serpapi.com/searches/9c57fa0da8b386c6/656f29532c08441e1b91461c.html",
-        "total_time_taken": 0.46
+        "raw_html_file": "https://serpapi.com/searches/1a5afcf4c33c9645/65730cffe93ff49bd7f84517.html",
+        "total_time_taken": 1.69
     },
     "search_parameters": {
         "engine": "google_scholar_profiles",
@@ -22,7 +22,7 @@
             "author_id": "j8YC3TAAAAAJ",
             "affiliations": "Unita' di Gastroenterologia ed Endoscopia Digestiva, ospedale Sandro Pertini, Roma",
             "email": "Verified email at aslroma2.it",
-            "cited_by": 1747,
+            "cited_by": 1748,
             "interests": [
                 {
                     "title": "endoscopia digestiva diagnostica e opertiva",

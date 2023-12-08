@@ -1,13 +1,13 @@
 {
     "search_metadata": {
-        "id": "65689ae914b245873705e480",
+        "id": "65730dfd94fb036f02d9afea",
         "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/32abab4061ec414c/65689ae914b245873705e480.json",
-        "created_at": "2023-11-30 14:23:37 UTC",
-        "processed_at": "2023-11-30 14:23:37 UTC",
+        "json_endpoint": "https://serpapi.com/searches/f341cbed4ce638b7/65730dfd94fb036f02d9afea.json",
+        "created_at": "2023-12-08 12:37:17 UTC",
+        "processed_at": "2023-12-08 12:37:17 UTC",
         "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Peter+A+Bath&view_op=search_authors&hl=en",
-        "raw_html_file": "https://serpapi.com/searches/32abab4061ec414c/65689ae914b245873705e480.html",
-        "total_time_taken": 1.6
+        "raw_html_file": "https://serpapi.com/searches/f341cbed4ce638b7/65730dfd94fb036f02d9afea.html",
+        "total_time_taken": 1.37
     },
     "search_parameters": {
         "engine": "google_scholar_profiles",
@@ -22,7 +22,7 @@
             "author_id": "-ExSN_IAAAAJ",
             "affiliations": "University of Sheffield",
             "email": "Verified email at sheffield.ac.uk",
-            "cited_by": 7126,
+            "cited_by": 7136,
             "interests": [
                 {
                     "title": "Health Informatics",
@@ -59,7 +59,7 @@
             "author_id": "215CQsYAAAAJ",
             "affiliations": "University of Bath, United Kingdom",
             "email": "Verified email at bath.ac.uk",
-            "cited_by": 1499,
+            "cited_by": 1503,
             "interests": [
                 {
                     "title": "Environmental Chemistry",

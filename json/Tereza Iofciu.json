@@ -1,13 +1,13 @@
 {
     "search_metadata": {
-        "id": "65689ae22fe3021b8f6949fb",
+        "id": "65730df8969c08f1aab05e51",
         "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/223f401b268ede38/65689ae22fe3021b8f6949fb.json",
-        "created_at": "2023-11-30 14:23:30 UTC",
-        "processed_at": "2023-11-30 14:23:30 UTC",
+        "json_endpoint": "https://serpapi.com/searches/b1af6f8fce291483/65730df8969c08f1aab05e51.json",
+        "created_at": "2023-12-08 12:37:12 UTC",
+        "processed_at": "2023-12-08 12:37:12 UTC",
         "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Tereza+Iofciu&view_op=search_authors&hl=en",
-        "raw_html_file": "https://serpapi.com/searches/223f401b268ede38/65689ae22fe3021b8f6949fb.html",
-        "total_time_taken": 1.05
+        "raw_html_file": "https://serpapi.com/searches/b1af6f8fce291483/65730df8969c08f1aab05e51.html",
+        "total_time_taken": 1.29
     },
     "search_parameters": {
         "engine": "google_scholar_profiles",
@@ -22,7 +22,7 @@
             "author_id": "wQgkh-4AAAAJ",
             "affiliations": "L3S",
             "email": "Verified email at neuefische.de",
-            "cited_by": 1215,
+            "cited_by": 1217,
             "interests": [
                 {
                     "title": "machine learning",

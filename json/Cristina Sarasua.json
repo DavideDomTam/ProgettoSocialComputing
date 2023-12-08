@@ -1,0 +1,56 @@
+{
+    "search_metadata": {
+        "id": "65730e10c90e0aadf88f741d",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/13db184893760eaf/65730e10c90e0aadf88f741d.json",
+        "created_at": "2023-12-08 12:37:36 UTC",
+        "processed_at": "2023-12-08 12:37:36 UTC",
+        "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Cristina+Sarasua&view_op=search_authors&hl=en",
+        "raw_html_file": "https://serpapi.com/searches/13db184893760eaf/65730e10c90e0aadf88f741d.html",
+        "total_time_taken": 1.01
+    },
+    "search_parameters": {
+        "engine": "google_scholar_profiles",
+        "mauthors": "Cristina Sarasua",
+        "hl": "en"
+    },
+    "profiles": [
+        {
+            "name": "Cristina Sarasua",
+            "link": "https://scholar.google.com/citations?hl=en&user=i_2lvZwAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=i_2lvZwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "i_2lvZwAAAAJ",
+            "affiliations": "University of Zurich",
+            "email": "Verified email at ifi.uzh.ch",
+            "cited_by": 774,
+            "interests": [
+                {
+                    "title": "CSCW",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acscw",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:cscw"
+                },
+                {
+                    "title": "Digital Democracy",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adigital_democracy",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:digital_democracy"
+                },
+                {
+                    "title": "Civic Technology",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acivic_technology",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:civic_technology"
+                },
+                {
+                    "title": "Data Analytics",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adata_analytics",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:data_analytics"
+                },
+                {
+                    "title": "Knowledge Graphs",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aknowledge_graphs",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:knowledge_graphs"
+                }
+            ],
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        }
+    ]
+}

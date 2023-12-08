@@ -1,0 +1,46 @@
+{
+    "search_metadata": {
+        "id": "6572fb552348845fbecc550b",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/648feffc877af791/6572fb552348845fbecc550b.json",
+        "created_at": "2023-12-08 11:17:41 UTC",
+        "processed_at": "2023-12-08 11:17:41 UTC",
+        "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Arvydas+Laurinavicius&view_op=search_authors&hl=en",
+        "raw_html_file": "https://serpapi.com/searches/648feffc877af791/6572fb552348845fbecc550b.html",
+        "total_time_taken": 2.53
+    },
+    "search_parameters": {
+        "engine": "google_scholar_profiles",
+        "mauthors": "Arvydas Laurinavicius",
+        "hl": "en"
+    },
+    "profiles": [
+        {
+            "name": "Arvydas Laurinavicius",
+            "link": "https://scholar.google.com/citations?hl=en&user=_MXmMg0AAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=_MXmMg0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "_MXmMg0AAAAJ",
+            "affiliations": "Vilnius University",
+            "email": "Verified email at vpc.lt",
+            "cited_by": 2707,
+            "interests": [
+                {
+                    "title": "Digital Pathology",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adigital_pathology",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:digital_pathology"
+                },
+                {
+                    "title": "Kidney Pathology",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Akidney_pathology",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:kidney_pathology"
+                },
+                {
+                    "title": "Pathology Informatics",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Apathology_informatics",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:pathology_informatics"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=_MXmMg0AAAAJ&citpid=4"
+        }
+    ]
+}

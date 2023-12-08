@@ -1,13 +1,13 @@
 {
     "search_metadata": {
-        "id": "65689a0933b236970249f964",
+        "id": "65730dd1224db1bc6b2f7e8e",
         "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/5ebbf35b03138644/65689a0933b236970249f964.json",
-        "created_at": "2023-11-30 14:19:53 UTC",
-        "processed_at": "2023-11-30 14:19:53 UTC",
+        "json_endpoint": "https://serpapi.com/searches/a834d7df85be325d/65730dd1224db1bc6b2f7e8e.json",
+        "created_at": "2023-12-08 12:36:33 UTC",
+        "processed_at": "2023-12-08 12:36:33 UTC",
         "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Marco+Pavan&view_op=search_authors&hl=en",
-        "raw_html_file": "https://serpapi.com/searches/5ebbf35b03138644/65689a0933b236970249f964.html",
-        "total_time_taken": 1.2
+        "raw_html_file": "https://serpapi.com/searches/a834d7df85be325d/65730dd1224db1bc6b2f7e8e.html",
+        "total_time_taken": 1.54
     },
     "search_parameters": {
         "engine": "google_scholar_profiles",

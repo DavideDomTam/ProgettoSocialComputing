@@ -1,13 +1,13 @@
 {
     "search_metadata": {
-        "id": "65689a7295bf92dd9bc613d7",
+        "id": "65730decc573d5b79fa32890",
         "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/58b725850eb782fb/65689a7295bf92dd9bc613d7.json",
-        "created_at": "2023-11-30 14:21:38 UTC",
-        "processed_at": "2023-11-30 14:21:38 UTC",
+        "json_endpoint": "https://serpapi.com/searches/789fadeda1e20ac7/65730decc573d5b79fa32890.json",
+        "created_at": "2023-12-08 12:37:00 UTC",
+        "processed_at": "2023-12-08 12:37:00 UTC",
         "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Raquel+Martinez&view_op=search_authors&hl=en",
-        "raw_html_file": "https://serpapi.com/searches/58b725850eb782fb/65689a7295bf92dd9bc613d7.html",
-        "total_time_taken": 1.75
+        "raw_html_file": "https://serpapi.com/searches/789fadeda1e20ac7/65730decc573d5b79fa32890.html",
+        "total_time_taken": 1.99
     },
     "search_parameters": {
         "engine": "google_scholar_profiles",
@@ -22,7 +22,7 @@
             "author_id": "a1H9MxgAAAAJ",
             "affiliations": "Neuroscientist. Lecturer in Genetics. University of Zaragoza.",
             "email": "Verified email at unizar.es",
-            "cited_by": 11804,
+            "cited_by": 11844,
             "interests": [
                 {
                     "title": "… Lateral Sclerosis. Spinal and Bulbar Muscular …",
@@ -39,7 +39,7 @@
             "author_id": "E97QRPwAAAAJ",
             "affiliations": "University of Oviedo, Spain",
             "email": "Verified email at uniovi.es",
-            "cited_by": 3464,
+            "cited_by": 3467,
             "interests": [
                 {
                     "title": "Emotional and Social Competences",
@@ -71,7 +71,7 @@
             "author_id": "wtFmOyEAAAAJ",
             "affiliations": "Universitat Jaume I",
             "email": "Verified email at uji.es",
-            "cited_by": 2810,
+            "cited_by": 2815,
             "interests": [
                 {
                     "title": "Educació",
@@ -88,7 +88,7 @@
             "author_id": "1a1CMKIAAAAJ",
             "affiliations": "Profesora Titular",
             "email": "Verified email at udc.es",
-            "cited_by": 2039,
+            "cited_by": 2046,
             "interests": [
                 {
                     "title": "cuidados",
@@ -125,7 +125,7 @@
             "author_id": "0HF8RJ4AAAAJ",
             "affiliations": "Jovem Pesquisadora",
             "email": "Verified email at usp.br",
-            "cited_by": 1945,
+            "cited_by": 1950,
             "interests": [
                 {
                     "title": "Neurociências",
@@ -142,7 +142,7 @@
             "author_id": "UVbrIIUAAAAJ",
             "affiliations": "INVESTIGADORA POSDOCTORAL",
             "email": "Verified email at externas.sescam.jccm.es",
-            "cited_by": 1576,
+            "cited_by": 1577,
             "interests": [
                 {
                     "title": "GUILLAIN BARRÉ",
@@ -196,7 +196,7 @@
             "author_id": "FsayO9QAAAAJ",
             "affiliations": "Universidad de Murcia",
             "email": "Verified email at um.es",
-            "cited_by": 927,
+            "cited_by": 928,
             "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=FsayO9QAAAAJ&citpid=2"
         },
         {
@@ -206,7 +206,7 @@
             "author_id": "Up9xQO4AAAAJ",
             "affiliations": "University of Antofagasta",
             "email": "Verified email at uantof.cl",
-            "cited_by": 744,
+            "cited_by": 745,
             "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
         },
         {
@@ -216,12 +216,12 @@
             "author_id": "cUdgw_UAAAAJ",
             "affiliations": "",
             "email": "Verified email at ucm.es",
-            "cited_by": 579,
+            "cited_by": 581,
             "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
         }
     ],
     "pagination": {
-        "next": "https://serpapi.com/search.json?after_author=w4XaALr9__8J&engine=google_scholar_profiles&hl=en&mauthors=Raquel+Martinez",
-        "next_page_token": "w4XaALr9__8J"
+        "next": "https://serpapi.com/search.json?after_author=w4XaALj9__8J&engine=google_scholar_profiles&hl=en&mauthors=Raquel+Martinez",
+        "next_page_token": "w4XaALj9__8J"
     }
 }

@@ -1,13 +1,13 @@
 {
     "search_metadata": {
-        "id": "65689ae45fc49323a1ffb40c",
+        "id": "65730dfa272aa54889c7c580",
         "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/c93f0d6ac7ab6bdb/65689ae45fc49323a1ffb40c.json",
-        "created_at": "2023-11-30 14:23:32 UTC",
-        "processed_at": "2023-11-30 14:23:32 UTC",
+        "json_endpoint": "https://serpapi.com/searches/9d3467756cad7711/65730dfa272aa54889c7c580.json",
+        "created_at": "2023-12-08 12:37:14 UTC",
+        "processed_at": "2023-12-08 12:37:14 UTC",
         "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Michele+Catasta&view_op=search_authors&hl=en",
-        "raw_html_file": "https://serpapi.com/searches/c93f0d6ac7ab6bdb/65689ae45fc49323a1ffb40c.html",
-        "total_time_taken": 0.69
+        "raw_html_file": "https://serpapi.com/searches/9d3467756cad7711/65730dfa272aa54889c7c580.html",
+        "total_time_taken": 0.47
     },
     "search_parameters": {
         "engine": "google_scholar_profiles",
@@ -22,7 +22,7 @@
             "author_id": "ZxfOSWMAAAAJ",
             "affiliations": "VP of AI at Replit",
             "email": "Verified email at cs.stanford.edu",
-            "cited_by": 6052,
+            "cited_by": 6157,
             "interests": [
                 {
                     "title": "Large Language Models",

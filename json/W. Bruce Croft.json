@@ -1,13 +1,13 @@
 {
     "search_metadata": {
-        "id": "65689a6f681ebe5384933119",
+        "id": "65730dea3bea7b3c54064f54",
         "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/8d2635d398b032dc/65689a6f681ebe5384933119.json",
-        "created_at": "2023-11-30 14:21:35 UTC",
-        "processed_at": "2023-11-30 14:21:35 UTC",
+        "json_endpoint": "https://serpapi.com/searches/7d2b496db2f52a5f/65730dea3bea7b3c54064f54.json",
+        "created_at": "2023-12-08 12:36:58 UTC",
+        "processed_at": "2023-12-08 12:36:58 UTC",
         "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=W.+Bruce+Croft&view_op=search_authors&hl=en",
-        "raw_html_file": "https://serpapi.com/searches/8d2635d398b032dc/65689a6f681ebe5384933119.html",
-        "total_time_taken": 1.62
+        "raw_html_file": "https://serpapi.com/searches/7d2b496db2f52a5f/65730dea3bea7b3c54064f54.html",
+        "total_time_taken": 0.95
     },
     "search_parameters": {
         "engine": "google_scholar_profiles",
@@ -22,7 +22,7 @@
             "author_id": "ArV74ZMAAAAJ",
             "affiliations": "Distinguished Professor Emeritus, University of Massachusetts Amherst",
             "email": "Verified email at cs.umass.edu",
-            "cited_by": 64251,
+            "cited_by": 64278,
             "interests": [
                 {
                     "title": "Information Retrieval",

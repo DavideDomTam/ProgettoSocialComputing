@@ -1,0 +1,141 @@
+{
+    "search_metadata": {
+        "id": "6572fb54af5af1d8f9f071b3",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/04eb730b6463db56/6572fb54af5af1d8f9f071b3.json",
+        "created_at": "2023-12-08 11:17:40 UTC",
+        "processed_at": "2023-12-08 11:17:40 UTC",
+        "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Ant%C3%B3nio+Pol%C3%B3nia&view_op=search_authors&hl=en",
+        "raw_html_file": "https://serpapi.com/searches/04eb730b6463db56/6572fb54af5af1d8f9f071b3.html",
+        "total_time_taken": 0.62
+    },
+    "search_parameters": {
+        "engine": "google_scholar_profiles",
+        "mauthors": "António Polónia",
+        "hl": "en"
+    },
+    "profiles": [
+        {
+            "name": "Antoni Ligęza",
+            "link": "https://scholar.google.com/citations?hl=en&user=pI8_NIsAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=pI8_NIsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "pI8_NIsAAAAJ",
+            "affiliations": "… of Computer Science, AGH University of Science and Technology, Krakow, Poland",
+            "email": "Verified email at agh.edu.pl",
+            "cited_by": 2635,
+            "interests": [
+                {
+                    "title": "Explainable Artificial Intelligence",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aexplainable_artificial_intelligence",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:explainable_artificial_intelligence"
+                },
+                {
+                    "title": "Knowledge Representation and Reasoning",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aknowledge_representation_and_reasoning",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:knowledge_representation_and_reasoning"
+                },
+                {
+                    "title": "Model-Based Reasoning",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amodel_based_reasoning",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:model_based_reasoning"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=pI8_NIsAAAAJ&citpid=3"
+        },
+        {
+            "name": "António Polónia",
+            "link": "https://scholar.google.com/citations?hl=en&user=ZiIQ9g8AAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=ZiIQ9g8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ZiIQ9g8AAAAJ",
+            "affiliations": "University of Porto",
+            "email": "Verified email at ipatimup.pt",
+            "cited_by": 2366,
+            "interests": [
+                {
+                    "title": "General Pathology",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ageneral_pathology",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:general_pathology"
+                },
+                {
+                    "title": "Breast Pathology",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Abreast_pathology",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:breast_pathology"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=ZiIQ9g8AAAAJ&citpid=2"
+        },
+        {
+            "name": "Antoni Sawicki",
+            "link": "https://scholar.google.com/citations?hl=en&user=OySAieAAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=OySAieAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "OySAieAAAAAJ",
+            "affiliations": "Association of Polish Electrical Engineers (NOT-SEP), Czestochowa Division Poland",
+            "cited_by": 662,
+            "interests": [
+                {
+                    "title": "plasma",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aplasma",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:plasma"
+                },
+                {
+                    "title": "arc",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aarc",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:arc"
+                },
+                {
+                    "title": "electrothermics",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aelectrothermics",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:electrothermics"
+                },
+                {
+                    "title": "welding",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Awelding",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:welding"
+                },
+                {
+                    "title": "electrotechnology",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aelectrotechnology",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:electrotechnology"
+                }
+            ],
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Mariusz Antoni Kamiński",
+            "link": "https://scholar.google.com/citations?hl=en&user=PMrZeqwAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=PMrZeqwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "PMrZeqwAAAAJ",
+            "affiliations": "War Studies University, Warsaw, Poland",
+            "email": "Verified email at pracownik.akademia.mil.pl",
+            "cited_by": 122,
+            "interests": [
+                {
+                    "title": "Intelligence Studies",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aintelligence_studies",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:intelligence_studies"
+                },
+                {
+                    "title": "International Security",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ainternational_security",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:international_security"
+                },
+                {
+                    "title": "War Studies",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Awar_studies",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:war_studies"
+                },
+                {
+                    "title": "International Relations",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ainternational_relations",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:international_relations"
+                },
+                {
+                    "title": "Military Law",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amilitary_law",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:military_law"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=PMrZeqwAAAAJ&citpid=3"
+        }
+    ]
+}

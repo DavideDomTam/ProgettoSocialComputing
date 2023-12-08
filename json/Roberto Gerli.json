@@ -1,0 +1,36 @@
+{
+    "search_metadata": {
+        "id": "6572fb5f14b245ebf5705336",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/e0be2bf37cfbea64/6572fb5f14b245ebf5705336.json",
+        "created_at": "2023-12-08 11:17:51 UTC",
+        "processed_at": "2023-12-08 11:17:51 UTC",
+        "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Roberto+Gerli&view_op=search_authors&hl=en",
+        "raw_html_file": "https://serpapi.com/searches/e0be2bf37cfbea64/6572fb5f14b245ebf5705336.html",
+        "total_time_taken": 1.18
+    },
+    "search_parameters": {
+        "engine": "google_scholar_profiles",
+        "mauthors": "Roberto Gerli",
+        "hl": "en"
+    },
+    "profiles": [
+        {
+            "name": "Roberto Gerli",
+            "link": "https://scholar.google.com/citations?hl=en&user=VJbgQiMAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=VJbgQiMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "VJbgQiMAAAAJ",
+            "affiliations": "Professore Ordinario di Reumatologia, Università Perugia",
+            "email": "Verified email at unipg.it",
+            "cited_by": 19802,
+            "interests": [
+                {
+                    "title": "reumatologia",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Areumatologia",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:reumatologia"
+                }
+            ],
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        }
+    ]
+}

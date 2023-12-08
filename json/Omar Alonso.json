@@ -1,13 +1,13 @@
 {
     "search_metadata": {
-        "id": "656899ff37014ce7bbb457f4",
+        "id": "65730dc63e86acabdc0eab0c",
         "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/0bdcfbac2902af63/656899ff37014ce7bbb457f4.json",
-        "created_at": "2023-11-30 14:19:43 UTC",
-        "processed_at": "2023-11-30 14:19:43 UTC",
+        "json_endpoint": "https://serpapi.com/searches/3f2c78c742210530/65730dc63e86acabdc0eab0c.json",
+        "created_at": "2023-12-08 12:36:22 UTC",
+        "processed_at": "2023-12-08 12:36:22 UTC",
         "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Omar+Alonso&view_op=search_authors&hl=en",
-        "raw_html_file": "https://serpapi.com/searches/0bdcfbac2902af63/656899ff37014ce7bbb457f4.html",
-        "total_time_taken": 1.66
+        "raw_html_file": "https://serpapi.com/searches/3f2c78c742210530/65730dc63e86acabdc0eab0c.html",
+        "total_time_taken": 1.81
     },
     "search_parameters": {
         "engine": "google_scholar_profiles",
@@ -22,7 +22,7 @@
             "author_id": "VvLUqbkAAAAJ",
             "affiliations": "Amazon",
             "email": "Verified email at amazon.com",
-            "cited_by": 4344,
+            "cited_by": 4302,
             "interests": [
                 {
                     "title": "Information Retrieval",
@@ -54,7 +54,7 @@
             "author_id": "3dE5T7kAAAAJ",
             "affiliations": "INIFAP",
             "email": "Verified email at inifap.gob.mx",
-            "cited_by": 347,
+            "cited_by": 345,
             "interests": [
                 {
                     "title": "Fungicide resistance",
@@ -91,7 +91,7 @@
             "author_id": "ORl7BG4AAAAJ",
             "affiliations": "Universidad EAN",
             "email": "Verified email at universidadean.edu.co",
-            "cited_by": 198,
+            "cited_by": 199,
             "interests": [
                 {
                     "title": "Organizaciones",
@@ -261,6 +261,33 @@
             "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=07KgwDcAAAAJ&citpid=1"
         },
         {
+            "name": "Omar Alfonso Gutiérrez-De La Paz",
+            "link": "https://scholar.google.com/citations?hl=en&user=G9dFuNIAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=G9dFuNIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "G9dFuNIAAAAJ",
+            "affiliations": "PhD student at CIC - National Polytechnic Institute, Mexico",
+            "email": "Verified email at cic.ipn.mx",
+            "cited_by": 1,
+            "interests": [
+                {
+                    "title": "Deep Learning",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adeep_learning",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:deep_learning"
+                },
+                {
+                    "title": "Optimization problems",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aoptimization_problems",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:optimization_problems"
+                },
+                {
+                    "title": "Reinforcement Learning",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Areinforcement_learning",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:reinforcement_learning"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=G9dFuNIAAAAJ&citpid=2"
+        },
+        {
             "name": "Omar Alonso Villafuerte Sánchez",
             "link": "https://scholar.google.com/citations?hl=en&user=zW3bwvQAAAAJ",
             "serpapi_link": "https://serpapi.com/search.json?author_id=zW3bwvQAAAAJ&engine=google_scholar_author&hl=en",
@@ -291,33 +318,6 @@
                 }
             ],
             "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=zW3bwvQAAAAJ&citpid=4"
-        },
-        {
-            "name": "Omar Alfonso Gutiérrez-De La Paz",
-            "link": "https://scholar.google.com/citations?hl=en&user=G9dFuNIAAAAJ",
-            "serpapi_link": "https://serpapi.com/search.json?author_id=G9dFuNIAAAAJ&engine=google_scholar_author&hl=en",
-            "author_id": "G9dFuNIAAAAJ",
-            "affiliations": "PhD student at CIC - National Polytechnic Institute, Mexico",
-            "email": "Verified email at cic.ipn.mx",
-            "cited_by": null,
-            "interests": [
-                {
-                    "title": "Deep Learning",
-                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adeep_learning",
-                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:deep_learning"
-                },
-                {
-                    "title": "Optimization problems",
-                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aoptimization_problems",
-                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:optimization_problems"
-                },
-                {
-                    "title": "Reinforcement Learning",
-                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Areinforcement_learning",
-                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:reinforcement_learning"
-                }
-            ],
-            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=G9dFuNIAAAAJ&citpid=2"
         }
     ]
 }

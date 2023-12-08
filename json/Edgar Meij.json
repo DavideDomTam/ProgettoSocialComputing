@@ -1,13 +1,13 @@
 {
     "search_metadata": {
-        "id": "65689a6c7690dcc4aac1c58d",
+        "id": "65730de73a218a77cc7f07c6",
         "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/30e810e1291551b2/65689a6c7690dcc4aac1c58d.json",
-        "created_at": "2023-11-30 14:21:32 UTC",
-        "processed_at": "2023-11-30 14:21:32 UTC",
+        "json_endpoint": "https://serpapi.com/searches/36ec24b09ac4b32b/65730de73a218a77cc7f07c6.json",
+        "created_at": "2023-12-08 12:36:55 UTC",
+        "processed_at": "2023-12-08 12:36:55 UTC",
         "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Edgar+Meij&view_op=search_authors&hl=en",
-        "raw_html_file": "https://serpapi.com/searches/30e810e1291551b2/65689a6c7690dcc4aac1c58d.html",
-        "total_time_taken": 1.14
+        "raw_html_file": "https://serpapi.com/searches/36ec24b09ac4b32b/65730de73a218a77cc7f07c6.html",
+        "total_time_taken": 1.23
     },
     "search_parameters": {
         "engine": "google_scholar_profiles",

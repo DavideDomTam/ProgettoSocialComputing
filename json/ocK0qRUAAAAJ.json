@@ -1,13 +1,13 @@
 {
     "search_metadata": {
-        "id": "656898df681ebe542d855b63",
+        "id": "65730d9dada54bd0b4acdc40",
         "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/31cc9a6543bff9e2/656898df681ebe542d855b63.json",
-        "created_at": "2023-11-30 14:14:55 UTC",
-        "processed_at": "2023-11-30 14:14:55 UTC",
+        "json_endpoint": "https://serpapi.com/searches/07bcdf47cc356a17/65730d9dada54bd0b4acdc40.json",
+        "created_at": "2023-12-08 12:35:41 UTC",
+        "processed_at": "2023-12-08 12:35:41 UTC",
         "google_scholar_author_url": "https://scholar.google.com/citations?user=ocK0qRUAAAAJ&hl=en",
-        "raw_html_file": "https://serpapi.com/searches/31cc9a6543bff9e2/656898df681ebe542d855b63.html",
-        "total_time_taken": 0.63
+        "raw_html_file": "https://serpapi.com/searches/07bcdf47cc356a17/65730d9dada54bd0b4acdc40.html",
+        "total_time_taken": 1.12
     },
     "search_parameters": {
         "engine": "google_scholar_author",
@@ -60,7 +60,7 @@
             "authors": "K Roitero, M Soprano, B Portelli, D Spina, V Della Mea, G Serra, ...",
             "publication": "Proceedings of the 29th ACM International Conference on Information …, 2020",
             "cited_by": {
-                "value": 39,
+                "value": 40,
                 "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12945281884161330513",
                 "serpapi_link": "https://serpapi.com/search.json?cites=12945281884161330513&engine=google_scholar&hl=en",
                 "cites_id": "12945281884161330513"
@@ -297,8 +297,8 @@
         "table": [
             {
                 "citations": {
-                    "all": 211,
-                    "since_2018": 210
+                    "all": 212,
+                    "since_2018": 211
                 }
             },
             {
@@ -329,11 +329,11 @@
             },
             {
                 "year": 2022,
-                "citations": 80
+                "citations": 79
             },
             {
                 "year": 2023,
-                "citations": 81
+                "citations": 83
             }
         ]
     },

@@ -1,13 +1,13 @@
 {
     "search_metadata": {
-        "id": "656899fa681ebe542d855ba0",
+        "id": "65730dc15c10595c74c7be10",
         "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/0f06780b009b573d/656899fa681ebe542d855ba0.json",
-        "created_at": "2023-11-30 14:19:38 UTC",
-        "processed_at": "2023-11-30 14:19:38 UTC",
+        "json_endpoint": "https://serpapi.com/searches/509eb3d3f7a8ff87/65730dc15c10595c74c7be10.json",
+        "created_at": "2023-12-08 12:36:17 UTC",
+        "processed_at": "2023-12-08 12:36:17 UTC",
         "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Luca+Vassena&view_op=search_authors&hl=en",
-        "raw_html_file": "https://serpapi.com/searches/0f06780b009b573d/656899fa681ebe542d855ba0.html",
-        "total_time_taken": 0.3
+        "raw_html_file": "https://serpapi.com/searches/509eb3d3f7a8ff87/65730dc15c10595c74c7be10.html",
+        "total_time_taken": 0.98
     },
     "search_parameters": {
         "engine": "google_scholar_profiles",
@@ -22,7 +22,7 @@
             "author_id": "HZl2KP0AAAAJ",
             "affiliations": "Research Associate, SUPSI",
             "email": "Verified email at supsi.ch",
-            "cited_by": 424,
+            "cited_by": 425,
             "interests": [
                 {
                     "title": "Interaction Design",

@@ -1,0 +1,137 @@
+{
+    "search_metadata": {
+        "id": "6572fb46dc02f158e59915a5",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/93d263e8d93b4652/6572fb46dc02f158e59915a5.json",
+        "created_at": "2023-12-08 11:17:26 UTC",
+        "processed_at": "2023-12-08 11:17:26 UTC",
+        "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Stefano+Forti&view_op=search_authors&hl=en",
+        "raw_html_file": "https://serpapi.com/searches/93d263e8d93b4652/6572fb46dc02f158e59915a5.html",
+        "total_time_taken": 0.94
+    },
+    "search_parameters": {
+        "engine": "google_scholar_profiles",
+        "mauthors": "Stefano Forti",
+        "hl": "en"
+    },
+    "profiles": [
+        {
+            "name": "Stefano Forte",
+            "link": "https://scholar.google.com/citations?hl=en&user=KVu3H0oAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=KVu3H0oAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "KVu3H0oAAAAJ",
+            "affiliations": "Professor of Theoretical Physics, Milan University",
+            "email": "Verified email at mi.infn.it",
+            "cited_by": 50095,
+            "interests": [
+                {
+                    "title": "theoretical physics",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Atheoretical_physics",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:theoretical_physics"
+                },
+                {
+                    "title": "high energy physics",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ahigh_energy_physics",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:high_energy_physics"
+                },
+                {
+                    "title": "particle physics",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aparticle_physics",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:particle_physics"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=KVu3H0oAAAAJ&citpid=2"
+        },
+        {
+            "name": "Stefano Forte",
+            "link": "https://scholar.google.com/citations?hl=en&user=4NZ9xbYAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=4NZ9xbYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "4NZ9xbYAAAAJ",
+            "affiliations": "IOM Ricerca srl",
+            "email": "Verified email at stefanoforte.it",
+            "cited_by": 3672,
+            "interests": [
+                {
+                    "title": "Experimental oncology",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aexperimental_oncology",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:experimental_oncology"
+                },
+                {
+                    "title": "Cancer Stem Cells",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acancer_stem_cells",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:cancer_stem_cells"
+                },
+                {
+                    "title": "Patient Derived Tumor Organoids",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Apatient_derived_tumor_organoids",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:patient_derived_tumor_organoids"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=4NZ9xbYAAAAJ&citpid=3"
+        },
+        {
+            "name": "Stefano Forti",
+            "link": "https://scholar.google.com/citations?hl=en&user=0iqWtXUAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=0iqWtXUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "0iqWtXUAAAAJ",
+            "affiliations": "FBK",
+            "email": "Verified email at fbk.eu",
+            "cited_by": 2070,
+            "interests": [
+                {
+                    "title": "informatica medica",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ainformatica_medica",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:informatica_medica"
+                },
+                {
+                    "title": "sanità digitale",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Asanit%C3%A0_digitale",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:sanit%C3%A0_digitale"
+                },
+                {
+                    "title": "telemedicina",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Atelemedicina",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:telemedicina"
+                }
+            ],
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Stefano Forti",
+            "link": "https://scholar.google.com/citations?hl=en&user=p9lysEAAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=p9lysEAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "p9lysEAAAAAJ",
+            "affiliations": "Department of Computer Science, University of Pisa",
+            "email": "Verified email at di.unipi.it",
+            "cited_by": 1228,
+            "interests": [
+                {
+                    "title": "cloud-edge continuum",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acloud_edge_continuum",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:cloud_edge_continuum"
+                },
+                {
+                    "title": "distributed systems",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adistributed_systems",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:distributed_systems"
+                },
+                {
+                    "title": "cybersecurity",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acybersecurity",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:cybersecurity"
+                },
+                {
+                    "title": "green computing",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Agreen_computing",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:green_computing"
+                },
+                {
+                    "title": "automated reasoning",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aautomated_reasoning",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:automated_reasoning"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=p9lysEAAAAAJ&citpid=6"
+        }
+    ]
+}

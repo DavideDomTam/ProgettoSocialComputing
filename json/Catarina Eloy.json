@@ -1,0 +1,41 @@
+{
+    "search_metadata": {
+        "id": "6572fb582e7d6b6f9e903dad",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/5b62ff480c61c5cd/6572fb582e7d6b6f9e903dad.json",
+        "created_at": "2023-12-08 11:17:44 UTC",
+        "processed_at": "2023-12-08 11:17:44 UTC",
+        "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Catarina+Eloy&view_op=search_authors&hl=en",
+        "raw_html_file": "https://serpapi.com/searches/5b62ff480c61c5cd/6572fb582e7d6b6f9e903dad.html",
+        "total_time_taken": 5.21
+    },
+    "search_parameters": {
+        "engine": "google_scholar_profiles",
+        "mauthors": "Catarina Eloy",
+        "hl": "en"
+    },
+    "profiles": [
+        {
+            "name": "Catarina Eloy",
+            "link": "https://scholar.google.com/citations?hl=en&user=DN5XAqgAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=DN5XAqgAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "DN5XAqgAAAAJ",
+            "affiliations": "University of Porto, Ipatimup/i3S",
+            "email": "Verified email at ipatimup.pt",
+            "cited_by": 4088,
+            "interests": [
+                {
+                    "title": "General Pathology",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ageneral_pathology",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:general_pathology"
+                },
+                {
+                    "title": "Endocrine Pathology",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aendocrine_pathology",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:endocrine_pathology"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=DN5XAqgAAAAJ&citpid=3"
+        }
+    ]
+}

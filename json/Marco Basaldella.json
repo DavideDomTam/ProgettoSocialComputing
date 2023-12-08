@@ -1,0 +1,29 @@
+{
+    "search_metadata": {
+        "id": "65730e130a90c7cc25f79aae",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/9f0e1e6cea0fde6f/65730e130a90c7cc25f79aae.json",
+        "created_at": "2023-12-08 12:37:39 UTC",
+        "processed_at": "2023-12-08 12:37:39 UTC",
+        "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Marco+Basaldella&view_op=search_authors&hl=en",
+        "raw_html_file": "https://serpapi.com/searches/9f0e1e6cea0fde6f/65730e130a90c7cc25f79aae.html",
+        "total_time_taken": 0.7
+    },
+    "search_parameters": {
+        "engine": "google_scholar_profiles",
+        "mauthors": "Marco Basaldella",
+        "hl": "en"
+    },
+    "profiles": [
+        {
+            "name": "Marco Basaldella",
+            "link": "https://scholar.google.com/citations?hl=en&user=SRvx2QoAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=SRvx2QoAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "SRvx2QoAAAAJ",
+            "affiliations": "Amazon",
+            "email": "Verified email at amazon.co.uk",
+            "cited_by": 525,
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        }
+    ]
+}

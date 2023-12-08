@@ -1,13 +1,13 @@
 {
     "search_metadata": {
-        "id": "656899fef05eb8a7c36e0393",
+        "id": "65730dc64d443d0652621b27",
         "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/c73760bc03e09d43/656899fef05eb8a7c36e0393.json",
-        "created_at": "2023-11-30 14:19:42 UTC",
-        "processed_at": "2023-11-30 14:19:42 UTC",
+        "json_endpoint": "https://serpapi.com/searches/c7e9c2ab6d0c9c36/65730dc64d443d0652621b27.json",
+        "created_at": "2023-12-08 12:36:22 UTC",
+        "processed_at": "2023-12-08 12:36:22 UTC",
         "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Paolo+Coppola&view_op=search_authors&hl=en",
-        "raw_html_file": "https://serpapi.com/searches/c73760bc03e09d43/656899fef05eb8a7c36e0393.html",
-        "total_time_taken": 0.95
+        "raw_html_file": "https://serpapi.com/searches/c7e9c2ab6d0c9c36/65730dc64d443d0652621b27.html",
+        "total_time_taken": 0.23
     },
     "search_parameters": {
         "engine": "google_scholar_profiles",
@@ -22,7 +22,7 @@
             "author_id": "P15-SKkAAAAJ",
             "affiliations": "Associate Professor of Computer Science, University of Udine",
             "email": "Verified email at uniud.it",
-            "cited_by": 533,
+            "cited_by": 536,
             "interests": [
                 {
                     "title": "Type theory",
