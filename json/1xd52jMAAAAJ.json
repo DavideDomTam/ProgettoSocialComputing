@@ -1,13 +1,13 @@
 {
     "search_metadata": {
-        "id": "6568997c2e7d6b2033d77f5a",
+        "id": "65730dab2c0844cc93bb50a4",
         "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/aec16c65642a27ca/6568997c2e7d6b2033d77f5a.json",
-        "created_at": "2023-11-30 14:17:32 UTC",
-        "processed_at": "2023-11-30 14:17:32 UTC",
+        "json_endpoint": "https://serpapi.com/searches/19cbcf9edcab97b2/65730dab2c0844cc93bb50a4.json",
+        "created_at": "2023-12-08 12:35:55 UTC",
+        "processed_at": "2023-12-08 12:35:55 UTC",
         "google_scholar_author_url": "https://scholar.google.com/citations?user=1xd52jMAAAAJ&hl=en",
-        "raw_html_file": "https://serpapi.com/searches/aec16c65642a27ca/6568997c2e7d6b2033d77f5a.html",
-        "total_time_taken": 0.94
+        "raw_html_file": "https://serpapi.com/searches/19cbcf9edcab97b2/65730dab2c0844cc93bb50a4.html",
+        "total_time_taken": 0.84
     },
     "search_parameters": {
         "engine": "google_scholar_author",
@@ -88,7 +88,7 @@
             "authors": "K Roitero, M Soprano, B Portelli, D Spina, V Della Mea, G Serra, ...",
             "publication": "Proceedings of the 29th ACM International Conference on Information …, 2020",
             "cited_by": {
-                "value": 39,
+                "value": 40,
                 "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12945281884161330513",
                 "serpapi_link": "https://serpapi.com/search.json?cites=12945281884161330513&engine=google_scholar&hl=en",
                 "cites_id": "12945281884161330513"
@@ -208,6 +208,20 @@
             "year": "2020"
         },
         {
+            "title": "Leveraging behavioral heterogeneity across markets for cross-market training of recommender systems",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1xd52jMAAAAJ&citation_for_view=1xd52jMAAAAJ:kNdYIx-mwKoC",
+            "citation_id": "1xd52jMAAAAJ:kNdYIx-mwKoC",
+            "authors": "K Roitero, B Carterette, R Mehrotra, M Lalmas",
+            "publication": "Companion Proceedings of the Web Conference 2020, 694-702, 2020",
+            "cited_by": {
+                "value": 18,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2393568481279174154",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2393568481279174154&engine=google_scholar&hl=en",
+                "cites_id": "2393568481279174154"
+            },
+            "year": "2020"
+        },
+        {
             "title": "The effects of crowd worker biases in fact-checking tasks",
             "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1xd52jMAAAAJ&citation_for_view=1xd52jMAAAAJ:HDshCWvjkbEC",
             "citation_id": "1xd52jMAAAAJ:HDshCWvjkbEC",
@@ -232,20 +246,6 @@
                 "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17674346889158848649",
                 "serpapi_link": "https://serpapi.com/search.json?cites=17674346889158848649&engine=google_scholar&hl=en",
                 "cites_id": "17674346889158848649"
-            },
-            "year": "2020"
-        },
-        {
-            "title": "Leveraging behavioral heterogeneity across markets for cross-market training of recommender systems",
-            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1xd52jMAAAAJ&citation_for_view=1xd52jMAAAAJ:kNdYIx-mwKoC",
-            "citation_id": "1xd52jMAAAAJ:kNdYIx-mwKoC",
-            "authors": "K Roitero, B Carterette, R Mehrotra, M Lalmas",
-            "publication": "Companion Proceedings of the Web Conference 2020, 694-702, 2020",
-            "cited_by": {
-                "value": 17,
-                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2393568481279174154",
-                "serpapi_link": "https://serpapi.com/search.json?cites=2393568481279174154&engine=google_scholar&hl=en",
-                "cites_id": "2393568481279174154"
             },
             "year": "2020"
         },
@@ -324,8 +324,8 @@
         "table": [
             {
                 "citations": {
-                    "all": 692,
-                    "since_2018": 683
+                    "all": 694,
+                    "since_2018": 685
                 }
             },
             {
@@ -368,7 +368,7 @@
             },
             {
                 "year": 2023,
-                "citations": 218
+                "citations": 220
             }
         ]
     },
@@ -523,21 +523,12 @@
             "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
         },
         {
-            "name": "Mark Sanderson",
-            "link": "https://scholar.google.com/citations?user=HmqvvQkAAAAJ&hl=en",
-            "serpapi_link": "https://serpapi.com/search.json?author_id=HmqvvQkAAAAJ&engine=google_scholar_author&hl=en",
-            "author_id": "HmqvvQkAAAAJ",
-            "affiliations": "School of Computing Technologies, RMIT University",
-            "email": "Verified email at rmit.edu.au",
-            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=HmqvvQkAAAAJ&citpid=7"
-        },
-        {
             "name": "Rishabh Mehrotra",
             "link": "https://scholar.google.com/citations?user=X9BKWWoAAAAJ&hl=en",
             "serpapi_link": "https://serpapi.com/search.json?author_id=X9BKWWoAAAAJ&engine=google_scholar_author&hl=en",
             "author_id": "X9BKWWoAAAAJ",
-            "affiliations": "Director - Machine Learning, ShareChat",
-            "email": "Verified email at sharechat.co",
+            "affiliations": "Head of AI, Sourcegraph",
+            "email": "Verified email at sourcegraph.com",
             "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=X9BKWWoAAAAJ&citpid=3"
         },
         {
@@ -550,13 +541,22 @@
             "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=wAr9G5sAAAAJ&citpid=3"
         },
         {
-            "name": "Tim Draws",
-            "link": "https://scholar.google.com/citations?user=UTMHOZMAAAAJ&hl=en",
-            "serpapi_link": "https://serpapi.com/search.json?author_id=UTMHOZMAAAAJ&engine=google_scholar_author&hl=en",
-            "author_id": "UTMHOZMAAAAJ",
-            "affiliations": "OTTO",
-            "email": "Verified email at otto.de",
-            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=UTMHOZMAAAAJ&citpid=3"
+            "name": "Ben Carterette",
+            "link": "https://scholar.google.com/citations?user=zgHZ-KMAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=zgHZ-KMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "zgHZ-KMAAAAJ",
+            "affiliations": "Spotify",
+            "email": "Verified email at spotify.com",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=zgHZ-KMAAAAJ&citpid=1"
+        },
+        {
+            "name": "Mark Sanderson",
+            "link": "https://scholar.google.com/citations?user=HmqvvQkAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=HmqvvQkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "HmqvvQkAAAAJ",
+            "affiliations": "School of Computing Technologies, RMIT University",
+            "email": "Verified email at rmit.edu.au",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=HmqvvQkAAAAJ&citpid=7"
         }
     ],
     "serpapi_pagination": {

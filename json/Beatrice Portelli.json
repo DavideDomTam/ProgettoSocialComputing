@@ -1,13 +1,13 @@
 {
     "search_metadata": {
-        "id": "656898e30a90c790eb0a97ad",
+        "id": "65730da0b7b1ccf4273a5db5",
         "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/3dd712bf10ebcdde/656898e30a90c790eb0a97ad.json",
-        "created_at": "2023-11-30 14:14:59 UTC",
-        "processed_at": "2023-11-30 14:14:59 UTC",
+        "json_endpoint": "https://serpapi.com/searches/93deaceeacc8a0fb/65730da0b7b1ccf4273a5db5.json",
+        "created_at": "2023-12-08 12:35:44 UTC",
+        "processed_at": "2023-12-08 12:35:44 UTC",
         "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Beatrice+Portelli&view_op=search_authors&hl=en",
-        "raw_html_file": "https://serpapi.com/searches/3dd712bf10ebcdde/656898e30a90c790eb0a97ad.html",
-        "total_time_taken": 2.28
+        "raw_html_file": "https://serpapi.com/searches/93deaceeacc8a0fb/65730da0b7b1ccf4273a5db5.html",
+        "total_time_taken": 0.27
     },
     "search_parameters": {
         "engine": "google_scholar_profiles",
@@ -22,7 +22,7 @@
             "author_id": "HQZd6wsAAAAJ",
             "affiliations": "University of Udine",
             "email": "Verified email at spes.uniud.it",
-            "cited_by": 145,
+            "cited_by": 146,
             "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=HQZd6wsAAAAJ&citpid=2"
         }
     ]

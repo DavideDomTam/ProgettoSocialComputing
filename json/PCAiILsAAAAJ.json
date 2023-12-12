@@ -1,13 +1,13 @@
 {
     "search_metadata": {
-        "id": "65689addd3aba205241e23c1",
+        "id": "65730df0eb690f50c6eb3f30",
         "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/f337c235206a9475/65689addd3aba205241e23c1.json",
-        "created_at": "2023-11-30 14:23:25 UTC",
-        "processed_at": "2023-11-30 14:23:25 UTC",
+        "json_endpoint": "https://serpapi.com/searches/da82d91b21545ef0/65730df0eb690f50c6eb3f30.json",
+        "created_at": "2023-12-08 12:37:04 UTC",
+        "processed_at": "2023-12-08 12:37:04 UTC",
         "google_scholar_author_url": "https://scholar.google.com/citations?user=PCAiILsAAAAJ&hl=en",
-        "raw_html_file": "https://serpapi.com/searches/f337c235206a9475/65689addd3aba205241e23c1.html",
-        "total_time_taken": 0.76
+        "raw_html_file": "https://serpapi.com/searches/da82d91b21545ef0/65730df0eb690f50c6eb3f30.html",
+        "total_time_taken": 1.15
     },
     "search_parameters": {
         "engine": "google_scholar_author",
@@ -51,7 +51,7 @@
             "authors": "G Demartini, DE Difallah, P Cudré-Mauroux",
             "publication": "Proceedings of the 21st international conference on World Wide Web, 469-478, 2012",
             "cited_by": {
-                "value": 585,
+                "value": 586,
                 "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7452693300596160795,7011969670055261443",
                 "serpapi_link": "https://serpapi.com/search.json?cites=7452693300596160795%2C7011969670055261443&engine=google_scholar&hl=en",
                 "cites_id": "7452693300596160795,7011969670055261443"
@@ -107,7 +107,7 @@
             "authors": "W Ahmed, PA Bath, G Demartini",
             "publication": "The ethics of online research 2, 79-107, 2017",
             "cited_by": {
-                "value": 218,
+                "value": 220,
                 "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10852646980294115926",
                 "serpapi_link": "https://serpapi.com/search.json?cites=10852646980294115926&engine=google_scholar&hl=en",
                 "cites_id": "10852646980294115926"
@@ -177,7 +177,7 @@
             "authors": "A Tonon, G Demartini, P Cudré-Mauroux",
             "publication": "Proceedings of the 35th international ACM SIGIR conference on Research and …, 2012",
             "cited_by": {
-                "value": 91,
+                "value": 92,
                 "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6813757336952439364",
                 "serpapi_link": "https://serpapi.com/search.json?cites=6813757336952439364&engine=google_scholar&hl=en",
                 "cites_id": "6813757336952439364"
@@ -329,8 +329,8 @@
         "table": [
             {
                 "citations": {
-                    "all": 5356,
-                    "since_2018": 3430
+                    "all": 5371,
+                    "since_2018": 3446
                 }
             },
             {
@@ -385,11 +385,11 @@
             },
             {
                 "year": 2017,
-                "citations": 441
+                "citations": 439
             },
             {
                 "year": 2018,
-                "citations": 427
+                "citations": 429
             },
             {
                 "year": 2019,
@@ -405,11 +405,11 @@
             },
             {
                 "year": 2022,
-                "citations": 704
+                "citations": 702
             },
             {
                 "year": 2023,
-                "citations": 614
+                "citations": 630
             }
         ]
     },
@@ -501,15 +501,6 @@
             "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=LC62bdYAAAAJ&citpid=3"
         },
         {
-            "name": "Lei Han",
-            "link": "https://scholar.google.com/citations?user=Oibami4AAAAJ&hl=en",
-            "serpapi_link": "https://serpapi.com/search.json?author_id=Oibami4AAAAJ&engine=google_scholar_author&hl=en",
-            "author_id": "Oibami4AAAAJ",
-            "affiliations": "The University of Queensland",
-            "email": "Verified email at uq.edu.au",
-            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Oibami4AAAAJ&citpid=1"
-        },
-        {
             "name": "Shazia Sadiq",
             "link": "https://scholar.google.com/citations?user=1Jo0EmIAAAAJ&hl=en",
             "serpapi_link": "https://serpapi.com/search.json?author_id=1Jo0EmIAAAAJ&engine=google_scholar_author&hl=en",
@@ -517,6 +508,15 @@
             "affiliations": "The University of Queensland",
             "email": "Verified email at itee.uq.edu.au",
             "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=1Jo0EmIAAAAJ&citpid=2"
+        },
+        {
+            "name": "Lei Han",
+            "link": "https://scholar.google.com/citations?user=Oibami4AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Oibami4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Oibami4AAAAJ",
+            "affiliations": "The University of Queensland",
+            "email": "Verified email at uq.edu.au",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Oibami4AAAAJ&citpid=1"
         },
         {
             "name": "Peter A Bath",

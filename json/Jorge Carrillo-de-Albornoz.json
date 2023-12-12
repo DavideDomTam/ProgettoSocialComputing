@@ -1,13 +1,13 @@
 {
     "search_metadata": {
-        "id": "65689a63d737d7d469b8d9fd",
+        "id": "65730ddec7ad4172a494203c",
         "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/ef9644bf04b435fc/65689a63d737d7d469b8d9fd.json",
-        "created_at": "2023-11-30 14:21:23 UTC",
-        "processed_at": "2023-11-30 14:21:23 UTC",
+        "json_endpoint": "https://serpapi.com/searches/107cf26ef33694ce/65730ddec7ad4172a494203c.json",
+        "created_at": "2023-12-08 12:36:46 UTC",
+        "processed_at": "2023-12-08 12:36:46 UTC",
         "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Jorge+Carrillo-de-Albornoz&view_op=search_authors&hl=en",
-        "raw_html_file": "https://serpapi.com/searches/ef9644bf04b435fc/65689a63d737d7d469b8d9fd.html",
-        "total_time_taken": 1.21
+        "raw_html_file": "https://serpapi.com/searches/107cf26ef33694ce/65730ddec7ad4172a494203c.html",
+        "total_time_taken": 1.05
     },
     "search_parameters": {
         "engine": "google_scholar_profiles",
@@ -22,7 +22,7 @@
             "author_id": "8yHMQqoAAAAJ",
             "affiliations": "Researcher in Computer Science, UNED",
             "email": "Verified email at lsi.uned.es",
-            "cited_by": 1386,
+            "cited_by": 1388,
             "interests": [
                 {
                     "title": "Sentiment Analysis",

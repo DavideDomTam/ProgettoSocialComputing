@@ -1,13 +1,13 @@
 {
     "search_metadata": {
-        "id": "65689a6a7bea27351880aa99",
+        "id": "65730de296f5d70e3d05e29a",
         "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/35d11b6687481635/65689a6a7bea27351880aa99.json",
-        "created_at": "2023-11-30 14:21:30 UTC",
-        "processed_at": "2023-11-30 14:21:30 UTC",
+        "json_endpoint": "https://serpapi.com/searches/b6adee39d1251a8e/65730de296f5d70e3d05e29a.json",
+        "created_at": "2023-12-08 12:36:50 UTC",
+        "processed_at": "2023-12-08 12:36:50 UTC",
         "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Hideo+Joho&view_op=search_authors&hl=en",
-        "raw_html_file": "https://serpapi.com/searches/35d11b6687481635/65689a6a7bea27351880aa99.html",
-        "total_time_taken": 1.11
+        "raw_html_file": "https://serpapi.com/searches/b6adee39d1251a8e/65730de296f5d70e3d05e29a.html",
+        "total_time_taken": 5.03
     },
     "search_parameters": {
         "engine": "google_scholar_profiles",
@@ -22,7 +22,7 @@
             "author_id": "8W8gwisAAAAJ",
             "affiliations": "Professor, Institute of Library, Information and Media Science, University of Tsukuba",
             "email": "Verified email at slis.tsukuba.ac.jp",
-            "cited_by": 3888,
+            "cited_by": 3890,
             "interests": [
                 {
                     "title": "Information Retrieval",

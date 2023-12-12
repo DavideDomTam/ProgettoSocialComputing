@@ -1,13 +1,13 @@
 {
     "search_metadata": {
-        "id": "656898eec56d93082d4c47f2",
+        "id": "65730da9eb690f50c6eb3f18",
         "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/11fb0c5626182435/656898eec56d93082d4c47f2.json",
-        "created_at": "2023-11-30 14:15:10 UTC",
-        "processed_at": "2023-11-30 14:15:10 UTC",
+        "json_endpoint": "https://serpapi.com/searches/05b11ae2fb565bc3/65730da9eb690f50c6eb3f18.json",
+        "created_at": "2023-12-08 12:35:53 UTC",
+        "processed_at": "2023-12-08 12:35:53 UTC",
         "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Andrea+Brunello&view_op=search_authors&hl=en",
-        "raw_html_file": "https://serpapi.com/searches/11fb0c5626182435/656898eec56d93082d4c47f2.html",
-        "total_time_taken": 0.54
+        "raw_html_file": "https://serpapi.com/searches/05b11ae2fb565bc3/65730da9eb690f50c6eb3f18.html",
+        "total_time_taken": 0.77
     },
     "search_parameters": {
         "engine": "google_scholar_profiles",
@@ -22,7 +22,7 @@
             "author_id": "GuteS00AAAAJ",
             "affiliations": "Università degli Studi di Udine",
             "email": "Verified email at uniud.it",
-            "cited_by": 280,
+            "cited_by": 282,
             "interests": [
                 {
                     "title": "Data science",

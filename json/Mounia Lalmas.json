@@ -1,13 +1,13 @@
 {
     "search_metadata": {
-        "id": "6568998ff8f5f73e306f3def",
+        "id": "65730dbc10d7448b0ea08913",
         "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/215205a38fca5a2e/6568998ff8f5f73e306f3def.json",
-        "created_at": "2023-11-30 14:17:51 UTC",
-        "processed_at": "2023-11-30 14:17:51 UTC",
+        "json_endpoint": "https://serpapi.com/searches/b2f5c4d51c980e4b/65730dbc10d7448b0ea08913.json",
+        "created_at": "2023-12-08 12:36:12 UTC",
+        "processed_at": "2023-12-08 12:36:12 UTC",
         "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Mounia+Lalmas&view_op=search_authors&hl=en",
-        "raw_html_file": "https://serpapi.com/searches/215205a38fca5a2e/6568998ff8f5f73e306f3def.html",
-        "total_time_taken": 1.75
+        "raw_html_file": "https://serpapi.com/searches/b2f5c4d51c980e4b/65730dbc10d7448b0ea08913.html",
+        "total_time_taken": 1.69
     },
     "search_parameters": {
         "engine": "google_scholar_profiles",
@@ -22,7 +22,7 @@
             "author_id": "wAr9G5sAAAAJ",
             "affiliations": "Spotify",
             "email": "Verified email at acm.org",
-            "cited_by": 10867,
+            "cited_by": 10844,
             "interests": [
                 {
                     "title": "Personalization.",

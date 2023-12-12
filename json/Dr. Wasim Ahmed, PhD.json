@@ -1,13 +1,13 @@
 {
     "search_metadata": {
-        "id": "65689aeb34ff95c861b4f251",
+        "id": "65730dff33b236daf777ef71",
         "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/46c227326350663b/65689aeb34ff95c861b4f251.json",
-        "created_at": "2023-11-30 14:23:39 UTC",
-        "processed_at": "2023-11-30 14:23:39 UTC",
+        "json_endpoint": "https://serpapi.com/searches/6dc2ddcf78155518/65730dff33b236daf777ef71.json",
+        "created_at": "2023-12-08 12:37:19 UTC",
+        "processed_at": "2023-12-08 12:37:19 UTC",
         "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Dr.+Wasim+Ahmed%2C+PhD&view_op=search_authors&hl=en",
-        "raw_html_file": "https://serpapi.com/searches/46c227326350663b/65689aeb34ff95c861b4f251.html",
-        "total_time_taken": 4.02
+        "raw_html_file": "https://serpapi.com/searches/6dc2ddcf78155518/65730dff33b236daf777ef71.html",
+        "total_time_taken": 0.46
     },
     "search_parameters": {
         "engine": "google_scholar_profiles",
@@ -22,22 +22,22 @@
             "author_id": "JduIcrAAAAAJ",
             "affiliations": "Senior Lecturer in Marketing",
             "email": "Verified email at hull.ac.uk",
-            "cited_by": 2173,
+            "cited_by": 2180,
             "interests": [
+                {
+                    "title": "Marketing",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amarketing",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:marketing"
+                },
                 {
                     "title": "Disinformation",
                     "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adisinformation",
                     "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:disinformation"
                 },
                 {
-                    "title": "Twitter",
-                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Atwitter",
-                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:twitter"
-                },
-                {
-                    "title": "Digital Business",
-                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adigital_business",
-                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:digital_business"
+                    "title": "Social Media",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Asocial_media",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:social_media"
                 },
                 {
                     "title": "Social Network Analysis",
@@ -45,9 +45,9 @@
                     "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:social_network_analysis"
                 },
                 {
-                    "title": "Health Informatics",
-                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ahealth_informatics",
-                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:health_informatics"
+                    "title": "Analytics",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aanalytics",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:analytics"
                 }
             ],
             "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=JduIcrAAAAAJ&citpid=4"

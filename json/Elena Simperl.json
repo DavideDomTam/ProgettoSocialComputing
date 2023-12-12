@@ -1,0 +1,56 @@
+{
+    "search_metadata": {
+        "id": "65730e0b95bf923f9139c7ed",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/dc213d6757482101/65730e0b95bf923f9139c7ed.json",
+        "created_at": "2023-12-08 12:37:31 UTC",
+        "processed_at": "2023-12-08 12:37:31 UTC",
+        "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Elena+Simperl&view_op=search_authors&hl=en",
+        "raw_html_file": "https://serpapi.com/searches/dc213d6757482101/65730e0b95bf923f9139c7ed.html",
+        "total_time_taken": 0.59
+    },
+    "search_parameters": {
+        "engine": "google_scholar_profiles",
+        "mauthors": "Elena Simperl",
+        "hl": "en"
+    },
+    "profiles": [
+        {
+            "name": "Elena Simperl",
+            "link": "https://scholar.google.com/citations?hl=en&user=xB7s3wgAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=xB7s3wgAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "xB7s3wgAAAAJ",
+            "affiliations": "Professor of computer science, King's College London, United Kingdom",
+            "email": "Verified email at kcl.ac.uk",
+            "cited_by": 7032,
+            "interests": [
+                {
+                    "title": "knowledge graphs",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aknowledge_graphs",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:knowledge_graphs"
+                },
+                {
+                    "title": "knowledge engineering",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aknowledge_engineering",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:knowledge_engineering"
+                },
+                {
+                    "title": "open data",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aopen_data",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:open_data"
+                },
+                {
+                    "title": "social computing",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Asocial_computing",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:social_computing"
+                },
+                {
+                    "title": "human computation",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ahuman_computation",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:human_computation"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=xB7s3wgAAAAJ&citpid=3"
+        }
+    ]
+}

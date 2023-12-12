@@ -1,13 +1,13 @@
 {
     "search_metadata": {
-        "id": "65689a06af5af18d4d9dd61e",
+        "id": "65730dcb95bf923f9139c7e0",
         "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/8697bd1773b053c5/65689a06af5af18d4d9dd61e.json",
-        "created_at": "2023-11-30 14:19:50 UTC",
-        "processed_at": "2023-11-30 14:19:50 UTC",
+        "json_endpoint": "https://serpapi.com/searches/a1f4bcf1565105eb/65730dcb95bf923f9139c7e0.json",
+        "created_at": "2023-12-08 12:36:27 UTC",
+        "processed_at": "2023-12-08 12:36:27 UTC",
         "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Fabio+Crestani&view_op=search_authors&hl=en",
-        "raw_html_file": "https://serpapi.com/searches/8697bd1773b053c5/65689a06af5af18d4d9dd61e.html",
-        "total_time_taken": 1.13
+        "raw_html_file": "https://serpapi.com/searches/a1f4bcf1565105eb/65730dcb95bf923f9139c7e0.html",
+        "total_time_taken": 0.69
     },
     "search_parameters": {
         "engine": "google_scholar_profiles",
@@ -22,7 +22,7 @@
             "author_id": "EoGBsiMAAAAJ",
             "affiliations": "Faculty of Informatics, Universitá della Svizzera Italiana (USI), Lugano, Switzerland",
             "email": "Verified email at usi.ch",
-            "cited_by": 10257,
+            "cited_by": 10276,
             "interests": [
                 {
                     "title": "Information Retrieval",

@@ -1,13 +1,13 @@
 {
     "search_metadata": {
-        "id": "65689af094fb031770337cf4",
+        "id": "65730e00e93ff49bd7f8453a",
         "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/b2ccff9108c278bc/65689af094fb031770337cf4.json",
-        "created_at": "2023-11-30 14:23:44 UTC",
-        "processed_at": "2023-11-30 14:23:44 UTC",
+        "json_endpoint": "https://serpapi.com/searches/d240db0eaccd1b21/65730e00e93ff49bd7f8453a.json",
+        "created_at": "2023-12-08 12:37:20 UTC",
+        "processed_at": "2023-12-08 12:37:20 UTC",
         "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Karl+Aberer&view_op=search_authors&hl=en",
-        "raw_html_file": "https://serpapi.com/searches/b2ccff9108c278bc/65689af094fb031770337cf4.html",
-        "total_time_taken": 1.03
+        "raw_html_file": "https://serpapi.com/searches/d240db0eaccd1b21/65730e00e93ff49bd7f8453a.html",
+        "total_time_taken": 1.17
     },
     "search_parameters": {
         "engine": "google_scholar_profiles",
@@ -22,7 +22,7 @@
             "author_id": "ifU81ikAAAAJ",
             "affiliations": "Professor of Computer and Communication Sciences, EPFL",
             "email": "Verified email at epfl.ch",
-            "cited_by": 23849,
+            "cited_by": 23866,
             "interests": [
                 {
                     "title": "Social Media",

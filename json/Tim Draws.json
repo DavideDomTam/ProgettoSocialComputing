@@ -1,13 +1,13 @@
 {
     "search_metadata": {
-        "id": "656898b9c573d563fef2cae1",
+        "id": "65730d97c504e979ee08b3b6",
         "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/083346b227b4190b/656898b9c573d563fef2cae1.json",
-        "created_at": "2023-11-30 14:14:17 UTC",
-        "processed_at": "2023-11-30 14:14:17 UTC",
+        "json_endpoint": "https://serpapi.com/searches/9c4610c30e7a84fb/65730d97c504e979ee08b3b6.json",
+        "created_at": "2023-12-08 12:35:35 UTC",
+        "processed_at": "2023-12-08 12:35:35 UTC",
         "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Tim+Draws&view_op=search_authors&hl=en",
-        "raw_html_file": "https://serpapi.com/searches/083346b227b4190b/656898b9c573d563fef2cae1.html",
-        "total_time_taken": 2.08
+        "raw_html_file": "https://serpapi.com/searches/9c4610c30e7a84fb/65730d97c504e979ee08b3b6.html",
+        "total_time_taken": 3.01
     },
     "search_parameters": {
         "engine": "google_scholar_profiles",
@@ -22,7 +22,7 @@
             "author_id": "UTMHOZMAAAAJ",
             "affiliations": "OTTO",
             "email": "Verified email at otto.de",
-            "cited_by": 1206,
+            "cited_by": 1219,
             "interests": [
                 {
                     "title": "Human-Computer Interaction",

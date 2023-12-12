@@ -1,0 +1,83 @@
+{
+    "search_metadata": {
+        "id": "65730e1c4055aa5af328884d",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/95bfd05dc4e349e4/65730e1c4055aa5af328884d.json",
+        "created_at": "2023-12-08 12:37:48 UTC",
+        "processed_at": "2023-12-08 12:37:48 UTC",
+        "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Richard+Gomer&view_op=search_authors&hl=en",
+        "raw_html_file": "https://serpapi.com/searches/95bfd05dc4e349e4/65730e1c4055aa5af328884d.html",
+        "total_time_taken": 1.09
+    },
+    "search_parameters": {
+        "engine": "google_scholar_profiles",
+        "mauthors": "Richard Gomer",
+        "hl": "en"
+    },
+    "profiles": [
+        {
+            "name": "Richard Gomer",
+            "link": "https://scholar.google.com/citations?hl=en&user=z1YBrC4AAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=z1YBrC4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "z1YBrC4AAAAJ",
+            "affiliations": "Professor of Biology, Texas A&M University",
+            "email": "Verified email at tamu.edu",
+            "cited_by": 10344,
+            "interests": [
+                {
+                    "title": "fibrosis",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Afibrosis",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:fibrosis"
+                },
+                {
+                    "title": "Dictyostelium",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adictyostelium",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:dictyostelium"
+                },
+                {
+                    "title": "cell density sensing",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acell_density_sensing",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:cell_density_sensing"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=z1YBrC4AAAAJ&citpid=1"
+        },
+        {
+            "name": "Richard Gomer",
+            "link": "https://scholar.google.com/citations?hl=en&user=5ZTLglQAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=5ZTLglQAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "5ZTLglQAAAAJ",
+            "affiliations": "University of Southampton",
+            "email": "Verified email at soton.ac.uk",
+            "cited_by": 282,
+            "interests": [
+                {
+                    "title": "privacy",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aprivacy",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:privacy"
+                },
+                {
+                    "title": "consent",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aconsent",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:consent"
+                },
+                {
+                    "title": "interaction",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ainteraction",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:interaction"
+                },
+                {
+                    "title": "hci",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ahci",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:hci"
+                },
+                {
+                    "title": "web science",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aweb_science",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:web_science"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=5ZTLglQAAAAJ&citpid=2"
+        }
+    ]
+}

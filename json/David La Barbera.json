@@ -1,13 +1,13 @@
 {
     "search_metadata": {
-        "id": "656f2947116a55f1c9aa4d6f",
+        "id": "65730cf814b245ec8dc2d551",
         "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/cc64ac3ff8cb102c/656f2947116a55f1c9aa4d6f.json",
-        "created_at": "2023-12-05 13:44:39 UTC",
-        "processed_at": "2023-12-05 13:44:39 UTC",
+        "json_endpoint": "https://serpapi.com/searches/9393a7e0238da03d/65730cf814b245ec8dc2d551.json",
+        "created_at": "2023-12-08 12:32:56 UTC",
+        "processed_at": "2023-12-08 12:32:56 UTC",
         "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=David+La+Barbera&view_op=search_authors&hl=en",
-        "raw_html_file": "https://serpapi.com/searches/cc64ac3ff8cb102c/656f2947116a55f1c9aa4d6f.html",
-        "total_time_taken": 1.28
+        "raw_html_file": "https://serpapi.com/searches/9393a7e0238da03d/65730cf814b245ec8dc2d551.html",
+        "total_time_taken": 0.83
     },
     "search_parameters": {
         "engine": "google_scholar_profiles",

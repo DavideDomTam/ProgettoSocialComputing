@@ -1,0 +1,29 @@
+{
+    "search_metadata": {
+        "id": "65730e168e02e4445af4a3ef",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/8387a9154fd30d4e/65730e168e02e4445af4a3ef.json",
+        "created_at": "2023-12-08 12:37:42 UTC",
+        "processed_at": "2023-12-08 12:37:42 UTC",
+        "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Pavlos+Vougiouklis&view_op=search_authors&hl=en",
+        "raw_html_file": "https://serpapi.com/searches/8387a9154fd30d4e/65730e168e02e4445af4a3ef.html",
+        "total_time_taken": 2.83
+    },
+    "search_parameters": {
+        "engine": "google_scholar_profiles",
+        "mauthors": "Pavlos Vougiouklis",
+        "hl": "en"
+    },
+    "profiles": [
+        {
+            "name": "Pavlos Vougiouklis",
+            "link": "https://scholar.google.com/citations?hl=en&user=9J7YeR0AAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=9J7YeR0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "9J7YeR0AAAAJ",
+            "affiliations": "Huawei Technologies",
+            "email": "Verified email at huawei.com",
+            "cited_by": 584,
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=9J7YeR0AAAAJ&citpid=4"
+        }
+    ]
+}

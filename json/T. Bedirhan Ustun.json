@@ -1,0 +1,51 @@
+{
+    "search_metadata": {
+        "id": "6572fb4beb31eb493cd16827",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/e09107ede6be3591/6572fb4beb31eb493cd16827.json",
+        "created_at": "2023-12-08 11:17:31 UTC",
+        "processed_at": "2023-12-08 11:17:31 UTC",
+        "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=T.+Bedirhan+Ustun&view_op=search_authors&hl=en",
+        "raw_html_file": "https://serpapi.com/searches/e09107ede6be3591/6572fb4beb31eb493cd16827.html",
+        "total_time_taken": 0.64
+    },
+    "search_parameters": {
+        "engine": "google_scholar_profiles",
+        "mauthors": "T. Bedirhan Ustun",
+        "hl": "en"
+    },
+    "profiles": [
+        {
+            "name": "T. Bedirhan Ustun",
+            "link": "https://scholar.google.com/citations?hl=en&user=Ta0zCAIAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Ta0zCAIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Ta0zCAIAAAAJ",
+            "affiliations": "KOC UNIVERSITY",
+            "email": "Verified email at ku.edu.tr",
+            "cited_by": 89758,
+            "interests": [
+                {
+                    "title": "Mental Health",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amental_health",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:mental_health"
+                },
+                {
+                    "title": "Classification",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aclassification",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:classification"
+                },
+                {
+                    "title": "Terminologies",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aterminologies",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:terminologies"
+                },
+                {
+                    "title": "Health Informatics",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ahealth_informatics",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:health_informatics"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Ta0zCAIAAAAJ&citpid=3"
+        }
+    ]
+}

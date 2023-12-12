@@ -1,13 +1,13 @@
 {
     "search_metadata": {
-        "id": "65689a04aa6c9512024698ed",
+        "id": "65730dcbd737d7f3cda4477b",
         "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/4861330d85229e40/65689a04aa6c9512024698ed.json",
-        "created_at": "2023-11-30 14:19:48 UTC",
-        "processed_at": "2023-11-30 14:19:48 UTC",
+        "json_endpoint": "https://serpapi.com/searches/1757ff3847f98514/65730dcbd737d7f3cda4477b.json",
+        "created_at": "2023-12-08 12:36:27 UTC",
+        "processed_at": "2023-12-08 12:36:27 UTC",
         "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Giorgio+Brajnik&view_op=search_authors&hl=en",
-        "raw_html_file": "https://serpapi.com/searches/4861330d85229e40/65689a04aa6c9512024698ed.html",
-        "total_time_taken": 1.46
+        "raw_html_file": "https://serpapi.com/searches/1757ff3847f98514/65730dcbd737d7f3cda4477b.html",
+        "total_time_taken": 0.16
     },
     "search_parameters": {
         "engine": "google_scholar_profiles",
@@ -22,7 +22,7 @@
             "author_id": "a-qHaRIAAAAJ",
             "affiliations": "Associate Professor in Computer science, University of Udine, Italy",
             "email": "Verified email at uniud.it",
-            "cited_by": 3588,
+            "cited_by": 3594,
             "interests": [
                 {
                     "title": "User Experience",

@@ -1,0 +1,646 @@
+{
+    "search_metadata": {
+        "id": "6572fb4437b24a2d52c8b3b9",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/37280c7309e94a28/6572fb4437b24a2d52c8b3b9.json",
+        "created_at": "2023-12-08 11:17:24 UTC",
+        "processed_at": "2023-12-08 11:17:24 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=BF3B4KAAAAAJ&hl=en",
+        "raw_html_file": "https://serpapi.com/searches/37280c7309e94a28/6572fb4437b24a2d52c8b3b9.html",
+        "total_time_taken": 1.2
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "BF3B4KAAAAAJ",
+        "hl": "en"
+    },
+    "author": {
+        "name": "Vincenzo Della Mea",
+        "affiliations": "Associate Professor of Medical Informatics, University of Udine",
+        "email": "Verified email at uniud.it",
+        "website": "http://users.dimi.uniud.it/~vincenzo.dellamea/",
+        "interests": [
+            {
+                "title": "medical informatics",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:medical_informatics",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amedical_informatics"
+            },
+            {
+                "title": "telemedicine",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:telemedicine",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Atelemedicine"
+            },
+            {
+                "title": "digital pathology",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:digital_pathology",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adigital_pathology"
+            },
+            {
+                "title": "biomedical classifications and ontologies",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:biomedical_classifications_and_ontologies",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Abiomedical_classifications_and_ontologies"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=BF3B4KAAAAAJ&citpid=7"
+    },
+    "articles": [
+        {
+            "title": "What is e-Health (2): The death of telemedicine?",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BF3B4KAAAAAJ&citation_for_view=BF3B4KAAAAAJ:UebtZRa9Y70C",
+            "citation_id": "BF3B4KAAAAAJ:UebtZRa9Y70C",
+            "authors": "V Della Mea",
+            "publication": "Journal of medical Internet research 3 (2), e834, 2001",
+            "cited_by": {
+                "value": 425,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5227579148188972552",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5227579148188972552&engine=google_scholar&hl=en",
+                "cites_id": "5227579148188972552"
+            },
+            "year": "2001"
+        },
+        {
+            "title": "Biomarkers of lymphoma in Sjögren’s syndrome and evaluation of the lymphoma risk in prelymphomatous conditions: results of a multicenter study",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BF3B4KAAAAAJ&citation_for_view=BF3B4KAAAAAJ:geHnlv5EZngC",
+            "citation_id": "BF3B4KAAAAAJ:geHnlv5EZngC",
+            "authors": "L Quartuccio, M Isola, C Baldini, R Priori, EB Bocci, F Carubbi, M Maset, ...",
+            "publication": "Journal of autoimmunity 51, 75-80, 2014",
+            "cited_by": {
+                "value": 164,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7336627088183913488",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7336627088183913488&engine=google_scholar&hl=en",
+                "cites_id": "7336627088183913488"
+            },
+            "year": "2014"
+        },
+        {
+            "title": "The context-aware browser",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BF3B4KAAAAAJ&citation_for_view=BF3B4KAAAAAJ:Wp0gIr-vW9MC",
+            "citation_id": "BF3B4KAAAAAJ:Wp0gIr-vW9MC",
+            "authors": "P Coppola, V Della Mea, L Di Gaspero, D Menegon, D Mischis, S Mizzaro, ...",
+            "publication": "IEEE Intelligent Systems 25 (1), 38-47, 2010",
+            "cited_by": {
+                "value": 74,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15342427996863579829",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15342427996863579829&engine=google_scholar&hl=en",
+                "cites_id": "15342427996863579829"
+            },
+            "year": "2010"
+        },
+        {
+            "title": "Agents acting and moving in healthcare scenario-a paradigm for telemedical collaboration",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BF3B4KAAAAAJ&citation_for_view=BF3B4KAAAAAJ:u5HHmVD_uO8C",
+            "citation_id": "BF3B4KAAAAAJ:u5HHmVD_uO8C",
+            "authors": "VD Mea",
+            "publication": "IEEE transactions on Information Technology in Biomedicine 5 (1), 10-13, 2001",
+            "cited_by": {
+                "value": 71,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11723128179396324286,211354455166887745",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11723128179396324286%2C211354455166887745&engine=google_scholar&hl=en",
+                "cites_id": "11723128179396324286,211354455166887745"
+            },
+            "year": "2001"
+        },
+        {
+            "title": "Large core biopsy for diagnostic and prognostic evaluation of invasive breast carcinomas",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BF3B4KAAAAAJ&citation_for_view=BF3B4KAAAAAJ:hqOjcs7Dif8C",
+            "citation_id": "BF3B4KAAAAAJ:hqOjcs7Dif8C",
+            "authors": "C Di Loreto, F Puglisi, G Rimondi, C Zuiani, G Anania, V Della Mea, ...",
+            "publication": "European Journal of Cancer 32 (10), 1693-1700, 1996",
+            "cited_by": {
+                "value": 70,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8952308355181603638",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8952308355181603638&engine=google_scholar&hl=en",
+                "cites_id": "8952308355181603638"
+            },
+            "year": "1996"
+        },
+        {
+            "title": "Standardizing the use of whole slide images in digital pathology",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BF3B4KAAAAAJ&citation_for_view=BF3B4KAAAAAJ:qjMakFHDy7sC",
+            "citation_id": "BF3B4KAAAAAJ:qjMakFHDy7sC",
+            "authors": "C Daniel, MG Rojo, J Klossa, V Della Mea, D Booker, BA Beckwith, ...",
+            "publication": "Computerized Medical Imaging and Graphics 35 (7-8), 496-505, 2011",
+            "cited_by": {
+                "value": 68,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3717851465865606581",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3717851465865606581&engine=google_scholar&hl=en",
+                "cites_id": "3717851465865606581"
+            },
+            "year": "2011"
+        },
+        {
+            "title": "Combining dynamic and static robotic telepathology: a report on 184 consecutive cases of frozen sections, histology and cytology",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BF3B4KAAAAAJ&citation_for_view=BF3B4KAAAAAJ:5nxA0vEk-isC",
+            "citation_id": "BF3B4KAAAAAJ:5nxA0vEk-isC",
+            "authors": "V Della Mea, P Cataldi, B Pertoldi, CA Beltrami",
+            "publication": "Analytical Cellular Pathology 20 (1), 33-39, 2000",
+            "cited_by": {
+                "value": 68,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12257326569385962655",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12257326569385962655&engine=google_scholar&hl=en",
+                "cites_id": "12257326569385962655"
+            },
+            "year": "2000"
+        },
+        {
+            "title": "Digital storage of glass slides for quality assurance in histopathology and cytopathology",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BF3B4KAAAAAJ&citation_for_view=BF3B4KAAAAAJ:Se3iqnhoufwC",
+            "citation_id": "BF3B4KAAAAAJ:Se3iqnhoufwC",
+            "authors": "F Demichelis, V Della Mea, S Forti, PD Palma, CA Beltrami",
+            "publication": "Journal of Telemedicine and Telecare 8 (3), 138-142, 2002",
+            "cited_by": {
+                "value": 67,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11263140745555710900",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11263140745555710900&engine=google_scholar&hl=en",
+                "cites_id": "11263140745555710900"
+            },
+            "year": "2002"
+        },
+        {
+            "title": "Internet electronic mail: a tool for low-cost telemedicine.",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BF3B4KAAAAAJ&citation_for_view=BF3B4KAAAAAJ:kuK5TVdYjLIC",
+            "citation_id": "BF3B4KAAAAAJ:kuK5TVdYjLIC",
+            "authors": "V Della Mea",
+            "publication": "Journal of Telemedicine and Telecare 5 (2), 84-89, 1999",
+            "cited_by": {
+                "value": 66,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2559774853022299798,9533882587885061765",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2559774853022299798%2C9533882587885061765&engine=google_scholar&hl=en",
+                "cites_id": "2559774853022299798,9533882587885061765"
+            },
+            "year": "1999"
+        },
+        {
+            "title": "Standards to support information systems integration in anatomic pathology",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BF3B4KAAAAAJ&citation_for_view=BF3B4KAAAAAJ:2osOgNQ5qMEC",
+            "citation_id": "BF3B4KAAAAAJ:2osOgNQ5qMEC",
+            "authors": "C Daniel, M García Rojo, K Bourquard, D Henin, T Schrader, VD Mea, ...",
+            "publication": "Archives of Pathology & Laboratory Medicine 133 (11), 1841-1849, 2009",
+            "cited_by": {
+                "value": 62,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15790081146454944432",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15790081146454944432&engine=google_scholar&hl=en",
+                "cites_id": "15790081146454944432"
+            },
+            "year": "2009"
+        },
+        {
+            "title": "Fine-needle aspiration cytology of the breast: a preliminary report on telepathology through Internet multimedia electronic mail.",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BF3B4KAAAAAJ&citation_for_view=BF3B4KAAAAAJ:MXK_kJrjxJIC",
+            "citation_id": "BF3B4KAAAAAJ:MXK_kJrjxJIC",
+            "authors": "V Della Mea, F Puglisi, M Bonzanini, S Forti, V Amoroso, R Visentin, ...",
+            "publication": "Modern pathology: an official journal of the United States and Canadian …, 1997",
+            "cited_by": {
+                "value": 62,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9282225386288444798",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9282225386288444798&engine=google_scholar&hl=en",
+                "cites_id": "9282225386288444798"
+            },
+            "year": "1997"
+        },
+        {
+            "title": "Telepathology using Internet multimedia electronic mail: remote consultation on gastrointestinal pathology",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BF3B4KAAAAAJ&citation_for_view=BF3B4KAAAAAJ:0EnyYjriUFMC",
+            "citation_id": "BF3B4KAAAAAJ:0EnyYjriUFMC",
+            "authors": "V Della Mea, S Forti, F Puglisi, P Bellutta, P Dalla Palma, F Mauri, ...",
+            "publication": "Journal of Telemedicine and Telecare 2 (1), 28-34, 1996",
+            "cited_by": {
+                "value": 60,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7289370595790231782",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7289370595790231782&engine=google_scholar&hl=en",
+                "cites_id": "7289370595790231782"
+            },
+            "year": "1996"
+        },
+        {
+            "title": "Best practice recommendations for the implementation of a digital pathology workflow in the anatomic pathology laboratory by the European Society of Digital and Integrative …",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BF3B4KAAAAAJ&citation_for_view=BF3B4KAAAAAJ:i2xiXl-TujoC",
+            "citation_id": "BF3B4KAAAAAJ:i2xiXl-TujoC",
+            "authors": "F Fraggetta, V L’imperio, D Ameisen, R Carvalho, S Leh, TR Kiehl, ...",
+            "publication": "Diagnostics 11 (11), 2167, 2021",
+            "cited_by": {
+                "value": 55,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=706359194659063145,5641452337882922315",
+                "serpapi_link": "https://serpapi.com/search.json?cites=706359194659063145%2C5641452337882922315&engine=google_scholar&hl=en",
+                "cites_id": "706359194659063145,5641452337882922315"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Expert pathology consultation through the Internet: melanoma versus benign melanocytic tumours",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BF3B4KAAAAAJ&citation_for_view=BF3B4KAAAAAJ:8k81kl-MbHgC",
+            "citation_id": "BF3B4KAAAAAJ:8k81kl-MbHgC",
+            "authors": "VD Mea, F Puglisi, S Forti, M Delendi, S Boi, F Mauri, PD Palma, ...",
+            "publication": "Journal of Telemedicine and Telecare 3 (1_suppl), 17-19, 1997",
+            "cited_by": {
+                "value": 55,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15910328278719376672",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15910328278719376672&engine=google_scholar&hl=en",
+                "cites_id": "15910328278719376672"
+            },
+            "year": "1997"
+        },
+        {
+            "title": "Recent advances in standards for collaborative Digital Anatomic Pathology",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BF3B4KAAAAAJ&citation_for_view=BF3B4KAAAAAJ:qUcmZB5y_30C",
+            "citation_id": "BF3B4KAAAAAJ:qUcmZB5y_30C",
+            "authors": "C Daniel, F Macary, M García Rojo, J Klossa, A Laurinavičius, ...",
+            "publication": "Diagnostic pathology 6, 1-10, 2011",
+            "cited_by": {
+                "value": 54,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4305865771546629372",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4305865771546629372&engine=google_scholar&hl=en",
+                "cites_id": "4305865771546629372"
+            },
+            "year": "2011"
+        },
+        {
+            "title": "Image selection in static telepathology through the Internet",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BF3B4KAAAAAJ&citation_for_view=BF3B4KAAAAAJ:ULOm3_A8WrAC",
+            "citation_id": "BF3B4KAAAAAJ:ULOm3_A8WrAC",
+            "authors": "VD Mea, P Cataldi, S Boi, N Finato, PD Palma, CA Beltrami",
+            "publication": "Journal of telemedicine and telecare 4 (1_suppl), 20-22, 1998",
+            "cited_by": {
+                "value": 47,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5702770702630070315",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5702770702630070315&engine=google_scholar&hl=en",
+                "cites_id": "5702770702630070315"
+            },
+            "year": "1998"
+        },
+        {
+            "title": "Telepathology applications of the Internet multimedia electronic mail",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BF3B4KAAAAAJ&citation_for_view=BF3B4KAAAAAJ:u-x6o8ySG0sC",
+            "citation_id": "BF3B4KAAAAAJ:u-x6o8ySG0sC",
+            "authors": "VD Mea, CA Beltrami",
+            "publication": "Medical Informatics 23 (3), 237-244, 1998",
+            "cited_by": {
+                "value": 47,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2731607398724998290",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2731607398724998290&engine=google_scholar&hl=en",
+                "cites_id": "2731607398724998290"
+            },
+            "year": "1998"
+        },
+        {
+            "title": "Prerecorded telemedicine",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BF3B4KAAAAAJ&citation_for_view=BF3B4KAAAAAJ:kNdYIx-mwKoC",
+            "citation_id": "BF3B4KAAAAAJ:kNdYIx-mwKoC",
+            "authors": "V Della Mea",
+            "publication": "Journal of telemedicine and telecare 11 (6), 276-284, 2005",
+            "cited_by": {
+                "value": 46,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8117545536570146895",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8117545536570146895&engine=google_scholar&hl=en",
+                "cites_id": "8117545536570146895"
+            },
+            "year": "2005"
+        },
+        {
+            "title": "The concept of relevance in mobile and ubiquitous information access",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BF3B4KAAAAAJ&citation_for_view=BF3B4KAAAAAJ:9yKSN-GCB0IC",
+            "citation_id": "BF3B4KAAAAAJ:9yKSN-GCB0IC",
+            "authors": "P Coppola, V Della Mea, L Di Gaspero, S Mizzaro",
+            "publication": "Mobile and Ubiquitous Information Access: Mobile HCI 2003 International …, 2004",
+            "cited_by": {
+                "value": 46,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2442923123135654471",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2442923123135654471&engine=google_scholar&hl=en",
+                "cites_id": "2442923123135654471"
+            },
+            "year": "2004"
+        },
+        {
+            "title": "MoBe: a framework for context-aware mobile applications",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BF3B4KAAAAAJ&citation_for_view=BF3B4KAAAAAJ:KlAtU1dfN6UC",
+            "citation_id": "BF3B4KAAAAAJ:KlAtU1dfN6UC",
+            "authors": "P Coppola, V Della Mea, L Di Gaspero, S Mizzaro, I Scagnetto, A Selva, ...",
+            "publication": "Proc. CAPS 5, 55-66, 2005",
+            "cited_by": {
+                "value": 45,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13617338549764693202",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13617338549764693202&engine=google_scholar&hl=en",
+                "cites_id": "13617338549764693202"
+            },
+            "year": "2005"
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 2901,
+                    "since_2018": 989
+                }
+            },
+            {
+                "h_index": {
+                    "all": 30,
+                    "since_2018": 14
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 63,
+                    "since_2018": 28
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 1998,
+                "citations": 43
+            },
+            {
+                "year": 1999,
+                "citations": 30
+            },
+            {
+                "year": 2000,
+                "citations": 60
+            },
+            {
+                "year": 2001,
+                "citations": 64
+            },
+            {
+                "year": 2002,
+                "citations": 85
+            },
+            {
+                "year": 2003,
+                "citations": 60
+            },
+            {
+                "year": 2004,
+                "citations": 58
+            },
+            {
+                "year": 2005,
+                "citations": 104
+            },
+            {
+                "year": 2006,
+                "citations": 104
+            },
+            {
+                "year": 2007,
+                "citations": 58
+            },
+            {
+                "year": 2008,
+                "citations": 72
+            },
+            {
+                "year": 2009,
+                "citations": 84
+            },
+            {
+                "year": 2010,
+                "citations": 83
+            },
+            {
+                "year": 2011,
+                "citations": 106
+            },
+            {
+                "year": 2012,
+                "citations": 135
+            },
+            {
+                "year": 2013,
+                "citations": 138
+            },
+            {
+                "year": 2014,
+                "citations": 142
+            },
+            {
+                "year": 2015,
+                "citations": 157
+            },
+            {
+                "year": 2016,
+                "citations": 136
+            },
+            {
+                "year": 2017,
+                "citations": 131
+            },
+            {
+                "year": 2018,
+                "citations": 129
+            },
+            {
+                "year": 2019,
+                "citations": 156
+            },
+            {
+                "year": 2020,
+                "citations": 140
+            },
+            {
+                "year": 2021,
+                "citations": 150
+            },
+            {
+                "year": 2022,
+                "citations": 197
+            },
+            {
+                "year": 2023,
+                "citations": 214
+            }
+        ]
+    },
+    "public_access": {
+        "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=BF3B4KAAAAAJ",
+        "available": 17,
+        "not_available": 2
+    },
+    "co_authors": [
+        {
+            "name": "Carlo Alberto Beltrami",
+            "link": "https://scholar.google.com/citations?user=EZrMWWMAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=EZrMWWMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "EZrMWWMAAAAJ",
+            "affiliations": "Professore, Università di Udine",
+            "email": "Verified email at uniud.it",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=EZrMWWMAAAAJ&citpid=1"
+        },
+        {
+            "name": "Stefano Mizzaro",
+            "link": "https://scholar.google.com/citations?user=2wvJC6IAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=2wvJC6IAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "2wvJC6IAAAAJ",
+            "affiliations": "Full professor of Computer Science and Information Technology",
+            "email": "Verified email at uniud.it",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=2wvJC6IAAAAJ&citpid=1"
+        },
+        {
+            "name": "Luca Di Gaspero",
+            "link": "https://scholar.google.com/citations?user=fIES7P0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=fIES7P0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "fIES7P0AAAAJ",
+            "affiliations": "Associate Professor of Information Technology, University of Udine",
+            "email": "Verified email at uniud.it",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=fIES7P0AAAAJ&citpid=3"
+        },
+        {
+            "name": "Kevin Roitero",
+            "link": "https://scholar.google.com/citations?user=1xd52jMAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=1xd52jMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "1xd52jMAAAAJ",
+            "affiliations": "University of Udine",
+            "email": "Verified email at uniud.it",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=1xd52jMAAAAJ&citpid=6"
+        },
+        {
+            "name": "Stefano Forti",
+            "link": "https://scholar.google.com/citations?user=0iqWtXUAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=0iqWtXUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "0iqWtXUAAAAJ",
+            "affiliations": "FBK",
+            "email": "Verified email at fbk.eu",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Paolo Coppola",
+            "link": "https://scholar.google.com/citations?user=P15-SKkAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=P15-SKkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "P15-SKkAAAAJ",
+            "affiliations": "Associate Professor of Computer Science, University of Udine",
+            "email": "Verified email at uniud.it",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=P15-SKkAAAAJ&citpid=1"
+        },
+        {
+            "name": "Luca Vassena",
+            "link": "https://scholar.google.com/citations?user=dCBk3oIAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=dCBk3oIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "dCBk3oIAAAAJ",
+            "affiliations": "Università di Udine",
+            "email": "Verified email at uniud.it",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=dCBk3oIAAAAJ&citpid=2"
+        },
+        {
+            "name": "Christopher G. Chute",
+            "link": "https://scholar.google.com/citations?user=y7sYtpcAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=y7sYtpcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "y7sYtpcAAAAJ",
+            "affiliations": "Bloomberg Distinguished Professor of Health Informatics, Johns Hopkins",
+            "email": "Verified email at jhu.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=y7sYtpcAAAAJ&citpid=9"
+        },
+        {
+            "name": "T. Bedirhan Ustun",
+            "link": "https://scholar.google.com/citations?user=Ta0zCAIAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Ta0zCAIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Ta0zCAIAAAAJ",
+            "affiliations": "KOC UNIVERSITY",
+            "email": "Verified email at ku.edu.tr",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Ta0zCAIAAAAJ&citpid=3"
+        },
+        {
+            "name": "Stefan Schulz",
+            "link": "https://scholar.google.com/citations?user=O2ariVIAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=O2ariVIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "O2ariVIAAAAJ",
+            "affiliations": "Medical University of Graz",
+            "email": "Verified email at medunigraz.at",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=O2ariVIAAAAJ&citpid=2"
+        },
+        {
+            "name": "Mihai Horia Popescu",
+            "link": "https://scholar.google.com/citations?user=7VIbKlEAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=7VIbKlEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "7VIbKlEAAAAJ",
+            "affiliations": "PhD student",
+            "email": "Verified email at uniud.it",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=7VIbKlEAAAAJ&citpid=5"
+        },
+        {
+            "name": "Francesca Demichelis",
+            "link": "https://scholar.google.com/citations?user=lz-38C0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=lz-38C0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "lz-38C0AAAAJ",
+            "affiliations": "Department of Cellular, Computational and Integrative Biology (CIBIO), University of Trento, Italy",
+            "email": "Verified email at unitn.it",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=lz-38C0AAAAJ&citpid=7"
+        },
+        {
+            "name": "António Polónia",
+            "link": "https://scholar.google.com/citations?user=ZiIQ9g8AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=ZiIQ9g8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ZiIQ9g8AAAAJ",
+            "affiliations": "University of Porto",
+            "email": "Verified email at ipatimup.pt",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=ZiIQ9g8AAAAJ&citpid=2"
+        },
+        {
+            "name": "Beatrice Portelli",
+            "link": "https://scholar.google.com/citations?user=HQZd6wsAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=HQZd6wsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "HQZd6wsAAAAJ",
+            "affiliations": "University of Udine",
+            "email": "Verified email at spes.uniud.it",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=HQZd6wsAAAAJ&citpid=2"
+        },
+        {
+            "name": "Arvydas Laurinavicius",
+            "link": "https://scholar.google.com/citations?user=_MXmMg0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=_MXmMg0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "_MXmMg0AAAAJ",
+            "affiliations": "Vilnius University",
+            "email": "Verified email at vpc.lt",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=_MXmMg0AAAAJ&citpid=4"
+        },
+        {
+            "name": "Giuseppe Serra",
+            "link": "https://scholar.google.com/citations?user=xz1J-xQAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=xz1J-xQAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "xz1J-xQAAAAJ",
+            "affiliations": "Associate Professor of Computer Science, University of Udine",
+            "email": "Verified email at uniud.it",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=xz1J-xQAAAAJ&citpid=3"
+        },
+        {
+            "name": "Catarina Eloy",
+            "link": "https://scholar.google.com/citations?user=DN5XAqgAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=DN5XAqgAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "DN5XAqgAAAAJ",
+            "affiliations": "University of Porto, Ipatimup/i3S",
+            "email": "Verified email at ipatimup.pt",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=DN5XAqgAAAAJ&citpid=3"
+        },
+        {
+            "name": "Gianluca Demartini",
+            "link": "https://scholar.google.com/citations?user=PCAiILsAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=PCAiILsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "PCAiILsAAAAJ",
+            "affiliations": "Associate Professor at the University of Queensland",
+            "email": "Verified email at cs.berkeley.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=PCAiILsAAAAJ&citpid=6"
+        },
+        {
+            "name": "Luca Quartuccio",
+            "link": "https://scholar.google.com/citations?user=Q_5kqxYAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Q_5kqxYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Q_5kqxYAAAAJ",
+            "affiliations": "Rheumatology Clinic, University of Udine",
+            "email": "Verified email at asuiud.sanita.fvg.it",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Q_5kqxYAAAAJ&citpid=1"
+        },
+        {
+            "name": "Roberto Gerli",
+            "link": "https://scholar.google.com/citations?user=VJbgQiMAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=VJbgQiMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "VJbgQiMAAAAJ",
+            "affiliations": "Professore Ordinario di Reumatologia, Università Perugia",
+            "email": "Verified email at unipg.it",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        }
+    ],
+    "serpapi_pagination": {
+        "next": "https://serpapi.com/search.json?author_id=BF3B4KAAAAAJ&engine=google_scholar_author&hl=en&start=20"
+    }
+}

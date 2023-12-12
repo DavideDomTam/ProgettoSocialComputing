@@ -1,0 +1,56 @@
+{
+    "search_metadata": {
+        "id": "65730e1111c881d7c8d9c5fa",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/c1a1038803b1d866/65730e1111c881d7c8d9c5fa.json",
+        "created_at": "2023-12-08 12:37:37 UTC",
+        "processed_at": "2023-12-08 12:37:37 UTC",
+        "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Luis-Daniel+Ib%C3%A1%C3%B1ez&view_op=search_authors&hl=en",
+        "raw_html_file": "https://serpapi.com/searches/c1a1038803b1d866/65730e1111c881d7c8d9c5fa.html",
+        "total_time_taken": 1.21
+    },
+    "search_parameters": {
+        "engine": "google_scholar_profiles",
+        "mauthors": "Luis-Daniel Ibáñez",
+        "hl": "en"
+    },
+    "profiles": [
+        {
+            "name": "Luis-Daniel Ibáñez",
+            "link": "https://scholar.google.com/citations?hl=en&user=Vf-AkkUAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Vf-AkkUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Vf-AkkUAAAAJ",
+            "affiliations": "University of Southampton",
+            "email": "Verified email at soton.ac.uk",
+            "cited_by": 697,
+            "interests": [
+                {
+                    "title": "Linked Data",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Alinked_data",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:linked_data"
+                },
+                {
+                    "title": "Collaborative Systems",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acollaborative_systems",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:collaborative_systems"
+                },
+                {
+                    "title": "Optimistic Replication",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aoptimistic_replication",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:optimistic_replication"
+                },
+                {
+                    "title": "Provenance Semirings",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aprovenance_semirings",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:provenance_semirings"
+                },
+                {
+                    "title": "Update Exchange",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aupdate_exchange",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:update_exchange"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Vf-AkkUAAAAJ&citpid=3"
+        }
+    ]
+}

@@ -1,13 +1,13 @@
 {
     "search_metadata": {
-        "id": "65689af20a90c790eb0a981c",
+        "id": "65730e015119a620e7f1761e",
         "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/f032c5d75a09f17a/65689af20a90c790eb0a981c.json",
-        "created_at": "2023-11-30 14:23:46 UTC",
-        "processed_at": "2023-11-30 14:23:46 UTC",
+        "json_endpoint": "https://serpapi.com/searches/ab2b8f79bc96d1ab/65730e015119a620e7f1761e.json",
+        "created_at": "2023-12-08 12:37:21 UTC",
+        "processed_at": "2023-12-08 12:37:21 UTC",
         "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Alberto+Tonon&view_op=search_authors&hl=en",
-        "raw_html_file": "https://serpapi.com/searches/f032c5d75a09f17a/65689af20a90c790eb0a981c.html",
-        "total_time_taken": 0.17
+        "raw_html_file": "https://serpapi.com/searches/ab2b8f79bc96d1ab/65730e015119a620e7f1761e.html",
+        "total_time_taken": 1.14
     },
     "search_parameters": {
         "engine": "google_scholar_profiles",
@@ -22,7 +22,7 @@
             "author_id": "zBYcXUMAAAAJ",
             "affiliations": "PhD Student, University of Fribourg",
             "email": "Verified email at exascale.info",
-            "cited_by": 467,
+            "cited_by": 468,
             "interests": [
                 {
                     "title": "Computer Science",

@@ -1,13 +1,13 @@
 {
     "search_metadata": {
-        "id": "656898e6969c08ba6ce86074",
+        "id": "65730da13d6919c519e913bc",
         "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/bf975b5563b59f8b/656898e6969c08ba6ce86074.json",
-        "created_at": "2023-11-30 14:15:02 UTC",
-        "processed_at": "2023-11-30 14:15:02 UTC",
+        "json_endpoint": "https://serpapi.com/searches/e0ee9f9c7265e628/65730da13d6919c519e913bc.json",
+        "created_at": "2023-12-08 12:35:45 UTC",
+        "processed_at": "2023-12-08 12:35:45 UTC",
         "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Giuseppe+Serra&view_op=search_authors&hl=en",
-        "raw_html_file": "https://serpapi.com/searches/bf975b5563b59f8b/656898e6969c08ba6ce86074.html",
-        "total_time_taken": 1.09
+        "raw_html_file": "https://serpapi.com/searches/e0ee9f9c7265e628/65730da13d6919c519e913bc.html",
+        "total_time_taken": 0.36
     },
     "search_parameters": {
         "engine": "google_scholar_profiles",
@@ -22,7 +22,7 @@
             "author_id": "xz1J-xQAAAAJ",
             "affiliations": "Associate Professor of Computer Science, University of Udine",
             "email": "Verified email at uniud.it",
-            "cited_by": 5344,
+            "cited_by": 5348,
             "interests": [
                 {
                     "title": "Machine Learning",
@@ -59,7 +59,7 @@
             "author_id": "vEE1SCMAAAAJ",
             "affiliations": "Consiglio Nazionale delle Ricerche - IBE",
             "email": "Verified email at cnr.it",
-            "cited_by": 445,
+            "cited_by": 446,
             "interests": [
                 {
                     "title": "entomology",

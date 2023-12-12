@@ -1,13 +1,13 @@
 {
     "search_metadata": {
-        "id": "656898e73944b0c9063651dc",
+        "id": "65730da23d6919c5b46e1068",
         "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/3f7e6f81df0b50e7/656898e73944b0c9063651dc.json",
-        "created_at": "2023-11-30 14:15:03 UTC",
-        "processed_at": "2023-11-30 14:15:03 UTC",
+        "json_endpoint": "https://serpapi.com/searches/86dd4328363803b4/65730da23d6919c5b46e1068.json",
+        "created_at": "2023-12-08 12:35:46 UTC",
+        "processed_at": "2023-12-08 12:35:46 UTC",
         "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Shaoyang+Fan&view_op=search_authors&hl=en",
-        "raw_html_file": "https://serpapi.com/searches/3f7e6f81df0b50e7/656898e73944b0c9063651dc.html",
-        "total_time_taken": 0.53
+        "raw_html_file": "https://serpapi.com/searches/86dd4328363803b4/65730da23d6919c5b46e1068.html",
+        "total_time_taken": 1.4
     },
     "search_parameters": {
         "engine": "google_scholar_profiles",

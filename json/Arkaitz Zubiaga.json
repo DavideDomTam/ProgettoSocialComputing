@@ -1,13 +1,13 @@
 {
     "search_metadata": {
-        "id": "65689a69eb690fd40d5caab1",
+        "id": "65730de18b7ed27acfd22947",
         "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/12a0f6a91d75a01c/65689a69eb690fd40d5caab1.json",
-        "created_at": "2023-11-30 14:21:29 UTC",
-        "processed_at": "2023-11-30 14:21:29 UTC",
+        "json_endpoint": "https://serpapi.com/searches/6f2d1604d90b1c13/65730de18b7ed27acfd22947.json",
+        "created_at": "2023-12-08 12:36:49 UTC",
+        "processed_at": "2023-12-08 12:36:49 UTC",
         "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Arkaitz+Zubiaga&view_op=search_authors&hl=en",
-        "raw_html_file": "https://serpapi.com/searches/12a0f6a91d75a01c/65689a69eb690fd40d5caab1.html",
-        "total_time_taken": 0.62
+        "raw_html_file": "https://serpapi.com/searches/6f2d1604d90b1c13/65730de18b7ed27acfd22947.html",
+        "total_time_taken": 0.42
     },
     "search_parameters": {
         "engine": "google_scholar_profiles",
@@ -22,7 +22,7 @@
             "author_id": "IUb-xxMAAAAJ",
             "affiliations": "Queen Mary University of London",
             "email": "Verified email at qmul.ac.uk",
-            "cited_by": 6629,
+            "cited_by": 6664,
             "interests": [
                 {
                     "title": "Social Media Mining",

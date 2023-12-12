@@ -1,13 +1,13 @@
 {
     "search_metadata": {
-        "id": "65689a072fe3021b8f6949b4",
+        "id": "65730dcc9c449d972144fb04",
         "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/108fdd99b0856edf/65689a072fe3021b8f6949b4.json",
-        "created_at": "2023-11-30 14:19:51 UTC",
-        "processed_at": "2023-11-30 14:19:51 UTC",
+        "json_endpoint": "https://serpapi.com/searches/cbaa6ae1ed0a0585/65730dcc9c449d972144fb04.json",
+        "created_at": "2023-12-08 12:36:28 UTC",
+        "processed_at": "2023-12-08 12:36:28 UTC",
         "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Claudio+Carpineto&view_op=search_authors&hl=en",
-        "raw_html_file": "https://serpapi.com/searches/108fdd99b0856edf/65689a072fe3021b8f6949b4.html",
-        "total_time_taken": 1.23
+        "raw_html_file": "https://serpapi.com/searches/cbaa6ae1ed0a0585/65730dcc9c449d972144fb04.html",
+        "total_time_taken": 4.16
     },
     "search_parameters": {
         "engine": "google_scholar_profiles",
@@ -22,7 +22,7 @@
             "author_id": "MnwqYB8AAAAJ",
             "affiliations": "Fondazione Ugo Bordoni",
             "email": "Verified email at fub.it",
-            "cited_by": 5539,
+            "cited_by": 5544,
             "interests": [
                 {
                     "title": "information retrieval",

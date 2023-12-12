@@ -1,0 +1,56 @@
+{
+    "search_metadata": {
+        "id": "65730e1437014c3755854c3d",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/36d168868ae17aff/65730e1437014c3755854c3d.json",
+        "created_at": "2023-12-08 12:37:40 UTC",
+        "processed_at": "2023-12-08 12:37:40 UTC",
+        "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Mattia+Zeni&view_op=search_authors&hl=en",
+        "raw_html_file": "https://serpapi.com/searches/36d168868ae17aff/65730e1437014c3755854c3d.html",
+        "total_time_taken": 0.61
+    },
+    "search_parameters": {
+        "engine": "google_scholar_profiles",
+        "mauthors": "Mattia Zeni",
+        "hl": "en"
+    },
+    "profiles": [
+        {
+            "name": "Mattia Zeni",
+            "link": "https://scholar.google.com/citations?hl=en&user=DL18RZEAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=DL18RZEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "DL18RZEAAAAJ",
+            "affiliations": "Databricks, TomTom, IBM Research, University of Trento, Create-net",
+            "email": "Verified email at databricks.com",
+            "cited_by": 614,
+            "interests": [
+                {
+                    "title": "Big Data",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Abig_data",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:big_data"
+                },
+                {
+                    "title": "AI",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aai",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:ai"
+                },
+                {
+                    "title": "Machine Learning",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amachine_learning",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:machine_learning"
+                },
+                {
+                    "title": "Human-Centered AI",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ahuman_centered_ai",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:human_centered_ai"
+                },
+                {
+                    "title": "Privacy-Aware Machine Learning",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aprivacy_aware_machine_learning",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:privacy_aware_machine_learning"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=DL18RZEAAAAJ&citpid=3"
+        }
+    ]
+}

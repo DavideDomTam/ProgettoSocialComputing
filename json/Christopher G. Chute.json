@@ -1,0 +1,51 @@
+{
+    "search_metadata": {
+        "id": "6572fb48e0ded40b69888391",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/0e7433f2b6324823/6572fb48e0ded40b69888391.json",
+        "created_at": "2023-12-08 11:17:28 UTC",
+        "processed_at": "2023-12-08 11:17:28 UTC",
+        "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Christopher+G.+Chute&view_op=search_authors&hl=en",
+        "raw_html_file": "https://serpapi.com/searches/0e7433f2b6324823/6572fb48e0ded40b69888391.html",
+        "total_time_taken": 1.81
+    },
+    "search_parameters": {
+        "engine": "google_scholar_profiles",
+        "mauthors": "Christopher G. Chute",
+        "hl": "en"
+    },
+    "profiles": [
+        {
+            "name": "Christopher G. Chute",
+            "link": "https://scholar.google.com/citations?hl=en&user=y7sYtpcAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=y7sYtpcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "y7sYtpcAAAAJ",
+            "affiliations": "Bloomberg Distinguished Professor of Health Informatics, Johns Hopkins",
+            "email": "Verified email at jhu.edu",
+            "cited_by": 37716,
+            "interests": [
+                {
+                    "title": "Medical concept representation",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amedical_concept_representation",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:medical_concept_representation"
+                },
+                {
+                    "title": "electronic health records",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aelectronic_health_records",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:electronic_health_records"
+                },
+                {
+                    "title": "Real World Evidence",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Areal_world_evidence",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:real_world_evidence"
+                },
+                {
+                    "title": "observational research",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aobservational_research",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:observational_research"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=y7sYtpcAAAAJ&citpid=9"
+        }
+    ]
+}

@@ -1,13 +1,13 @@
 {
     "search_metadata": {
-        "id": "656898edb5961edafc902cfb",
+        "id": "65730da7c504e979ee08b3bd",
         "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/fd25f1fb532a688c/656898edb5961edafc902cfb.json",
-        "created_at": "2023-11-30 14:15:09 UTC",
-        "processed_at": "2023-11-30 14:15:09 UTC",
+        "json_endpoint": "https://serpapi.com/searches/ebe239accdfee06c/65730da7c504e979ee08b3bd.json",
+        "created_at": "2023-12-08 12:35:51 UTC",
+        "processed_at": "2023-12-08 12:35:51 UTC",
         "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Afshin+Rahimi&view_op=search_authors&hl=en",
-        "raw_html_file": "https://serpapi.com/searches/fd25f1fb532a688c/656898edb5961edafc902cfb.html",
-        "total_time_taken": 1.12
+        "raw_html_file": "https://serpapi.com/searches/ebe239accdfee06c/65730da7c504e979ee08b3bd.html",
+        "total_time_taken": 1.02
     },
     "search_parameters": {
         "engine": "google_scholar_profiles",
@@ -22,7 +22,7 @@
             "author_id": "WhPw2I0AAAAJ",
             "affiliations": "Applied Scientist @ Amazon",
             "email": "Verified email at uq.edu.au",
-            "cited_by": 1295,
+            "cited_by": 1297,
             "interests": [
                 {
                     "title": "Natural Language Processing",
@@ -39,7 +39,7 @@
             "author_id": "6wgDNw4AAAAJ",
             "affiliations": "Associate Professor, University of Windsor",
             "email": "Verified email at uwindsor.ca",
-            "cited_by": 463,
+            "cited_by": 465,
             "interests": [
                 {
                     "title": "Fault Diagnosis and Prognosis",

@@ -1,13 +1,13 @@
 {
     "search_metadata": {
-        "id": "656898ef5c56061b36046713",
+        "id": "65730daac47d3cbf2708e2b2",
         "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/0b598d5d56b979de/656898ef5c56061b36046713.json",
-        "created_at": "2023-11-30 14:15:11 UTC",
-        "processed_at": "2023-11-30 14:15:11 UTC",
+        "json_endpoint": "https://serpapi.com/searches/4dc57e676fa59603/65730daac47d3cbf2708e2b2.json",
+        "created_at": "2023-12-08 12:35:54 UTC",
+        "processed_at": "2023-12-08 12:35:54 UTC",
         "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Tetsuya+Sakai&view_op=search_authors&hl=en",
-        "raw_html_file": "https://serpapi.com/searches/0b598d5d56b979de/656898ef5c56061b36046713.html",
-        "total_time_taken": 0.87
+        "raw_html_file": "https://serpapi.com/searches/4dc57e676fa59603/65730daac47d3cbf2708e2b2.html",
+        "total_time_taken": 0.62
     },
     "search_parameters": {
         "engine": "google_scholar_profiles",
@@ -22,7 +22,7 @@
             "author_id": "vi56gz4AAAAJ",
             "affiliations": "Waseda University",
             "email": "Verified email at waseda.jp",
-            "cited_by": 6629,
+            "cited_by": 6622,
             "interests": [
                 {
                     "title": "information retrieval",

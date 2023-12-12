@@ -1,13 +1,13 @@
 {
     "search_metadata": {
-        "id": "656899fdca968f313eea4221",
+        "id": "65730dc45f22037d4580038f",
         "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/cb9e805e857c6fb0/656899fdca968f313eea4221.json",
-        "created_at": "2023-11-30 14:19:41 UTC",
-        "processed_at": "2023-11-30 14:19:41 UTC",
+        "json_endpoint": "https://serpapi.com/searches/47f6bc2b3724b2fc/65730dc45f22037d4580038f.json",
+        "created_at": "2023-12-08 12:36:20 UTC",
+        "processed_at": "2023-12-08 12:36:20 UTC",
         "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Carlo+Tasso&view_op=search_authors&hl=en",
-        "raw_html_file": "https://serpapi.com/searches/cb9e805e857c6fb0/656899fdca968f313eea4221.html",
-        "total_time_taken": 0.44
+        "raw_html_file": "https://serpapi.com/searches/47f6bc2b3724b2fc/65730dc45f22037d4580038f.html",
+        "total_time_taken": 1.43
     },
     "search_parameters": {
         "engine": "google_scholar_profiles",
@@ -49,7 +49,7 @@
             "author_id": "7Vh_RwgAAAAJ",
             "affiliations": "Registry of College and University Presidents; United States Sports Academy",
             "email": "Verified email at ussa.edu",
-            "cited_by": 185,
+            "cited_by": 186,
             "interests": [
                 {
                     "title": "Continuing Education",
@@ -81,7 +81,7 @@
             "author_id": "0x2tU_UAAAAJ",
             "affiliations": "Estudande de Doutorado, Universidade Federal de São Carlos",
             "email": "Verified email at dm.ufscar.br",
-            "cited_by": 18,
+            "cited_by": 19,
             "interests": [
                 {
                     "title": "geometria diferencial",

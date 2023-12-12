@@ -1,13 +1,13 @@
 {
     "search_metadata": {
-        "id": "656f294b0a90c738ea882189",
+        "id": "65730cfa2236e249e10b9e0c",
         "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/a9563224f1469ac2/656f294b0a90c738ea882189.json",
-        "created_at": "2023-12-05 13:44:43 UTC",
-        "processed_at": "2023-12-05 13:44:43 UTC",
+        "json_endpoint": "https://serpapi.com/searches/1f450c60cf4b78ef/65730cfa2236e249e10b9e0c.json",
+        "created_at": "2023-12-08 12:32:58 UTC",
+        "processed_at": "2023-12-08 12:32:58 UTC",
         "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Kevin+Roitero&view_op=search_authors&hl=en",
-        "raw_html_file": "https://serpapi.com/searches/a9563224f1469ac2/656f294b0a90c738ea882189.html",
-        "total_time_taken": 1.51
+        "raw_html_file": "https://serpapi.com/searches/1f450c60cf4b78ef/65730cfa2236e249e10b9e0c.html",
+        "total_time_taken": 0.55
     },
     "search_parameters": {
         "engine": "google_scholar_profiles",
@@ -22,7 +22,7 @@
             "author_id": "1xd52jMAAAAJ",
             "affiliations": "University of Udine",
             "email": "Verified email at uniud.it",
-            "cited_by": 693,
+            "cited_by": 694,
             "interests": [
                 {
                     "title": "Artificial Intelligence",

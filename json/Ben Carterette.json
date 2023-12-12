@@ -1,0 +1,46 @@
+{
+    "search_metadata": {
+        "id": "65730dbe34ff9529784fc9fd",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/e0510a983ec92b57/65730dbe34ff9529784fc9fd.json",
+        "created_at": "2023-12-08 12:36:14 UTC",
+        "processed_at": "2023-12-08 12:36:14 UTC",
+        "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Ben+Carterette&view_op=search_authors&hl=en",
+        "raw_html_file": "https://serpapi.com/searches/e0510a983ec92b57/65730dbe34ff9529784fc9fd.html",
+        "total_time_taken": 0.21
+    },
+    "search_parameters": {
+        "engine": "google_scholar_profiles",
+        "mauthors": "Ben Carterette",
+        "hl": "en"
+    },
+    "profiles": [
+        {
+            "name": "Ben Carterette",
+            "link": "https://scholar.google.com/citations?hl=en&user=zgHZ-KMAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=zgHZ-KMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "zgHZ-KMAAAAJ",
+            "affiliations": "Spotify",
+            "email": "Verified email at spotify.com",
+            "cited_by": 5785,
+            "interests": [
+                {
+                    "title": "search",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Asearch",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:search"
+                },
+                {
+                    "title": "recommender systems",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Arecommender_systems",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:recommender_systems"
+                },
+                {
+                    "title": "ML",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aml",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:ml"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=zgHZ-KMAAAAJ&citpid=1"
+        }
+    ]
+}

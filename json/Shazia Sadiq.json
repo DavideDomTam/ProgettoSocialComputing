@@ -1,13 +1,13 @@
 {
     "search_metadata": {
-        "id": "65689ae83a218a40ce2a143b",
+        "id": "65730dfb2fe30268002075ba",
         "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/c5bab4c3f93a56cf/65689ae83a218a40ce2a143b.json",
-        "created_at": "2023-11-30 14:23:36 UTC",
-        "processed_at": "2023-11-30 14:23:36 UTC",
+        "json_endpoint": "https://serpapi.com/searches/1f64dfcdf926e130/65730dfb2fe30268002075ba.json",
+        "created_at": "2023-12-08 12:37:15 UTC",
+        "processed_at": "2023-12-08 12:37:15 UTC",
         "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Shazia+Sadiq&view_op=search_authors&hl=en",
-        "raw_html_file": "https://serpapi.com/searches/c5bab4c3f93a56cf/65689ae83a218a40ce2a143b.html",
-        "total_time_taken": 0.65
+        "raw_html_file": "https://serpapi.com/searches/1f64dfcdf926e130/65730dfb2fe30268002075ba.html",
+        "total_time_taken": 0.27
     },
     "search_parameters": {
         "engine": "google_scholar_profiles",
@@ -22,7 +22,7 @@
             "author_id": "1Jo0EmIAAAAJ",
             "affiliations": "The University of Queensland",
             "email": "Verified email at itee.uq.edu.au",
-            "cited_by": 10257,
+            "cited_by": 10270,
             "interests": [
                 {
                     "title": "Data Quality Management",
